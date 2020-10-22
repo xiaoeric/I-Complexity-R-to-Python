@@ -2,6 +2,50 @@ from typing import Dict
 import pandas as pd
 
 
+# TODO
+def read():
+    pass
+
+
+def separate_word_classes(dataset: Dict[str, pd.DataFrame]):
+    # (2.1) Nouns
+    dataset_n = dataset
+    # is i (now called lang) here the word or the language? assuming language for now
+    for lang in dataset_n.keys():
+        print('nouns: ', lang)  # what does collapse mean here?
+        dataset_n[lang] = dataset_n[dataset_n[lang].V3.str.contains('^N[[:punct:]]', regex=True)]
+
+    # (2.1.1) remove empty data frames
+    for lang in dataset_n:
+        if dataset_n[lang].empty:
+            del dataset_n[lang]
+    # what is langs.nouns and where did it come from
+
+    # (2.2) Verbs
+    dataset_v = dataset
+    for lang in dataset_v.keys():
+        print('verbs: ', lang)
+        dataset_v[lang] = dataset_v[dataset_v[lang].V3.str.contains('^V[[:punct:]]', regex=True)]
+
+    # (2.2.1) remove empty data frames
+    for lang in dataset_v:
+        if dataset_v[lang].empty:
+            del dataset_v[lang]
+
+    # (2.3) Adjectives
+    dataset_a = dataset
+    for lang in dataset_a.keys():
+        print('adjectives: ', lang)
+        dataset_a[lang] = dataset_a[dataset_a[lang].V3.str.contains('^ADJ[[:punct:]]', regex=True)]
+
+    # (2.3.1) remove empty data frames
+    for lang in dataset_a:
+        if dataset_a[lang].empty:
+            del dataset_a[lang]
+
+    return dataset_n, dataset_v, dataset_a
+
+
 # dataset is a dictionary of DataFrames
 # consider instead merging all DataFrames and labelling each word with its associated language?
 # all changes done to dataset_n are not reflected in dataset, is this intended?

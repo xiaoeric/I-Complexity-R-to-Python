@@ -1,0 +1,3257 @@
+ferjeese	ferjeese	V;IND;PRS;2;PL
+ferjeese	ferjeese	V;IND;PRS;1;DU
+ferjeese	ferjätjen	V;IND;PST;PFV;1;PL
+ferjeese	häin ferjin	V;IND;PST;RMT;PRF;2;PL
+ferjeese	häist ferjin	V;IND;PST;RMT;PRF;2;SG
+ferjeese	än forjees	V.PTCP;PST
+ferjeese	hääw ferjin	V;IND;PST;PRF;1;SG
+ferjeese	ferjätj	V;IND;PST;PFV;1;SG
+ferjeese	wårde forjeese	V;IND;FUT;LGSPEC1;2;DU
+ferjeese	wårst forjeese	V;IND;FUT;LGSPEC1;2;SG
+ferjeese	ferjätjst	V;IND;PST;PFV;2;SG
+ferjeese	wårde forjeese	V;IND;FUT;LGSPEC1;3;PL
+ferjeese	ferjätjen	V;IND;PST;PFV;2;PL
+ferjeese	häin ferjin	V;IND;PST;RMT;PRF;3;PL
+ferjeese	ferjeet	V;IND;PRS;3;SG
+ferjeese	ferjeet	V;IND;PRS;3;SG
+ferjeese	ferjeet	V;IND;PRS;3;SG
+ferjeese	hääwe ferjin	V;IND;PST;PRF;2;PL
+ferjeese	häin ferjin	V;IND;PST;RMT;PRF;1;DU
+ferjeese	häi ferjin	V;IND;PST;RMT;PRF;3;SG
+ferjeese	häi ferjin	V;IND;PST;RMT;PRF;3;SG
+ferjeese	häi ferjin	V;IND;PST;RMT;PRF;3;SG
+ferjeese	ferjeese	V;IND;PRS;1;PL
+ferjeese	hääwe ferjin	V;IND;PST;PRF;1;DU
+ferjeese	wård forjeese	V;IND;FUT;LGSPEC1;1;SG
+ferjeese	ferjees	V;IMP;PL
+ferjeese	tu forjeesen	V;NFIN
+ferjeese	wårde forjeese	V;IND;FUT;LGSPEC1;2;PL
+ferjeese	wårde forjeese	V;IND;FUT;LGSPEC1;1;DU
+ferjeese	ferjätjen	V;IND;PST;PFV;3;PL
+ferjeese	ferjätj	V;IND;PST;PFV;3;SG
+ferjeese	ferjätj	V;IND;PST;PFV;3;SG
+ferjeese	ferjätj	V;IND;PST;PFV;3;SG
+ferjeese	ferjeest	V;IND;PRS;2;SG
+ferjeese	hääwe ferjin	V;IND;PST;PRF;1;PL
+ferjeese	heet ferjin	V;IND;PST;PRF;3;SG
+ferjeese	heet ferjin	V;IND;PST;PRF;3;SG
+ferjeese	heet ferjin	V;IND;PST;PRF;3;SG
+ferjeese	häin ferjin	V;IND;PST;RMT;PRF;2;DU
+ferjeese	ferjeese	V;IND;PRS;2;DU
+ferjeese	forjeese	V;NFIN
+ferjeese	ferjeese	V;IND;PRS;3;PL
+ferjeese	wårt forjeese	V;IND;FUT;LGSPEC1;3;SG
+ferjeese	wårt forjeese	V;IND;FUT;LGSPEC1;3;SG
+ferjeese	wårt forjeese	V;IND;FUT;LGSPEC1;3;SG
+ferjeese	häi ferjin	V;IND;PST;RMT;PRF;1;SG
+ferjeese	ferjätjen	V;IND;PST;PFV;1;DU
+ferjeese	häin ferjin	V;IND;PST;RMT;PRF;1;PL
+ferjeese	ferjees	V;IND;PRS;1;SG
+ferjeese	ferjin	V;IMP;SG
+ferjeese	hääst ferjin	V;IND;PST;PRF;2;SG
+ferjeese	wårde forjeese	V;IND;FUT;LGSPEC1;1;PL
+ferjeese	hääwe ferjin	V;IND;PST;PRF;3;PL
+ferjeese	hääwe ferjin	V;IND;PST;PRF;2;DU
+ferjeese	ferjätjen	V;IND;PST;PFV;2;DU
+
+ferliise	ferliise	V;IND;PRS;2;PL
+ferliise	ferliise	V;IND;PRS;1;DU
+ferliise	ferlüüsen	V;IND;PST;PFV;1;PL
+ferliise	häin ferlääsen	V;IND;PST;RMT;PRF;2;PL
+ferliise	häist ferlääsen	V;IND;PST;RMT;PRF;2;SG
+ferliise	än ferliis	V.PTCP;PST
+ferliise	hääw ferlääsen	V;IND;PST;PRF;1;SG
+ferliise	ferlüüs	V;IND;PST;PFV;1;SG
+ferliise	wårde ferliise	V;IND;FUT;LGSPEC1;2;DU
+ferliise	wårst ferliise	V;IND;FUT;LGSPEC1;2;SG
+ferliise	ferlüüst	V;IND;PST;PFV;2;SG
+ferliise	wårde ferliise	V;IND;FUT;LGSPEC1;3;PL
+ferliise	ferlüüsen	V;IND;PST;PFV;2;PL
+ferliise	häin ferlääsen	V;IND;PST;RMT;PRF;3;PL
+ferliise	ferlüst	V;IND;PRS;3;SG
+ferliise	ferlüst	V;IND;PRS;3;SG
+ferliise	ferlüst	V;IND;PRS;3;SG
+ferliise	hääwe ferlääsen	V;IND;PST;PRF;2;PL
+ferliise	häin ferlääsen	V;IND;PST;RMT;PRF;1;DU
+ferliise	häi ferlääsen	V;IND;PST;RMT;PRF;3;SG
+ferliise	häi ferlääsen	V;IND;PST;RMT;PRF;3;SG
+ferliise	häi ferlääsen	V;IND;PST;RMT;PRF;3;SG
+ferliise	ferliise	V;IND;PRS;1;PL
+ferliise	hääwe ferlääsen	V;IND;PST;PRF;1;DU
+ferliise	wård ferliise	V;IND;FUT;LGSPEC1;1;SG
+ferliise	ferliis	V;IMP;PL
+ferliise	tu ferliisen	V;NFIN
+ferliise	wårde ferliise	V;IND;FUT;LGSPEC1;2;PL
+ferliise	wårde ferliise	V;IND;FUT;LGSPEC1;1;DU
+ferliise	ferlüüsen	V;IND;PST;PFV;3;PL
+ferliise	ferlüüs	V;IND;PST;PFV;3;SG
+ferliise	ferlüüs	V;IND;PST;PFV;3;SG
+ferliise	ferlüüs	V;IND;PST;PFV;3;SG
+ferliise	ferlüst	V;IND;PRS;2;SG
+ferliise	hääwe ferlääsen	V;IND;PST;PRF;1;PL
+ferliise	heet ferlääsen	V;IND;PST;PRF;3;SG
+ferliise	heet ferlääsen	V;IND;PST;PRF;3;SG
+ferliise	heet ferlääsen	V;IND;PST;PRF;3;SG
+ferliise	häin ferlääsen	V;IND;PST;RMT;PRF;2;DU
+ferliise	ferliise	V;IND;PRS;2;DU
+ferliise	ferliise	V;NFIN
+ferliise	ferliise	V;IND;PRS;3;PL
+ferliise	wårt ferliise	V;IND;FUT;LGSPEC1;3;SG
+ferliise	wårt ferliise	V;IND;FUT;LGSPEC1;3;SG
+ferliise	wårt ferliise	V;IND;FUT;LGSPEC1;3;SG
+ferliise	häi ferlääsen	V;IND;PST;RMT;PRF;1;SG
+ferliise	ferlüüsen	V;IND;PST;PFV;1;DU
+ferliise	häin ferlääsen	V;IND;PST;RMT;PRF;1;PL
+ferliise	ferliise	V;IND;PRS;1;SG
+ferliise	ferlääsen	V;IMP;SG
+ferliise	hääst ferlääsen	V;IND;PST;PRF;2;SG
+ferliise	wårde ferliise	V;IND;FUT;LGSPEC1;1;PL
+ferliise	hääwe ferlääsen	V;IND;PST;PRF;3;PL
+ferliise	hääwe ferlääsen	V;IND;PST;PRF;2;DU
+ferliise	ferlüüsen	V;IND;PST;PFV;2;DU
+
+fine	fine	V;IND;PRS;2;PL
+fine	fine	V;IND;PRS;1;DU
+fine	fünen	V;IND;PST;PFV;1;PL
+fine	häin fünen	V;IND;PST;RMT;PRF;2;PL
+fine	häist fünen	V;IND;PST;RMT;PRF;2;SG
+fine	än fine	V.PTCP;PST
+fine	hääw fünen	V;IND;PST;PRF;1;SG
+fine	fün	V;IND;PST;PFV;1;SG
+fine	wårde fine	V;IND;FUT;LGSPEC1;2;DU
+fine	wårst fine	V;IND;FUT;LGSPEC1;2;SG
+fine	fünst	V;IND;PST;PFV;2;SG
+fine	wårde fine	V;IND;FUT;LGSPEC1;3;PL
+fine	fünen	V;IND;PST;PFV;2;PL
+fine	häin fünen	V;IND;PST;RMT;PRF;3;PL
+fine	fant	V;IND;PRS;3;SG
+fine	fant	V;IND;PRS;3;SG
+fine	fant	V;IND;PRS;3;SG
+fine	hääwe fünen	V;IND;PST;PRF;2;PL
+fine	häin fünen	V;IND;PST;RMT;PRF;1;DU
+fine	häi fünen	V;IND;PST;RMT;PRF;3;SG
+fine	häi fünen	V;IND;PST;RMT;PRF;3;SG
+fine	häi fünen	V;IND;PST;RMT;PRF;3;SG
+fine	fine	V;IND;PRS;1;PL
+fine	hääwe fünen	V;IND;PST;PRF;1;DU
+fine	wård fine	V;IND;FUT;LGSPEC1;1;SG
+fine	fin	V;IMP;PL
+fine	tu finen	V;NFIN
+fine	wårde fine	V;IND;FUT;LGSPEC1;2;PL
+fine	wårde fine	V;IND;FUT;LGSPEC1;1;DU
+fine	fünen	V;IND;PST;PFV;3;PL
+fine	fün	V;IND;PST;PFV;3;SG
+fine	fün	V;IND;PST;PFV;3;SG
+fine	fün	V;IND;PST;PFV;3;SG
+fine	fanst	V;IND;PRS;2;SG
+fine	hääwe fünen	V;IND;PST;PRF;1;PL
+fine	heet fünen	V;IND;PST;PRF;3;SG
+fine	heet fünen	V;IND;PST;PRF;3;SG
+fine	heet fünen	V;IND;PST;PRF;3;SG
+fine	häin fünen	V;IND;PST;RMT;PRF;2;DU
+fine	fine	V;IND;PRS;2;DU
+fine	fine	V;NFIN
+fine	fine	V;IND;PRS;3;PL
+fine	wårt fine	V;IND;FUT;LGSPEC1;3;SG
+fine	wårt fine	V;IND;FUT;LGSPEC1;3;SG
+fine	wårt fine	V;IND;FUT;LGSPEC1;3;SG
+fine	häi fünen	V;IND;PST;RMT;PRF;1;SG
+fine	fünen	V;IND;PST;PFV;1;DU
+fine	häin fünen	V;IND;PST;RMT;PRF;1;PL
+fine	fin	V;IND;PRS;1;SG
+fine	fünen	V;IMP;SG
+fine	hääst fünen	V;IND;PST;PRF;2;SG
+fine	wårde fine	V;IND;FUT;LGSPEC1;1;PL
+fine	hääwe fünen	V;IND;PST;PRF;3;PL
+fine	hääwe fünen	V;IND;PST;PRF;2;DU
+fine	fünen	V;IND;PST;PFV;2;DU
+
+fraage	wel fraage	V;IND;FUT;LGSPEC2;2;PL
+fraage	fraage	V;IND;PRS;2;PL
+fraage	fraage	V;IND;PRS;1;DU
+fraage	fraaget	V;IND;PST;PFV;1;PL
+fraage	hed fraaget	V;IND;PST;RMT;PRF;2;PL
+fraage	hedst fraaget	V;IND;PST;RMT;PRF;2;SG
+fraage	fraaget	V.PTCP;PST
+fraage	haa fraaget	V;IND;PST;PRF;1;SG
+fraage	fraaget	V;IND;PST;PFV;1;SG
+fraage	skel fraage	V;IND;FUT;LGSPEC1;2;DU
+fraage	skääl fraage	V;IND;FUT;LGSPEC1;2;SG
+fraage	wel fraage	V;IND;FUT;LGSPEC2;1;DU
+fraage	fraagest	V;IND;PST;PFV;2;SG
+fraage	skel fraage	V;IND;FUT;LGSPEC1;3;PL
+fraage	fraaget	V;IND;PST;PFV;2;PL
+fraage	hed fraaget	V;IND;PST;RMT;PRF;3;PL
+fraage	fraaget	V;IND;PRS;3;SG
+fraage	fraaget	V;IND;PRS;3;SG
+fraage	fraaget	V;IND;PRS;3;SG
+fraage	haa fraaget	V;IND;PST;PRF;2;PL
+fraage	hed fraaget	V;IND;PST;RMT;PRF;1;DU
+fraage	hed fraaget	V;IND;PST;RMT;PRF;3;SG
+fraage	hed fraaget	V;IND;PST;RMT;PRF;3;SG
+fraage	hed fraaget	V;IND;PST;RMT;PRF;3;SG
+fraage	wel fraage	V;IND;FUT;LGSPEC2;2;DU
+fraage	fraage	V;IND;PRS;1;PL
+fraage	haa fraaget	V;IND;PST;PRF;1;DU
+fraage	skal fraage	V;IND;FUT;LGSPEC1;1;SG
+fraage	fraagi'm	V;IMP;PL
+fraage	tu fraagin	V;NFIN
+fraage	skel fraage	V;IND;FUT;LGSPEC1;2;PL
+fraage	skel fraage	V;IND;FUT;LGSPEC1;1;DU
+fraage	fraaget	V;IND;PST;PFV;3;PL
+fraage	fraaget	V;IND;PST;PFV;3;SG
+fraage	fraaget	V;IND;PST;PFV;3;SG
+fraage	fraaget	V;IND;PST;PFV;3;SG
+fraage	fraagest	V;IND;PRS;2;SG
+fraage	haa fraaget	V;IND;PST;PRF;1;PL
+fraage	hee fraaget	V;IND;PST;PRF;3;SG
+fraage	hee fraaget	V;IND;PST;PRF;3;SG
+fraage	hee fraaget	V;IND;PST;PRF;3;SG
+fraage	hed fraaget	V;IND;PST;RMT;PRF;2;DU
+fraage	wel fraage	V;IND;FUT;LGSPEC2;1;PL
+fraage	wal fraage	V;IND;FUT;LGSPEC2;1;SG
+fraage	fraage	V;IND;PRS;2;DU
+fraage	wal fraage	V;IND;FUT;LGSPEC2;3;SG
+fraage	wal fraage	V;IND;FUT;LGSPEC2;3;SG
+fraage	wal fraage	V;IND;FUT;LGSPEC2;3;SG
+fraage	fraage	V;NFIN
+fraage	fraage	V;IND;PRS;3;PL
+fraage	skal fraage	V;IND;FUT;LGSPEC1;3;SG
+fraage	skal fraage	V;IND;FUT;LGSPEC1;3;SG
+fraage	skal fraage	V;IND;FUT;LGSPEC1;3;SG
+fraage	hed fraaget	V;IND;PST;RMT;PRF;1;SG
+fraage	fraaget	V;IND;PST;PFV;1;DU
+fraage	hed fraaget	V;IND;PST;RMT;PRF;1;PL
+fraage	fraage	V;IND;PRS;1;SG
+fraage	fraage	V;IMP;SG
+fraage	heest fraaget	V;IND;PST;PRF;2;SG
+fraage	skel fraage	V;IND;FUT;LGSPEC1;1;PL
+fraage	wel fraage	V;IND;FUT;LGSPEC2;3;PL
+fraage	wääl fraage	V;IND;FUT;LGSPEC2;2;SG
+fraage	haa fraaget	V;IND;PST;PRF;3;PL
+fraage	haa fraaget	V;IND;PST;PRF;2;DU
+fraage	fraaget	V;IND;PST;PFV;2;DU
+
+frååge	frååge	V;IND;PRS;2;PL
+frååge	frååge	V;IND;PRS;1;DU
+frååge	fråågeden	V;IND;PST;PFV;1;PL
+frååge	häin frååged	V;IND;PST;RMT;PRF;2;PL
+frååge	häist frååged	V;IND;PST;RMT;PRF;2;SG
+frååge	än frååg	V.PTCP;PST
+frååge	hääw frååged	V;IND;PST;PRF;1;SG
+frååge	frååged	V;IND;PST;PFV;1;SG
+frååge	wårde frååge	V;IND;FUT;LGSPEC1;2;DU
+frååge	wårst frååge	V;IND;FUT;LGSPEC1;2;SG
+frååge	fråågedst	V;IND;PST;PFV;2;SG
+frååge	wårde frååge	V;IND;FUT;LGSPEC1;3;PL
+frååge	fråågeden	V;IND;PST;PFV;2;PL
+frååge	häin frååged	V;IND;PST;RMT;PRF;3;PL
+frååge	frååget	V;IND;PRS;3;SG
+frååge	frååget	V;IND;PRS;3;SG
+frååge	frååget	V;IND;PRS;3;SG
+frååge	hääwe frååged	V;IND;PST;PRF;2;PL
+frååge	häin frååged	V;IND;PST;RMT;PRF;1;DU
+frååge	häi frååged	V;IND;PST;RMT;PRF;3;SG
+frååge	häi frååged	V;IND;PST;RMT;PRF;3;SG
+frååge	häi frååged	V;IND;PST;RMT;PRF;3;SG
+frååge	frååge	V;IND;PRS;1;PL
+frååge	hääwe frååged	V;IND;PST;PRF;1;DU
+frååge	wård frååge	V;IND;FUT;LGSPEC1;1;SG
+frååge	frååg	V;IMP;PL
+frååge	tu fråågen	V;NFIN
+frååge	wårde frååge	V;IND;FUT;LGSPEC1;2;PL
+frååge	wårde frååge	V;IND;FUT;LGSPEC1;1;DU
+frååge	fråågeden	V;IND;PST;PFV;3;PL
+frååge	frååged	V;IND;PST;PFV;3;SG
+frååge	frååged	V;IND;PST;PFV;3;SG
+frååge	frååged	V;IND;PST;PFV;3;SG
+frååge	fråågest	V;IND;PRS;2;SG
+frååge	hääwe frååged	V;IND;PST;PRF;1;PL
+frååge	heet frååged	V;IND;PST;PRF;3;SG
+frååge	heet frååged	V;IND;PST;PRF;3;SG
+frååge	heet frååged	V;IND;PST;PRF;3;SG
+frååge	häin frååged	V;IND;PST;RMT;PRF;2;DU
+frååge	frååge	V;IND;PRS;2;DU
+frååge	frååge	V;NFIN
+frååge	frååge	V;IND;PRS;3;PL
+frååge	wårt frååge	V;IND;FUT;LGSPEC1;3;SG
+frååge	wårt frååge	V;IND;FUT;LGSPEC1;3;SG
+frååge	wårt frååge	V;IND;FUT;LGSPEC1;3;SG
+frååge	häi frååged	V;IND;PST;RMT;PRF;1;SG
+frååge	fråågeden	V;IND;PST;PFV;1;DU
+frååge	häin frååged	V;IND;PST;RMT;PRF;1;PL
+frååge	frååg	V;IND;PRS;1;SG
+frååge	frååged	V;IMP;SG
+frååge	hääst frååged	V;IND;PST;PRF;2;SG
+frååge	wårde frååge	V;IND;FUT;LGSPEC1;1;PL
+frååge	hääwe frååged	V;IND;PST;PRF;3;PL
+frååge	hääwe frååged	V;IND;PST;PRF;2;DU
+frååge	fråågeden	V;IND;PST;PFV;2;DU
+
+fu	wel fu	V;IND;FUT;LGSPEC2;2;PL
+fu	fu	V;IND;PRS;2;PL
+fu	fu	V;IND;PRS;1;DU
+fu	fing	V;IND;PST;PFV;1;PL
+fu	hed fingen	V;IND;PST;RMT;PRF;2;PL
+fu	hedst fingen	V;IND;PST;RMT;PRF;2;SG
+fu	fingen	V.PTCP;PST
+fu	haa fingen	V;IND;PST;PRF;1;SG
+fu	fing	V;IND;PST;PFV;1;SG
+fu	skel fu	V;IND;FUT;LGSPEC1;2;DU
+fu	skääl fu	V;IND;FUT;LGSPEC1;2;SG
+fu	wel fu	V;IND;FUT;LGSPEC2;1;DU
+fu	fingst	V;IND;PST;PFV;2;SG
+fu	skel fu	V;IND;FUT;LGSPEC1;3;PL
+fu	fing	V;IND;PST;PFV;2;PL
+fu	hed fingen	V;IND;PST;RMT;PRF;3;PL
+fu	feit	V;IND;PRS;3;SG
+fu	fee	V;IND;PRS;3;SG
+fu	feit	V;IND;PRS;3;SG
+fu	fee	V;IND;PRS;3;SG
+fu	feit	V;IND;PRS;3;SG
+fu	fee	V;IND;PRS;3;SG
+fu	haa fingen	V;IND;PST;PRF;2;PL
+fu	hed fingen	V;IND;PST;RMT;PRF;1;DU
+fu	hed fingen	V;IND;PST;RMT;PRF;3;SG
+fu	hed fingen	V;IND;PST;RMT;PRF;3;SG
+fu	hed fingen	V;IND;PST;RMT;PRF;3;SG
+fu	wel fu	V;IND;FUT;LGSPEC2;2;DU
+fu	fu	V;IND;PRS;1;PL
+fu	haa fingen	V;IND;PST;PRF;1;DU
+fu	skal fu	V;IND;FUT;LGSPEC1;1;SG
+fu	fu'm	V;IMP;PL
+fu	tu fuen	V;NFIN
+fu	skel fu	V;IND;FUT;LGSPEC1;2;PL
+fu	skel fu	V;IND;FUT;LGSPEC1;1;DU
+fu	fing	V;IND;PST;PFV;3;PL
+fu	fing	V;IND;PST;PFV;3;SG
+fu	fing	V;IND;PST;PFV;3;SG
+fu	fing	V;IND;PST;PFV;3;SG
+fu	feist	V;IND;PRS;2;SG
+fu	feest	V;IND;PRS;2;SG
+fu	haa fingen	V;IND;PST;PRF;1;PL
+fu	hee fingen	V;IND;PST;PRF;3;SG
+fu	hee fingen	V;IND;PST;PRF;3;SG
+fu	hee fingen	V;IND;PST;PRF;3;SG
+fu	hed fingen	V;IND;PST;RMT;PRF;2;DU
+fu	wel fu	V;IND;FUT;LGSPEC2;1;PL
+fu	wal fu	V;IND;FUT;LGSPEC2;1;SG
+fu	fu	V;IND;PRS;2;DU
+fu	wal fu	V;IND;FUT;LGSPEC2;3;SG
+fu	wal fu	V;IND;FUT;LGSPEC2;3;SG
+fu	wal fu	V;IND;FUT;LGSPEC2;3;SG
+fu	fu	V;NFIN
+fu	fu	V;IND;PRS;3;PL
+fu	skal fu	V;IND;FUT;LGSPEC1;3;SG
+fu	skal fu	V;IND;FUT;LGSPEC1;3;SG
+fu	skal fu	V;IND;FUT;LGSPEC1;3;SG
+fu	hed fingen	V;IND;PST;RMT;PRF;1;SG
+fu	fing	V;IND;PST;PFV;1;DU
+fu	hed fingen	V;IND;PST;RMT;PRF;1;PL
+fu	fu	V;IND;PRS;1;SG
+fu	fu	V;IMP;SG
+fu	heest fingen	V;IND;PST;PRF;2;SG
+fu	skel fu	V;IND;FUT;LGSPEC1;1;PL
+fu	wel fu	V;IND;FUT;LGSPEC2;3;PL
+fu	wääl fu	V;IND;FUT;LGSPEC2;2;SG
+fu	haa fingen	V;IND;PST;PRF;3;PL
+fu	haa fingen	V;IND;PST;PRF;2;DU
+fu	fing	V;IND;PST;PFV;2;DU
+
+greew	wel greew	V;IND;FUT;LGSPEC2;2;PL
+greew	greew	V;IND;PRS;2;PL
+greew	greew	V;IND;PRS;1;DU
+greew	gruf	V;IND;PST;PFV;1;PL
+greew	hed greewen	V;IND;PST;RMT;PRF;2;PL
+greew	hedst greewen	V;IND;PST;RMT;PRF;2;SG
+greew	greewen	V.PTCP;PST
+greew	haa greewen	V;IND;PST;PRF;1;SG
+greew	gruf	V;IND;PST;PFV;1;SG
+greew	skel greew	V;IND;FUT;LGSPEC1;2;DU
+greew	skääl greew	V;IND;FUT;LGSPEC1;2;SG
+greew	wel greew	V;IND;FUT;LGSPEC2;1;DU
+greew	grufst	V;IND;PST;PFV;2;SG
+greew	skel greew	V;IND;FUT;LGSPEC1;3;PL
+greew	gruf	V;IND;PST;PFV;2;PL
+greew	hed greewen	V;IND;PST;RMT;PRF;3;PL
+greew	greeft	V;IND;PRS;3;SG
+greew	greeft	V;IND;PRS;3;SG
+greew	greeft	V;IND;PRS;3;SG
+greew	haa greewen	V;IND;PST;PRF;2;PL
+greew	hed greewen	V;IND;PST;RMT;PRF;1;DU
+greew	hed greewen	V;IND;PST;RMT;PRF;3;SG
+greew	hed greewen	V;IND;PST;RMT;PRF;3;SG
+greew	hed greewen	V;IND;PST;RMT;PRF;3;SG
+greew	wel greew	V;IND;FUT;LGSPEC2;2;DU
+greew	greew	V;IND;PRS;1;PL
+greew	haa greewen	V;IND;PST;PRF;1;DU
+greew	skal greew	V;IND;FUT;LGSPEC1;1;SG
+greew	greew'em	V;IMP;PL
+greew	tu greewen	V;NFIN
+greew	skel greew	V;IND;FUT;LGSPEC1;2;PL
+greew	skel greew	V;IND;FUT;LGSPEC1;1;DU
+greew	gruf	V;IND;PST;PFV;3;PL
+greew	gruf	V;IND;PST;PFV;3;SG
+greew	gruf	V;IND;PST;PFV;3;SG
+greew	gruf	V;IND;PST;PFV;3;SG
+greew	greefst	V;IND;PRS;2;SG
+greew	haa greewen	V;IND;PST;PRF;1;PL
+greew	hee greewen	V;IND;PST;PRF;3;SG
+greew	hee greewen	V;IND;PST;PRF;3;SG
+greew	hee greewen	V;IND;PST;PRF;3;SG
+greew	hed greewen	V;IND;PST;RMT;PRF;2;DU
+greew	wel greew	V;IND;FUT;LGSPEC2;1;PL
+greew	wal greew	V;IND;FUT;LGSPEC2;1;SG
+greew	greew	V;IND;PRS;2;DU
+greew	wal greew	V;IND;FUT;LGSPEC2;3;SG
+greew	wal greew	V;IND;FUT;LGSPEC2;3;SG
+greew	wal greew	V;IND;FUT;LGSPEC2;3;SG
+greew	greew	V;NFIN
+greew	greew	V;IND;PRS;3;PL
+greew	skal greew	V;IND;FUT;LGSPEC1;3;SG
+greew	skal greew	V;IND;FUT;LGSPEC1;3;SG
+greew	skal greew	V;IND;FUT;LGSPEC1;3;SG
+greew	hed greewen	V;IND;PST;RMT;PRF;1;SG
+greew	gruf	V;IND;PST;PFV;1;DU
+greew	hed greewen	V;IND;PST;RMT;PRF;1;PL
+greew	greew	V;IND;PRS;1;SG
+greew	greew	V;IMP;SG
+greew	heest greewen	V;IND;PST;PRF;2;SG
+greew	skel greew	V;IND;FUT;LGSPEC1;1;PL
+greew	wel greew	V;IND;FUT;LGSPEC2;3;PL
+greew	wääl greew	V;IND;FUT;LGSPEC2;2;SG
+greew	haa greewen	V;IND;PST;PRF;3;PL
+greew	haa greewen	V;IND;PST;PRF;2;DU
+greew	gruf	V;IND;PST;PFV;2;DU
+
+greewe	greewe	V;IND;PRS;2;PL
+greewe	greewe	V;IND;PRS;1;DU
+greewe	gröifen	V;IND;PST;PFV;1;PL
+greewe	häin grääwen	V;IND;PST;RMT;PRF;2;PL
+greewe	häist grääwen	V;IND;PST;RMT;PRF;2;SG
+greewe	än greew	V.PTCP;PST
+greewe	hääw grääwen	V;IND;PST;PRF;1;SG
+greewe	gröif	V;IND;PST;PFV;1;SG
+greewe	wårde greewe	V;IND;FUT;LGSPEC1;2;DU
+greewe	wårst greewe	V;IND;FUT;LGSPEC1;2;SG
+greewe	gröifst	V;IND;PST;PFV;2;SG
+greewe	wårde greewe	V;IND;FUT;LGSPEC1;3;PL
+greewe	gröifen	V;IND;PST;PFV;2;PL
+greewe	häin grääwen	V;IND;PST;RMT;PRF;3;PL
+greewe	greeft	V;IND;PRS;3;SG
+greewe	greeft	V;IND;PRS;3;SG
+greewe	greeft	V;IND;PRS;3;SG
+greewe	hääwe grääwen	V;IND;PST;PRF;2;PL
+greewe	häin grääwen	V;IND;PST;RMT;PRF;1;DU
+greewe	häi grääwen	V;IND;PST;RMT;PRF;3;SG
+greewe	häi grääwen	V;IND;PST;RMT;PRF;3;SG
+greewe	häi grääwen	V;IND;PST;RMT;PRF;3;SG
+greewe	greewe	V;IND;PRS;1;PL
+greewe	hääwe grääwen	V;IND;PST;PRF;1;DU
+greewe	wård greewe	V;IND;FUT;LGSPEC1;1;SG
+greewe	greew	V;IMP;PL
+greewe	tu greewen	V;NFIN
+greewe	wårde greewe	V;IND;FUT;LGSPEC1;2;PL
+greewe	wårde greewe	V;IND;FUT;LGSPEC1;1;DU
+greewe	gröifen	V;IND;PST;PFV;3;PL
+greewe	gröif	V;IND;PST;PFV;3;SG
+greewe	gröif	V;IND;PST;PFV;3;SG
+greewe	gröif	V;IND;PST;PFV;3;SG
+greewe	greefst	V;IND;PRS;2;SG
+greewe	hääwe grääwen	V;IND;PST;PRF;1;PL
+greewe	heet grääwen	V;IND;PST;PRF;3;SG
+greewe	heet grääwen	V;IND;PST;PRF;3;SG
+greewe	heet grääwen	V;IND;PST;PRF;3;SG
+greewe	häin grääwen	V;IND;PST;RMT;PRF;2;DU
+greewe	greewe	V;IND;PRS;2;DU
+greewe	greewe	V;NFIN
+greewe	greewe	V;IND;PRS;3;PL
+greewe	wårt greewe	V;IND;FUT;LGSPEC1;3;SG
+greewe	wårt greewe	V;IND;FUT;LGSPEC1;3;SG
+greewe	wårt greewe	V;IND;FUT;LGSPEC1;3;SG
+greewe	häi grääwen	V;IND;PST;RMT;PRF;1;SG
+greewe	gröifen	V;IND;PST;PFV;1;DU
+greewe	häin grääwen	V;IND;PST;RMT;PRF;1;PL
+greewe	greew	V;IND;PRS;1;SG
+greewe	grääwen	V;IMP;SG
+greewe	hääst grääwen	V;IND;PST;PRF;2;SG
+greewe	wårde greewe	V;IND;FUT;LGSPEC1;1;PL
+greewe	hääwe grääwen	V;IND;PST;PRF;3;PL
+greewe	hääwe grääwen	V;IND;PST;PRF;2;DU
+greewe	gröifen	V;IND;PST;PFV;2;DU
+
+gripe	bååge	V;IND;PRS;2;PL
+gripe	bååge	V;IND;PRS;1;DU
+gripe	griipen	V;IND;PST;PFV;1;PL
+gripe	häin gram	V;IND;PST;RMT;PRF;2;PL
+gripe	häist gram	V;IND;PST;RMT;PRF;2;SG
+gripe	än grip	V.PTCP;PST
+gripe	hääw gram	V;IND;PST;PRF;1;SG
+gripe	griip	V;IND;PST;PFV;1;SG
+gripe	wårde gripe	V;IND;FUT;LGSPEC1;2;DU
+gripe	wårst gripe	V;IND;FUT;LGSPEC1;2;SG
+gripe	griipst	V;IND;PST;PFV;2;SG
+gripe	wårde gripe	V;IND;FUT;LGSPEC1;3;PL
+gripe	griipen	V;IND;PST;PFV;2;PL
+gripe	häin gram	V;IND;PST;RMT;PRF;3;PL
+gripe	grapt	V;IND;PRS;3;SG
+gripe	grapt	V;IND;PRS;3;SG
+gripe	grapt	V;IND;PRS;3;SG
+gripe	hääwe gram	V;IND;PST;PRF;2;PL
+gripe	häin gram	V;IND;PST;RMT;PRF;1;DU
+gripe	häi gram	V;IND;PST;RMT;PRF;3;SG
+gripe	häi gram	V;IND;PST;RMT;PRF;3;SG
+gripe	häi gram	V;IND;PST;RMT;PRF;3;SG
+gripe	bååge	V;IND;PRS;1;PL
+gripe	hääwe gram	V;IND;PST;PRF;1;DU
+gripe	wård gripe	V;IND;FUT;LGSPEC1;1;SG
+gripe	grip	V;IMP;PL
+gripe	tu gripen	V;NFIN
+gripe	wårde gripe	V;IND;FUT;LGSPEC1;2;PL
+gripe	wårde gripe	V;IND;FUT;LGSPEC1;1;DU
+gripe	griipen	V;IND;PST;PFV;3;PL
+gripe	griip	V;IND;PST;PFV;3;SG
+gripe	griip	V;IND;PST;PFV;3;SG
+gripe	griip	V;IND;PST;PFV;3;SG
+gripe	grapst	V;IND;PRS;2;SG
+gripe	hääwe gram	V;IND;PST;PRF;1;PL
+gripe	heet gram	V;IND;PST;PRF;3;SG
+gripe	heet gram	V;IND;PST;PRF;3;SG
+gripe	heet gram	V;IND;PST;PRF;3;SG
+gripe	häin gram	V;IND;PST;RMT;PRF;2;DU
+gripe	bååge	V;IND;PRS;2;DU
+gripe	gripe	V;NFIN
+gripe	bååge	V;IND;PRS;3;PL
+gripe	wårt gripe	V;IND;FUT;LGSPEC1;3;SG
+gripe	wårt gripe	V;IND;FUT;LGSPEC1;3;SG
+gripe	wårt gripe	V;IND;FUT;LGSPEC1;3;SG
+gripe	häi gram	V;IND;PST;RMT;PRF;1;SG
+gripe	griipen	V;IND;PST;PFV;1;DU
+gripe	häin gram	V;IND;PST;RMT;PRF;1;PL
+gripe	grip	V;IND;PRS;1;SG
+gripe	gram	V;IMP;SG
+gripe	hääst gram	V;IND;PST;PRF;2;SG
+gripe	wårde gripe	V;IND;FUT;LGSPEC1;1;PL
+gripe	hääwe gram	V;IND;PST;PRF;3;PL
+gripe	hääwe gram	V;IND;PST;PRF;2;DU
+gripe	griipen	V;IND;PST;PFV;2;DU
+
+gunge	gunge	V;IND;PRS;2;PL
+gunge	gunge	V;IND;PRS;1;DU
+gunge	gängen	V;IND;PST;PFV;1;PL
+gunge	wjarn gängen	V;IND;PST;RMT;PRF;2;PL
+gunge	wjarst gängen	V;IND;PST;RMT;PRF;2;SG
+gunge	än gung	V.PTCP;PST
+gunge	ban gängen	V;IND;PST;PRF;1;SG
+gunge	gäng	V;IND;PST;PFV;1;SG
+gunge	wårde gunge	V;IND;FUT;LGSPEC1;2;DU
+gunge	wårst gunge	V;IND;FUT;LGSPEC1;2;SG
+gunge	gängst	V;IND;PST;PFV;2;SG
+gunge	wårde gunge	V;IND;FUT;LGSPEC1;3;PL
+gunge	gängen	V;IND;PST;PFV;2;PL
+gunge	wjarn gängen	V;IND;PST;RMT;PRF;3;PL
+gunge	gungt	V;IND;PRS;3;SG
+gunge	gungt	V;IND;PRS;3;SG
+gunge	gungt	V;IND;PRS;3;SG
+gunge	san gängen	V;IND;PST;PRF;2;PL
+gunge	wjarn gängen	V;IND;PST;RMT;PRF;1;DU
+gunge	wus gängen	V;IND;PST;RMT;PRF;3;SG
+gunge	wus gängen	V;IND;PST;RMT;PRF;3;SG
+gunge	wus gängen	V;IND;PST;RMT;PRF;3;SG
+gunge	gunge	V;IND;PRS;1;PL
+gunge	san gängen	V;IND;PST;PRF;1;DU
+gunge	wård gunge	V;IND;FUT;LGSPEC1;1;SG
+gunge	gung	V;IMP;PL
+gunge	tu gungen	V;NFIN
+gunge	wårde gunge	V;IND;FUT;LGSPEC1;2;PL
+gunge	wårde gunge	V;IND;FUT;LGSPEC1;1;DU
+gunge	gängen	V;IND;PST;PFV;3;PL
+gunge	gäng	V;IND;PST;PFV;3;SG
+gunge	gäng	V;IND;PST;PFV;3;SG
+gunge	gäng	V;IND;PST;PFV;3;SG
+gunge	gungst	V;IND;PRS;2;SG
+gunge	san gängen	V;IND;PST;PRF;1;PL
+gunge	as gängen	V;IND;PST;PRF;3;SG
+gunge	as gängen	V;IND;PST;PRF;3;SG
+gunge	as gängen	V;IND;PST;PRF;3;SG
+gunge	wjarn gängen	V;IND;PST;RMT;PRF;2;DU
+gunge	gunge	V;IND;PRS;2;DU
+gunge	gunge	V;NFIN
+gunge	gunge	V;IND;PRS;3;PL
+gunge	wårt gunge	V;IND;FUT;LGSPEC1;3;SG
+gunge	wårt gunge	V;IND;FUT;LGSPEC1;3;SG
+gunge	wårt gunge	V;IND;FUT;LGSPEC1;3;SG
+gunge	wus gängen	V;IND;PST;RMT;PRF;1;SG
+gunge	gängen	V;IND;PST;PFV;1;DU
+gunge	wjarn gängen	V;IND;PST;RMT;PRF;1;PL
+gunge	gung	V;IND;PRS;1;SG
+gunge	gängen	V;IMP;SG
+gunge	bast gängen	V;IND;PST;PRF;2;SG
+gunge	wårde gunge	V;IND;FUT;LGSPEC1;1;PL
+gunge	san gängen	V;IND;PST;PRF;3;PL
+gunge	san gängen	V;IND;PST;PRF;2;DU
+gunge	gängen	V;IND;PST;PFV;2;DU
+
+haa	wel haa	V;IND;FUT;LGSPEC2;2;PL
+haa	haa	V;IND;PRS;2;PL
+haa	haa	V;IND;PRS;1;DU
+haa	hed	V;IND;PST;PFV;1;PL
+haa	hed hed	V;IND;PST;RMT;PRF;2;PL
+haa	hedst hed	V;IND;PST;RMT;PRF;2;SG
+haa	hed	V.PTCP;PST
+haa	haa hed	V;IND;PST;PRF;1;SG
+haa	hed	V;IND;PST;PFV;1;SG
+haa	skel haa	V;IND;FUT;LGSPEC1;2;DU
+haa	skääl haa	V;IND;FUT;LGSPEC1;2;SG
+haa	wel haa	V;IND;FUT;LGSPEC2;1;DU
+haa	hed	V;IND;PST;PFV;2;SG
+haa	skel haa	V;IND;FUT;LGSPEC1;3;PL
+haa	hed	V;IND;PST;PFV;2;PL
+haa	hed hed	V;IND;PST;RMT;PRF;3;PL
+haa	hee	V;IND;PRS;3;SG
+haa	hee	V;IND;PRS;3;SG
+haa	hee	V;IND;PRS;3;SG
+haa	haa hed	V;IND;PST;PRF;2;PL
+haa	hed hed	V;IND;PST;RMT;PRF;1;DU
+haa	hed hed	V;IND;PST;RMT;PRF;3;SG
+haa	hed hed	V;IND;PST;RMT;PRF;3;SG
+haa	hed hed	V;IND;PST;RMT;PRF;3;SG
+haa	wel haa	V;IND;FUT;LGSPEC2;2;DU
+haa	haa	V;IND;PRS;1;PL
+haa	haa hed	V;IND;PST;PRF;1;DU
+haa	skal haa	V;IND;FUT;LGSPEC1;1;SG
+haa	haa'm	V;IMP;PL
+haa	tu haaen	V;NFIN
+haa	skel haa	V;IND;FUT;LGSPEC1;2;PL
+haa	skel haa	V;IND;FUT;LGSPEC1;1;DU
+haa	hed	V;IND;PST;PFV;3;PL
+haa	hed	V;IND;PST;PFV;3;SG
+haa	hed	V;IND;PST;PFV;3;SG
+haa	hed	V;IND;PST;PFV;3;SG
+haa	heest	V;IND;PRS;2;SG
+haa	haa hed	V;IND;PST;PRF;1;PL
+haa	hee hed	V;IND;PST;PRF;3;SG
+haa	hee hed	V;IND;PST;PRF;3;SG
+haa	hee hed	V;IND;PST;PRF;3;SG
+haa	hed hed	V;IND;PST;RMT;PRF;2;DU
+haa	wel haa	V;IND;FUT;LGSPEC2;1;PL
+haa	wal haa	V;IND;FUT;LGSPEC2;1;SG
+haa	haa	V;IND;PRS;2;DU
+haa	wal haa	V;IND;FUT;LGSPEC2;3;SG
+haa	wal haa	V;IND;FUT;LGSPEC2;3;SG
+haa	wal haa	V;IND;FUT;LGSPEC2;3;SG
+haa	haa	V;NFIN
+haa	haa	V;IND;PRS;3;PL
+haa	skal haa	V;IND;FUT;LGSPEC1;3;SG
+haa	skal haa	V;IND;FUT;LGSPEC1;3;SG
+haa	skal haa	V;IND;FUT;LGSPEC1;3;SG
+haa	hed hed	V;IND;PST;RMT;PRF;1;SG
+haa	hed	V;IND;PST;PFV;1;DU
+haa	hed hed	V;IND;PST;RMT;PRF;1;PL
+haa	haa	V;IND;PRS;1;SG
+haa	haa	V;IMP;SG
+haa	heest hed	V;IND;PST;PRF;2;SG
+haa	skel haa	V;IND;FUT;LGSPEC1;1;PL
+haa	wel haa	V;IND;FUT;LGSPEC2;3;PL
+haa	wääl haa	V;IND;FUT;LGSPEC2;2;SG
+haa	haa hed	V;IND;PST;PRF;3;PL
+haa	haa hed	V;IND;PST;PRF;2;DU
+haa	hed	V;IND;PST;PFV;2;DU
+
+heelpe	heelpe	V;IND;PRS;2;PL
+heelpe	heelpe	V;IND;PRS;1;DU
+heelpe	hülpen	V;IND;PST;PFV;1;PL
+heelpe	häin hülpen	V;IND;PST;RMT;PRF;2;PL
+heelpe	häist hülpen	V;IND;PST;RMT;PRF;2;SG
+heelpe	än heelp	V.PTCP;PST
+heelpe	hääw hülpen	V;IND;PST;PRF;1;SG
+heelpe	hülp	V;IND;PST;PFV;1;SG
+heelpe	wårde heelpe	V;IND;FUT;LGSPEC1;2;DU
+heelpe	wårst heelpe	V;IND;FUT;LGSPEC1;2;SG
+heelpe	hülpst	V;IND;PST;PFV;2;SG
+heelpe	wårde heelpe	V;IND;FUT;LGSPEC1;3;PL
+heelpe	hülpen	V;IND;PST;PFV;2;PL
+heelpe	häin hülpen	V;IND;PST;RMT;PRF;3;PL
+heelpe	heelpt	V;IND;PRS;3;SG
+heelpe	heelpt	V;IND;PRS;3;SG
+heelpe	heelpt	V;IND;PRS;3;SG
+heelpe	hääwe hülpen	V;IND;PST;PRF;2;PL
+heelpe	häin hülpen	V;IND;PST;RMT;PRF;1;DU
+heelpe	häi hülpen	V;IND;PST;RMT;PRF;3;SG
+heelpe	häi hülpen	V;IND;PST;RMT;PRF;3;SG
+heelpe	häi hülpen	V;IND;PST;RMT;PRF;3;SG
+heelpe	heelpe	V;IND;PRS;1;PL
+heelpe	hääwe hülpen	V;IND;PST;PRF;1;DU
+heelpe	wård heelpe	V;IND;FUT;LGSPEC1;1;SG
+heelpe	heelp	V;IMP;PL
+heelpe	tu heelpen	V;NFIN
+heelpe	wårde heelpe	V;IND;FUT;LGSPEC1;2;PL
+heelpe	wårde heelpe	V;IND;FUT;LGSPEC1;1;DU
+heelpe	hülpen	V;IND;PST;PFV;3;PL
+heelpe	hülp	V;IND;PST;PFV;3;SG
+heelpe	hülp	V;IND;PST;PFV;3;SG
+heelpe	hülp	V;IND;PST;PFV;3;SG
+heelpe	heelpst	V;IND;PRS;2;SG
+heelpe	hääwe hülpen	V;IND;PST;PRF;1;PL
+heelpe	heet hülpen	V;IND;PST;PRF;3;SG
+heelpe	heet hülpen	V;IND;PST;PRF;3;SG
+heelpe	heet hülpen	V;IND;PST;PRF;3;SG
+heelpe	häin hülpen	V;IND;PST;RMT;PRF;2;DU
+heelpe	heelpe	V;IND;PRS;2;DU
+heelpe	heelpe	V;NFIN
+heelpe	heelpe	V;IND;PRS;3;PL
+heelpe	wårt heelpe	V;IND;FUT;LGSPEC1;3;SG
+heelpe	wårt heelpe	V;IND;FUT;LGSPEC1;3;SG
+heelpe	wårt heelpe	V;IND;FUT;LGSPEC1;3;SG
+heelpe	häi hülpen	V;IND;PST;RMT;PRF;1;SG
+heelpe	hülpen	V;IND;PST;PFV;1;DU
+heelpe	häin hülpen	V;IND;PST;RMT;PRF;1;PL
+heelpe	heelp	V;IND;PRS;1;SG
+heelpe	hülpen	V;IMP;SG
+heelpe	hääst hülpen	V;IND;PST;PRF;2;SG
+heelpe	wårde heelpe	V;IND;FUT;LGSPEC1;1;PL
+heelpe	hääwe hülpen	V;IND;PST;PRF;3;PL
+heelpe	hääwe hülpen	V;IND;PST;PRF;2;DU
+heelpe	hülpen	V;IND;PST;PFV;2;DU
+
+heewe	heewe	V;NFIN
+heewe	hääst heet	V;IND;PST;PRF;2;SG
+heewe	hääwe	V;IND;PRS;2;PL
+heewe	hääwe	V;IND;PRS;1;DU
+heewe	heen heet	V;IND;PST;RMT;PRF;1;PL
+heewe	hee heet	V;IND;PST;RMT;PRF;1;SG
+heewe	heen	V;IND;PST;PFV;2;PL
+heewe	wääl heewe	V;IND;FUT;LGSPEC2;2;SG
+heewe	wäät heewe	V;IND;FUT;LGSPEC2;2;SG
+heewe	häin	V;IND;PST;PFV;1;PL
+heewe	heew	V;IMP
+heewe	häin hädj	V;IND;PST;RMT;PRF;2;PL
+heewe	häist hädj	V;IND;PST;RMT;PRF;2;SG
+heewe	än heew	V;NFIN
+heewe	hääw hädj	V;IND;PST;PRF;1;SG
+heewe	hääw heet	V;IND;PST;PRF;2;PL
+heewe	häi	V;IND;PST;PFV;1;SG
+heewe	wårde heewe	V;IND;FUT;2;DU
+heewe	wårst heewe	V;IND;FUT;2;SG
+heewe	win heewe	V;IND;FUT;LGSPEC2;1;PL
+heewe	schin heewe	V;IND;FUT;LGSPEC1;1;PL
+heewe	schal heewe	V;IND;FUT;LGSPEC1;1;SG
+heewe	hee	V;IND;PST;PFV;1;SG
+heewe	häist	V;IND;PST;PFV;2;SG
+heewe	wårde heewe	V;IND;FUT;3;PL
+heewe	häin	V;IND;PST;PFV;2;PL
+heewe	häin hädj	V;IND;PST;RMT;PRF;3;PL
+heewe	hääw heet	V;IND;PST;PRF;1;SG
+heewe	hääw	V;IND;PRS;2;PL
+heewe	heet	V;IND;PRS;3;SG
+heewe	heet	V;IND;PRS;3;SG
+heewe	heet	V;IND;PRS;3;SG
+heewe	hääwe hädj	V;IND;PST;PRF;2;PL
+heewe	häin hädj	V;IND;PST;RMT;PRF;1;DU
+heewe	wal heewe	V;IND;FUT;LGSPEC2;3;SG
+heewe	wal heewe	V;IND;FUT;LGSPEC2;3;SG
+heewe	wal heewe	V;IND;FUT;LGSPEC2;3;SG
+heewe	heen heet	V;IND;PST;RMT;PRF;2;PL
+heewe	heet	V.PTCP;PST
+heewe	hääw heet	V;IND;PST;PRF;1;PL
+heewe	häi hädj	V;IND;PST;RMT;PRF;3;SG
+heewe	häi hädj	V;IND;PST;RMT;PRF;3;SG
+heewe	häi hädj	V;IND;PST;RMT;PRF;3;SG
+heewe	hääwe	V;IND;PRS;1;PL
+heewe	hääwe hädj	V;IND;PST;PRF;1;DU
+heewe	wård heewe	V;IND;FUT;1;SG
+heewe	hääw	V;IND;PRS;1;SG
+heewe	heen	V;IND;PST;PFV;3;PL
+heewe	hääw	V;IMP
+heewe	tu heewen	V;NFIN
+heewe	hee	V;IND;PST;PFV;3;SG
+heewe	hee	V;IND;PST;PFV;3;SG
+heewe	hee	V;IND;PST;PFV;3;SG
+heewe	heest	V;IND;PST;PFV;2;SG
+heewe	wårde heewe	V;IND;FUT;2;PL
+heewe	wårde heewe	V;IND;FUT;1;DU
+heewe	häin	V;IND;PST;PFV;3;PL
+heewe	häi	V;IND;PST;PFV;3;SG
+heewe	häi	V;IND;PST;PFV;3;SG
+heewe	häi	V;IND;PST;PFV;3;SG
+heewe	hääst	V;IND;PRS;2;SG
+heewe	hääw	V;IND;PRS;1;PL
+heewe	schal heewe	V;IND;FUT;LGSPEC1;3;SG
+heewe	schal heewe	V;IND;FUT;LGSPEC1;3;SG
+heewe	schal heewe	V;IND;FUT;LGSPEC1;3;SG
+heewe	hääw heet	V;IND;PST;PRF;3;PL
+heewe	hääwe hädj	V;IND;PST;PRF;1;PL
+heewe	heet hädj	V;IND;PST;PRF;3;SG
+heewe	heet hädj	V;IND;PST;PRF;3;SG
+heewe	heet hädj	V;IND;PST;PRF;3;SG
+heewe	win heewe	V;IND;FUT;LGSPEC2;2;PL
+heewe	heen heet	V;IND;PST;RMT;PRF;3;PL
+heewe	häin hädj	V;IND;PST;RMT;PRF;2;DU
+heewe	hääwe	V;IND;PRS;2;DU
+heewe	schin heewe	V;IND;FUT;LGSPEC1;3;PL
+heewe	heen	V;IND;PST;PFV;1;PL
+heewe	heewe	V;NFIN
+heewe	hääwe	V;IND;PRS;3;PL
+heewe	hääst	V;IND;PRS;2;SG
+heewe	hee heet	V;IND;PST;RMT;PRF;3;SG
+heewe	hee heet	V;IND;PST;RMT;PRF;3;SG
+heewe	hee heet	V;IND;PST;RMT;PRF;3;SG
+heewe	heest heet	V;IND;PST;RMT;PRF;2;SG
+heewe	wårt heewe	V;IND;FUT;3;SG
+heewe	wårt heewe	V;IND;FUT;3;SG
+heewe	wårt heewe	V;IND;FUT;3;SG
+heewe	häi hädj	V;IND;PST;RMT;PRF;1;SG
+heewe	heet	V;IND;PRS;3;SG
+heewe	heet	V;IND;PRS;3;SG
+heewe	heet	V;IND;PRS;3;SG
+heewe	häin	V;IND;PST;PFV;1;DU
+heewe	häin hädj	V;IND;PST;RMT;PRF;1;PL
+heewe	hääw	V;IND;PRS;1;SG
+heewe	hädj	V.PTCP;PST
+heewe	schääl heewe	V;IND;FUT;LGSPEC1;2;SG
+heewe	schäät heewe	V;IND;FUT;LGSPEC1;2;SG
+heewe	heet heet	V;IND;PST;PRF;3;SG
+heewe	heet heet	V;IND;PST;PRF;3;SG
+heewe	heet heet	V;IND;PST;PRF;3;SG
+heewe	hääst hädj	V;IND;PST;PRF;2;SG
+heewe	wårde heewe	V;IND;FUT;1;PL
+heewe	wal heewe	V;IND;FUT;LGSPEC2;1;SG
+heewe	win heewe	V;IND;FUT;LGSPEC2;3;PL
+heewe	hääw	V;IND;PRS;3;PL
+heewe	schin heewe	V;IND;FUT;LGSPEC1;2;PL
+heewe	hääwe hädj	V;IND;PST;PRF;3;PL
+heewe	hääwe hädj	V;IND;PST;PRF;2;DU
+heewe	häin	V;IND;PST;PFV;2;DU
+
+jeewe	jeewe	V;IND;PRS;2;PL
+jeewe	jeewe	V;IND;PRS;1;DU
+jeewe	jäifen	V;IND;PST;PFV;1;PL
+jeewe	häin jääwen	V;IND;PST;RMT;PRF;2;PL
+jeewe	häist jääwen	V;IND;PST;RMT;PRF;2;SG
+jeewe	än jeew	V.PTCP;PST
+jeewe	hääw jääwen	V;IND;PST;PRF;1;SG
+jeewe	jäif	V;IND;PST;PFV;1;SG
+jeewe	wårde jeewe	V;IND;FUT;LGSPEC1;2;DU
+jeewe	wårst jeewe	V;IND;FUT;LGSPEC1;2;SG
+jeewe	jäifst	V;IND;PST;PFV;2;SG
+jeewe	wårde jeewe	V;IND;FUT;LGSPEC1;3;PL
+jeewe	jäifen	V;IND;PST;PFV;2;PL
+jeewe	häin jääwen	V;IND;PST;RMT;PRF;3;PL
+jeewe	jeeft	V;IND;PRS;3;SG
+jeewe	jeeft	V;IND;PRS;3;SG
+jeewe	jeeft	V;IND;PRS;3;SG
+jeewe	hääwe jääwen	V;IND;PST;PRF;2;PL
+jeewe	häin jääwen	V;IND;PST;RMT;PRF;1;DU
+jeewe	häi jääwen	V;IND;PST;RMT;PRF;3;SG
+jeewe	häi jääwen	V;IND;PST;RMT;PRF;3;SG
+jeewe	häi jääwen	V;IND;PST;RMT;PRF;3;SG
+jeewe	jeewe	V;IND;PRS;1;PL
+jeewe	hääwe jääwen	V;IND;PST;PRF;1;DU
+jeewe	wård jeewe	V;IND;FUT;LGSPEC1;1;SG
+jeewe	jeew	V;IMP;PL
+jeewe	tu jeewen	V;NFIN
+jeewe	wårde jeewe	V;IND;FUT;LGSPEC1;2;PL
+jeewe	wårde jeewe	V;IND;FUT;LGSPEC1;1;DU
+jeewe	jäifen	V;IND;PST;PFV;3;PL
+jeewe	jäif	V;IND;PST;PFV;3;SG
+jeewe	jäif	V;IND;PST;PFV;3;SG
+jeewe	jäif	V;IND;PST;PFV;3;SG
+jeewe	jeefst	V;IND;PRS;2;SG
+jeewe	hääwe jääwen	V;IND;PST;PRF;1;PL
+jeewe	heet jääwen	V;IND;PST;PRF;3;SG
+jeewe	heet jääwen	V;IND;PST;PRF;3;SG
+jeewe	heet jääwen	V;IND;PST;PRF;3;SG
+jeewe	häin jääwen	V;IND;PST;RMT;PRF;2;DU
+jeewe	jeewe	V;IND;PRS;2;DU
+jeewe	jeewe	V;NFIN
+jeewe	jeewe	V;IND;PRS;3;PL
+jeewe	wårt jeewe	V;IND;FUT;LGSPEC1;3;SG
+jeewe	wårt jeewe	V;IND;FUT;LGSPEC1;3;SG
+jeewe	wårt jeewe	V;IND;FUT;LGSPEC1;3;SG
+jeewe	häi jääwen	V;IND;PST;RMT;PRF;1;SG
+jeewe	jäifen	V;IND;PST;PFV;1;DU
+jeewe	häin jääwen	V;IND;PST;RMT;PRF;1;PL
+jeewe	jeew	V;IND;PRS;1;SG
+jeewe	jääwen	V;IMP;SG
+jeewe	hääst jääwen	V;IND;PST;PRF;2;SG
+jeewe	wårde jeewe	V;IND;FUT;LGSPEC1;1;PL
+jeewe	hääwe jääwen	V;IND;PST;PRF;3;PL
+jeewe	hääwe jääwen	V;IND;PST;PRF;2;DU
+jeewe	jäifen	V;IND;PST;PFV;2;DU
+
+jiiw	wel jiiw	V;IND;FUT;LGSPEC2;2;PL
+jiiw	jiiw	V;IND;PRS;2;PL
+jiiw	jiiw	V;IND;PRS;1;DU
+jiiw	jeew	V;IND;PST;PFV;1;PL
+jiiw	juf	V;IND;PST;PFV;1;PL
+jiiw	hed jewen	V;IND;PST;RMT;PRF;2;PL
+jiiw	hedst jewen	V;IND;PST;RMT;PRF;2;SG
+jiiw	jewen	V.PTCP;PST
+jiiw	haa jewen	V;IND;PST;PRF;1;SG
+jiiw	jeew	V;IND;PST;PFV;1;SG
+jiiw	juf	V;IND;PST;PFV;1;SG
+jiiw	skel jiiw	V;IND;FUT;LGSPEC1;2;DU
+jiiw	skääl jiiw	V;IND;FUT;LGSPEC1;2;SG
+jiiw	wel jiiw	V;IND;FUT;LGSPEC2;1;DU
+jiiw	jeewst	V;IND;PST;PFV;2;SG
+jiiw	jufst	V;IND;PST;PFV;2;SG
+jiiw	skel jiiw	V;IND;FUT;LGSPEC1;3;PL
+jiiw	jeew	V;IND;PST;PFV;2;PL
+jiiw	juf	V;IND;PST;PFV;2;PL
+jiiw	hed jewen	V;IND;PST;RMT;PRF;3;PL
+jiiw	jaft	V;IND;PRS;3;SG
+jiiw	jaft	V;IND;PRS;3;SG
+jiiw	jaft	V;IND;PRS;3;SG
+jiiw	haa jewen	V;IND;PST;PRF;2;PL
+jiiw	hed jewen	V;IND;PST;RMT;PRF;1;DU
+jiiw	hed jewen	V;IND;PST;RMT;PRF;3;SG
+jiiw	hed jewen	V;IND;PST;RMT;PRF;3;SG
+jiiw	hed jewen	V;IND;PST;RMT;PRF;3;SG
+jiiw	wel jiiw	V;IND;FUT;LGSPEC2;2;DU
+jiiw	jiiw	V;IND;PRS;1;PL
+jiiw	haa jewen	V;IND;PST;PRF;1;DU
+jiiw	skal jiiw	V;IND;FUT;LGSPEC1;1;SG
+jiiw	jiiw'em	V;IMP;PL
+jiiw	tu jiiwen	V;NFIN
+jiiw	skel jiiw	V;IND;FUT;LGSPEC1;2;PL
+jiiw	skel jiiw	V;IND;FUT;LGSPEC1;1;DU
+jiiw	jeew	V;IND;PST;PFV;3;PL
+jiiw	juf	V;IND;PST;PFV;3;PL
+jiiw	jeew	V;IND;PST;PFV;3;SG
+jiiw	juf	V;IND;PST;PFV;3;SG
+jiiw	jeew	V;IND;PST;PFV;3;SG
+jiiw	juf	V;IND;PST;PFV;3;SG
+jiiw	jeew	V;IND;PST;PFV;3;SG
+jiiw	juf	V;IND;PST;PFV;3;SG
+jiiw	jafst	V;IND;PRS;2;SG
+jiiw	haa jewen	V;IND;PST;PRF;1;PL
+jiiw	hee jewen	V;IND;PST;PRF;3;SG
+jiiw	hee jewen	V;IND;PST;PRF;3;SG
+jiiw	hee jewen	V;IND;PST;PRF;3;SG
+jiiw	hed jewen	V;IND;PST;RMT;PRF;2;DU
+jiiw	wel jiiw	V;IND;FUT;LGSPEC2;1;PL
+jiiw	wal jiiw	V;IND;FUT;LGSPEC2;1;SG
+jiiw	jiiw	V;IND;PRS;2;DU
+jiiw	wal jiiw	V;IND;FUT;LGSPEC2;3;SG
+jiiw	wal jiiw	V;IND;FUT;LGSPEC2;3;SG
+jiiw	wal jiiw	V;IND;FUT;LGSPEC2;3;SG
+jiiw	jiiw	V;NFIN
+jiiw	jiiw	V;IND;PRS;3;PL
+jiiw	skal jiiw	V;IND;FUT;LGSPEC1;3;SG
+jiiw	skal jiiw	V;IND;FUT;LGSPEC1;3;SG
+jiiw	skal jiiw	V;IND;FUT;LGSPEC1;3;SG
+jiiw	hed jewen	V;IND;PST;RMT;PRF;1;SG
+jiiw	jeew	V;IND;PST;PFV;1;DU
+jiiw	juf	V;IND;PST;PFV;1;DU
+jiiw	hed jewen	V;IND;PST;RMT;PRF;1;PL
+jiiw	jiiw	V;IND;PRS;1;SG
+jiiw	jiiw	V;IMP;SG
+jiiw	heest jewen	V;IND;PST;PRF;2;SG
+jiiw	skel jiiw	V;IND;FUT;LGSPEC1;1;PL
+jiiw	wel jiiw	V;IND;FUT;LGSPEC2;3;PL
+jiiw	wääl jiiw	V;IND;FUT;LGSPEC2;2;SG
+jiiw	haa jewen	V;IND;PST;PRF;3;PL
+jiiw	haa jewen	V;IND;PST;PRF;2;DU
+jiiw	jeew	V;IND;PST;PFV;2;DU
+jiiw	juf	V;IND;PST;PFV;2;DU
+
+jooge	jooge	V;IND;PRS;2;PL
+jooge	jooge	V;IND;PRS;1;DU
+jooge	luuchen	V;IND;PST;PFV;1;PL
+jooge	häin läägen	V;IND;PST;RMT;PRF;2;PL
+jooge	häist läägen	V;IND;PST;RMT;PRF;2;SG
+jooge	än joog	V.PTCP;PST
+jooge	hääw läägen	V;IND;PST;PRF;1;SG
+jooge	luuch	V;IND;PST;PFV;1;SG
+jooge	wårde jooge	V;IND;FUT;LGSPEC1;2;DU
+jooge	wårst jooge	V;IND;FUT;LGSPEC1;2;SG
+jooge	luuchst	V;IND;PST;PFV;2;SG
+jooge	wårde jooge	V;IND;FUT;LGSPEC1;3;PL
+jooge	luuchen	V;IND;PST;PFV;2;PL
+jooge	häin läägen	V;IND;PST;RMT;PRF;3;PL
+jooge	jucht	V;IND;PRS;3;SG
+jooge	jucht	V;IND;PRS;3;SG
+jooge	jucht	V;IND;PRS;3;SG
+jooge	hääwe läägen	V;IND;PST;PRF;2;PL
+jooge	häin läägen	V;IND;PST;RMT;PRF;1;DU
+jooge	häi läägen	V;IND;PST;RMT;PRF;3;SG
+jooge	häi läägen	V;IND;PST;RMT;PRF;3;SG
+jooge	häi läägen	V;IND;PST;RMT;PRF;3;SG
+jooge	jooge	V;IND;PRS;1;PL
+jooge	hääwe läägen	V;IND;PST;PRF;1;DU
+jooge	wård jooge	V;IND;FUT;LGSPEC1;1;SG
+jooge	joog	V;IMP;PL
+jooge	tu joogen	V;NFIN
+jooge	wårde jooge	V;IND;FUT;LGSPEC1;2;PL
+jooge	wårde jooge	V;IND;FUT;LGSPEC1;1;DU
+jooge	luuchen	V;IND;PST;PFV;3;PL
+jooge	luuch	V;IND;PST;PFV;3;SG
+jooge	luuch	V;IND;PST;PFV;3;SG
+jooge	luuch	V;IND;PST;PFV;3;SG
+jooge	juchst	V;IND;PRS;2;SG
+jooge	hääwe läägen	V;IND;PST;PRF;1;PL
+jooge	heet läägen	V;IND;PST;PRF;3;SG
+jooge	heet läägen	V;IND;PST;PRF;3;SG
+jooge	heet läägen	V;IND;PST;PRF;3;SG
+jooge	häin läägen	V;IND;PST;RMT;PRF;2;DU
+jooge	jooge	V;IND;PRS;2;DU
+jooge	jooge	V;NFIN
+jooge	jooge	V;IND;PRS;3;PL
+jooge	wårt jooge	V;IND;FUT;LGSPEC1;3;SG
+jooge	wårt jooge	V;IND;FUT;LGSPEC1;3;SG
+jooge	wårt jooge	V;IND;FUT;LGSPEC1;3;SG
+jooge	häi läägen	V;IND;PST;RMT;PRF;1;SG
+jooge	luuchen	V;IND;PST;PFV;1;DU
+jooge	häin läägen	V;IND;PST;RMT;PRF;1;PL
+jooge	joog	V;IND;PRS;1;SG
+jooge	läägen	V;IMP;SG
+jooge	hääst läägen	V;IND;PST;PRF;2;SG
+jooge	wårde jooge	V;IND;FUT;LGSPEC1;1;PL
+jooge	hääwe läägen	V;IND;PST;PRF;3;PL
+jooge	hääwe läägen	V;IND;PST;PRF;2;DU
+jooge	luuchen	V;IND;PST;PFV;2;DU
+
+kaame	kaame	V;IND;PRS;2;PL
+kaame	kaame	V;IND;PRS;1;DU
+kaame	kömen	V;IND;PST;PFV;1;PL
+kaame	wjarn kiimen	V;IND;PST;RMT;PRF;2;PL
+kaame	wjarst kiimen	V;IND;PST;RMT;PRF;2;SG
+kaame	än kaam	V.PTCP;PST
+kaame	ban kiimen	V;IND;PST;PRF;1;SG
+kaame	köm	V;IND;PST;PFV;1;SG
+kaame	wårde kaame	V;IND;FUT;LGSPEC1;2;DU
+kaame	wårst kaame	V;IND;FUT;LGSPEC1;2;SG
+kaame	kömst	V;IND;PST;PFV;2;SG
+kaame	wårde kaame	V;IND;FUT;LGSPEC1;3;PL
+kaame	kömen	V;IND;PST;PFV;2;PL
+kaame	wjarn kiimen	V;IND;PST;RMT;PRF;3;PL
+kaame	kamt	V;IND;PRS;3;SG
+kaame	kamt	V;IND;PRS;3;SG
+kaame	kamt	V;IND;PRS;3;SG
+kaame	san kiimen	V;IND;PST;PRF;2;PL
+kaame	wjarn kiimen	V;IND;PST;RMT;PRF;1;DU
+kaame	wus kiimen	V;IND;PST;RMT;PRF;3;SG
+kaame	wus kiimen	V;IND;PST;RMT;PRF;3;SG
+kaame	wus kiimen	V;IND;PST;RMT;PRF;3;SG
+kaame	kaame	V;IND;PRS;1;PL
+kaame	san kiimen	V;IND;PST;PRF;1;DU
+kaame	wård kaame	V;IND;FUT;LGSPEC1;1;SG
+kaame	kaam	V;IMP;PL
+kaame	tu kaamen	V;NFIN
+kaame	wårde kaame	V;IND;FUT;LGSPEC1;2;PL
+kaame	wårde kaame	V;IND;FUT;LGSPEC1;1;DU
+kaame	kömen	V;IND;PST;PFV;3;PL
+kaame	köm	V;IND;PST;PFV;3;SG
+kaame	köm	V;IND;PST;PFV;3;SG
+kaame	köm	V;IND;PST;PFV;3;SG
+kaame	kamst	V;IND;PRS;2;SG
+kaame	san kiimen	V;IND;PST;PRF;1;PL
+kaame	as kiimen	V;IND;PST;PRF;3;SG
+kaame	as kiimen	V;IND;PST;PRF;3;SG
+kaame	as kiimen	V;IND;PST;PRF;3;SG
+kaame	wjarn kiimen	V;IND;PST;RMT;PRF;2;DU
+kaame	kaame	V;IND;PRS;2;DU
+kaame	kaame	V;NFIN
+kaame	kaame	V;IND;PRS;3;PL
+kaame	wårt kaame	V;IND;FUT;LGSPEC1;3;SG
+kaame	wårt kaame	V;IND;FUT;LGSPEC1;3;SG
+kaame	wårt kaame	V;IND;FUT;LGSPEC1;3;SG
+kaame	wus kiimen	V;IND;PST;RMT;PRF;1;SG
+kaame	kömen	V;IND;PST;PFV;1;DU
+kaame	wjarn kiimen	V;IND;PST;RMT;PRF;1;PL
+kaame	kaam	V;IND;PRS;1;SG
+kaame	kiimen	V;IMP;SG
+kaame	bast kiimen	V;IND;PST;PRF;2;SG
+kaame	wårde kaame	V;IND;FUT;LGSPEC1;1;PL
+kaame	san kiimen	V;IND;PST;PRF;3;PL
+kaame	san kiimen	V;IND;PST;PRF;2;DU
+kaame	kömen	V;IND;PST;PFV;2;DU
+
+kem	wel kem	V;IND;FUT;LGSPEC2;2;PL
+kem	kem	V;IND;PRS;2;PL
+kem	kem	V;IND;PRS;1;DU
+kem	kaam	V;IND;PST;PFV;1;PL
+kem	wiar kimen	V;IND;PST;RMT;PRF;2;PL
+kem	wiarst kimen	V;IND;PST;RMT;PRF;2;SG
+kem	kimen	V.PTCP;PST
+kem	san kimen	V;IND;PST;PRF;1;SG
+kem	kaam	V;IND;PST;PFV;1;SG
+kem	skel kem	V;IND;FUT;LGSPEC1;2;DU
+kem	skääl kem	V;IND;FUT;LGSPEC1;2;SG
+kem	wel kem	V;IND;FUT;LGSPEC2;1;DU
+kem	kaamst	V;IND;PST;PFV;2;SG
+kem	skel kem	V;IND;FUT;LGSPEC1;3;PL
+kem	kaam	V;IND;PST;PFV;2;PL
+kem	wiar kimen	V;IND;PST;RMT;PRF;3;PL
+kem	komt	V;IND;PRS;3;SG
+kem	komt	V;IND;PRS;3;SG
+kem	komt	V;IND;PRS;3;SG
+kem	san kimen	V;IND;PST;PRF;2;PL
+kem	wiar kimen	V;IND;PST;RMT;PRF;1;DU
+kem	wiar kimen	V;IND;PST;RMT;PRF;3;SG
+kem	wiar kimen	V;IND;PST;RMT;PRF;3;SG
+kem	wiar kimen	V;IND;PST;RMT;PRF;3;SG
+kem	wel kem	V;IND;FUT;LGSPEC2;2;DU
+kem	kem	V;IND;PRS;1;PL
+kem	san kimen	V;IND;PST;PRF;1;DU
+kem	skal kem	V;IND;FUT;LGSPEC1;1;SG
+kem	kem'em	V;IMP;PL
+kem	tu kemen	V;NFIN
+kem	skel kem	V;IND;FUT;LGSPEC1;2;PL
+kem	skel kem	V;IND;FUT;LGSPEC1;1;DU
+kem	kaam	V;IND;PST;PFV;3;PL
+kem	kaam	V;IND;PST;PFV;3;SG
+kem	kaam	V;IND;PST;PFV;3;SG
+kem	kaam	V;IND;PST;PFV;3;SG
+kem	komst	V;IND;PRS;2;SG
+kem	san kimen	V;IND;PST;PRF;1;PL
+kem	as kimen	V;IND;PST;PRF;3;SG
+kem	as kimen	V;IND;PST;PRF;3;SG
+kem	as kimen	V;IND;PST;PRF;3;SG
+kem	wiar kimen	V;IND;PST;RMT;PRF;2;DU
+kem	wel kem	V;IND;FUT;LGSPEC2;1;PL
+kem	wal kem	V;IND;FUT;LGSPEC2;1;SG
+kem	kem	V;IND;PRS;2;DU
+kem	wal kem	V;IND;FUT;LGSPEC2;3;SG
+kem	wal kem	V;IND;FUT;LGSPEC2;3;SG
+kem	wal kem	V;IND;FUT;LGSPEC2;3;SG
+kem	kem	V;NFIN
+kem	kem	V;IND;PRS;3;PL
+kem	skal kem	V;IND;FUT;LGSPEC1;3;SG
+kem	skal kem	V;IND;FUT;LGSPEC1;3;SG
+kem	skal kem	V;IND;FUT;LGSPEC1;3;SG
+kem	wiar kimen	V;IND;PST;RMT;PRF;1;SG
+kem	kaam	V;IND;PST;PFV;1;DU
+kem	wiar kimen	V;IND;PST;RMT;PRF;1;PL
+kem	kem	V;IND;PRS;1;SG
+kem	kem	V;IMP;SG
+kem	beest kimen	V;IND;PST;PRF;2;SG
+kem	skel kem	V;IND;FUT;LGSPEC1;1;PL
+kem	wel kem	V;IND;FUT;LGSPEC2;3;PL
+kem	wääl kem	V;IND;FUT;LGSPEC2;2;SG
+kem	san kimen	V;IND;PST;PRF;3;PL
+kem	san kimen	V;IND;PST;PRF;2;DU
+kem	kaam	V;IND;PST;PFV;2;DU
+
+koone	koone	V;IND;PRS;2;PL
+koone	koone	V;IND;PRS;1;DU
+koone	köön	V;IND;PST;PFV;1;PL
+koone	häin kööt	V;IND;PST;RMT;PRF;2;PL
+koone	häist kööt	V;IND;PST;RMT;PRF;2;SG
+koone	än koon	V.PTCP;PST
+koone	hääw kööt	V;IND;PST;PRF;1;SG
+koone	köö	V;IND;PST;PFV;1;SG
+koone	wårde koone	V;IND;FUT;LGSPEC1;2;DU
+koone	wårst koone	V;IND;FUT;LGSPEC1;2;SG
+koone	kööst	V;IND;PST;PFV;2;SG
+koone	wårde koone	V;IND;FUT;LGSPEC1;3;PL
+koone	köön	V;IND;PST;PFV;2;PL
+koone	häin kööt	V;IND;PST;RMT;PRF;3;PL
+koone	koon	V;IND;PRS;3;SG
+koone	koon	V;IND;PRS;3;SG
+koone	koon	V;IND;PRS;3;SG
+koone	hääwe kööt	V;IND;PST;PRF;2;PL
+koone	häin kööt	V;IND;PST;RMT;PRF;1;DU
+koone	häi kööt	V;IND;PST;RMT;PRF;3;SG
+koone	häi kööt	V;IND;PST;RMT;PRF;3;SG
+koone	häi kööt	V;IND;PST;RMT;PRF;3;SG
+koone	koone	V;IND;PRS;1;PL
+koone	hääwe kööt	V;IND;PST;PRF;1;DU
+koone	wård koone	V;IND;FUT;LGSPEC1;1;SG
+koone	tu koonen	V;NFIN
+koone	wårde koone	V;IND;FUT;LGSPEC1;2;PL
+koone	wårde koone	V;IND;FUT;LGSPEC1;1;DU
+koone	köön	V;IND;PST;PFV;3;PL
+koone	köö	V;IND;PST;PFV;3;SG
+koone	köö	V;IND;PST;PFV;3;SG
+koone	köö	V;IND;PST;PFV;3;SG
+koone	koonst	V;IND;PRS;2;SG
+koone	hääwe kööt	V;IND;PST;PRF;1;PL
+koone	heet kööt	V;IND;PST;PRF;3;SG
+koone	heet kööt	V;IND;PST;PRF;3;SG
+koone	heet kööt	V;IND;PST;PRF;3;SG
+koone	häin kööt	V;IND;PST;RMT;PRF;2;DU
+koone	koone	V;IND;PRS;2;DU
+koone	koone	V;NFIN
+koone	koone	V;IND;PRS;3;PL
+koone	wårt koone	V;IND;FUT;LGSPEC1;3;SG
+koone	wårt koone	V;IND;FUT;LGSPEC1;3;SG
+koone	wårt koone	V;IND;FUT;LGSPEC1;3;SG
+koone	häi kööt	V;IND;PST;RMT;PRF;1;SG
+koone	köön	V;IND;PST;PFV;1;DU
+koone	häin kööt	V;IND;PST;RMT;PRF;1;PL
+koone	koon	V;IND;PRS;1;SG
+koone	kööt	V;IMP;SG
+koone	hääst kööt	V;IND;PST;PRF;2;SG
+koone	wårde koone	V;IND;FUT;LGSPEC1;1;PL
+koone	hääwe kööt	V;IND;PST;PRF;3;PL
+koone	hääwe kööt	V;IND;PST;PRF;2;DU
+koone	köön	V;IND;PST;PFV;2;DU
+
+lees	wel lees	V;IND;FUT;LGSPEC2;2;PL
+lees	lees	V;IND;PRS;2;PL
+lees	lees	V;IND;PRS;1;DU
+lees	lus	V;IND;PST;PFV;1;PL
+lees	hed leesen	V;IND;PST;RMT;PRF;2;PL
+lees	hedst leesen	V;IND;PST;RMT;PRF;2;SG
+lees	leesen	V.PTCP;PST
+lees	haa leesen	V;IND;PST;PRF;1;SG
+lees	lus	V;IND;PST;PFV;1;SG
+lees	skel lees	V;IND;FUT;LGSPEC1;2;DU
+lees	skääl lees	V;IND;FUT;LGSPEC1;2;SG
+lees	wel lees	V;IND;FUT;LGSPEC2;1;DU
+lees	lust	V;IND;PST;PFV;2;SG
+lees	skel lees	V;IND;FUT;LGSPEC1;3;PL
+lees	lus	V;IND;PST;PFV;2;PL
+lees	hed leesen	V;IND;PST;RMT;PRF;3;PL
+lees	leest	V;IND;PRS;3;SG
+lees	leest	V;IND;PRS;3;SG
+lees	leest	V;IND;PRS;3;SG
+lees	haa leesen	V;IND;PST;PRF;2;PL
+lees	hed leesen	V;IND;PST;RMT;PRF;1;DU
+lees	hed leesen	V;IND;PST;RMT;PRF;3;SG
+lees	hed leesen	V;IND;PST;RMT;PRF;3;SG
+lees	hed leesen	V;IND;PST;RMT;PRF;3;SG
+lees	wel lees	V;IND;FUT;LGSPEC2;2;DU
+lees	lees	V;IND;PRS;1;PL
+lees	haa leesen	V;IND;PST;PRF;1;DU
+lees	skal lees	V;IND;FUT;LGSPEC1;1;SG
+lees	lees'em	V;IMP;PL
+lees	tu leesen	V;NFIN
+lees	skel lees	V;IND;FUT;LGSPEC1;2;PL
+lees	skel lees	V;IND;FUT;LGSPEC1;1;DU
+lees	lus	V;IND;PST;PFV;3;PL
+lees	lus	V;IND;PST;PFV;3;SG
+lees	lus	V;IND;PST;PFV;3;SG
+lees	lus	V;IND;PST;PFV;3;SG
+lees	leest	V;IND;PRS;2;SG
+lees	haa leesen	V;IND;PST;PRF;1;PL
+lees	hee leesen	V;IND;PST;PRF;3;SG
+lees	hee leesen	V;IND;PST;PRF;3;SG
+lees	hee leesen	V;IND;PST;PRF;3;SG
+lees	hed leesen	V;IND;PST;RMT;PRF;2;DU
+lees	wel lees	V;IND;FUT;LGSPEC2;1;PL
+lees	wal lees	V;IND;FUT;LGSPEC2;1;SG
+lees	lees	V;IND;PRS;2;DU
+lees	wal lees	V;IND;FUT;LGSPEC2;3;SG
+lees	wal lees	V;IND;FUT;LGSPEC2;3;SG
+lees	wal lees	V;IND;FUT;LGSPEC2;3;SG
+lees	lees	V;NFIN
+lees	lees	V;IND;PRS;3;PL
+lees	skal lees	V;IND;FUT;LGSPEC1;3;SG
+lees	skal lees	V;IND;FUT;LGSPEC1;3;SG
+lees	skal lees	V;IND;FUT;LGSPEC1;3;SG
+lees	hed leesen	V;IND;PST;RMT;PRF;1;SG
+lees	lus	V;IND;PST;PFV;1;DU
+lees	hed leesen	V;IND;PST;RMT;PRF;1;PL
+lees	lees	V;IND;PRS;1;SG
+lees	lees	V;IMP;SG
+lees	heest leesen	V;IND;PST;PRF;2;SG
+lees	skel lees	V;IND;FUT;LGSPEC1;1;PL
+lees	wel lees	V;IND;FUT;LGSPEC2;3;PL
+lees	wääl lees	V;IND;FUT;LGSPEC2;2;SG
+lees	haa leesen	V;IND;PST;PRF;3;PL
+lees	haa leesen	V;IND;PST;PRF;2;DU
+lees	lus	V;IND;PST;PFV;2;DU
+
+maage	wel maage	V;IND;FUT;LGSPEC2;2;PL
+maage	maage	V;IND;PRS;2;PL
+maage	maage	V;IND;PRS;1;DU
+maage	maaget	V;IND;PST;PFV;1;PL
+maage	hed maaget	V;IND;PST;RMT;PRF;2;PL
+maage	hedst maaget	V;IND;PST;RMT;PRF;2;SG
+maage	maaget	V.PTCP;PST
+maage	haa maaget	V;IND;PST;PRF;1;SG
+maage	maaget	V;IND;PST;PFV;1;SG
+maage	skel maage	V;IND;FUT;LGSPEC1;2;DU
+maage	skääl maage	V;IND;FUT;LGSPEC1;2;SG
+maage	wel maage	V;IND;FUT;LGSPEC2;1;DU
+maage	maagetst	V;IND;PST;PFV;2;SG
+maage	skel maage	V;IND;FUT;LGSPEC1;3;PL
+maage	maaget	V;IND;PST;PFV;2;PL
+maage	hed maaget	V;IND;PST;RMT;PRF;3;PL
+maage	maaget	V;IND;PRS;3;SG
+maage	maaget	V;IND;PRS;3;SG
+maage	maaget	V;IND;PRS;3;SG
+maage	haa maaget	V;IND;PST;PRF;2;PL
+maage	hed maaget	V;IND;PST;RMT;PRF;1;DU
+maage	hed maaget	V;IND;PST;RMT;PRF;3;SG
+maage	hed maaget	V;IND;PST;RMT;PRF;3;SG
+maage	hed maaget	V;IND;PST;RMT;PRF;3;SG
+maage	wel maage	V;IND;FUT;LGSPEC2;2;DU
+maage	maage	V;IND;PRS;1;PL
+maage	haa maaget	V;IND;PST;PRF;1;DU
+maage	skal maage	V;IND;FUT;LGSPEC1;1;SG
+maage	maage'm	V;IMP;PL
+maage	tu maagin	V;NFIN
+maage	skel maage	V;IND;FUT;LGSPEC1;2;PL
+maage	skel maage	V;IND;FUT;LGSPEC1;1;DU
+maage	maaget	V;IND;PST;PFV;3;PL
+maage	maaget	V;IND;PST;PFV;3;SG
+maage	maaget	V;IND;PST;PFV;3;SG
+maage	maaget	V;IND;PST;PFV;3;SG
+maage	maagest	V;IND;PRS;2;SG
+maage	haa maaget	V;IND;PST;PRF;1;PL
+maage	hee maaget	V;IND;PST;PRF;3;SG
+maage	hee maaget	V;IND;PST;PRF;3;SG
+maage	hee maaget	V;IND;PST;PRF;3;SG
+maage	hed maaget	V;IND;PST;RMT;PRF;2;DU
+maage	wel maage	V;IND;FUT;LGSPEC2;1;PL
+maage	wal maage	V;IND;FUT;LGSPEC2;1;SG
+maage	maage	V;IND;PRS;2;DU
+maage	wal maage	V;IND;FUT;LGSPEC2;3;SG
+maage	wal maage	V;IND;FUT;LGSPEC2;3;SG
+maage	wal maage	V;IND;FUT;LGSPEC2;3;SG
+maage	maage	V;NFIN
+maage	maage	V;IND;PRS;3;PL
+maage	skal maage	V;IND;FUT;LGSPEC1;3;SG
+maage	skal maage	V;IND;FUT;LGSPEC1;3;SG
+maage	skal maage	V;IND;FUT;LGSPEC1;3;SG
+maage	hed maaget	V;IND;PST;RMT;PRF;1;SG
+maage	maaget	V;IND;PST;PFV;1;DU
+maage	hed maaget	V;IND;PST;RMT;PRF;1;PL
+maage	maage	V;IND;PRS;1;SG
+maage	maage	V;IMP;SG
+maage	heest maaget	V;IND;PST;PRF;2;SG
+maage	skel maage	V;IND;FUT;LGSPEC1;1;PL
+maage	wel maage	V;IND;FUT;LGSPEC2;3;PL
+maage	wääl maage	V;IND;FUT;LGSPEC2;2;SG
+maage	haa maaget	V;IND;PST;PRF;3;PL
+maage	haa maaget	V;IND;PST;PRF;2;DU
+maage	maaget	V;IND;PST;PFV;2;DU
+
+mååge	mååge	V;IND;PRS;2;PL
+mååge	mååge	V;IND;PRS;1;DU
+mååge	måågeden	V;IND;PST;PFV;1;PL
+mååge	häin mååged	V;IND;PST;RMT;PRF;2;PL
+mååge	häist mååged	V;IND;PST;RMT;PRF;2;SG
+mååge	än mååg	V.PTCP;PST
+mååge	hääw mååged	V;IND;PST;PRF;1;SG
+mååge	mååged	V;IND;PST;PFV;1;SG
+mååge	wårde mååge	V;IND;FUT;LGSPEC1;2;DU
+mååge	wårst mååge	V;IND;FUT;LGSPEC1;2;SG
+mååge	måågedst	V;IND;PST;PFV;2;SG
+mååge	wårde mååge	V;IND;FUT;LGSPEC1;3;PL
+mååge	måågeden	V;IND;PST;PFV;2;PL
+mååge	häin mååged	V;IND;PST;RMT;PRF;3;PL
+mååge	mååget	V;IND;PRS;3;SG
+mååge	mååget	V;IND;PRS;3;SG
+mååge	mååget	V;IND;PRS;3;SG
+mååge	hääwe mååged	V;IND;PST;PRF;2;PL
+mååge	häin mååged	V;IND;PST;RMT;PRF;1;DU
+mååge	häi mååged	V;IND;PST;RMT;PRF;3;SG
+mååge	häi mååged	V;IND;PST;RMT;PRF;3;SG
+mååge	häi mååged	V;IND;PST;RMT;PRF;3;SG
+mååge	mååge	V;IND;PRS;1;PL
+mååge	hääwe mååged	V;IND;PST;PRF;1;DU
+mååge	wård mååge	V;IND;FUT;LGSPEC1;1;SG
+mååge	mååg	V;IMP;PL
+mååge	tu måågen	V;NFIN
+mååge	wårde mååge	V;IND;FUT;LGSPEC1;2;PL
+mååge	wårde mååge	V;IND;FUT;LGSPEC1;1;DU
+mååge	måågeden	V;IND;PST;PFV;3;PL
+mååge	mååged	V;IND;PST;PFV;3;SG
+mååge	mååged	V;IND;PST;PFV;3;SG
+mååge	mååged	V;IND;PST;PFV;3;SG
+mååge	måågest	V;IND;PRS;2;SG
+mååge	hääwe mååged	V;IND;PST;PRF;1;PL
+mååge	heet mååged	V;IND;PST;PRF;3;SG
+mååge	heet mååged	V;IND;PST;PRF;3;SG
+mååge	heet mååged	V;IND;PST;PRF;3;SG
+mååge	häin mååged	V;IND;PST;RMT;PRF;2;DU
+mååge	mååge	V;IND;PRS;2;DU
+mååge	mååge	V;NFIN
+mååge	mååge	V;IND;PRS;3;PL
+mååge	wårt mååge	V;IND;FUT;LGSPEC1;3;SG
+mååge	wårt mååge	V;IND;FUT;LGSPEC1;3;SG
+mååge	wårt mååge	V;IND;FUT;LGSPEC1;3;SG
+mååge	häi mååged	V;IND;PST;RMT;PRF;1;SG
+mååge	måågeden	V;IND;PST;PFV;1;DU
+mååge	häin mååged	V;IND;PST;RMT;PRF;1;PL
+mååge	mååg	V;IND;PRS;1;SG
+mååge	mååged	V;IMP;SG
+mååge	hääst mååged	V;IND;PST;PRF;2;SG
+mååge	wårde mååge	V;IND;FUT;LGSPEC1;1;PL
+mååge	hääwe mååged	V;IND;PST;PRF;3;PL
+mååge	hääwe mååged	V;IND;PST;PRF;2;DU
+mååge	måågeden	V;IND;PST;PFV;2;DU
+
+mötj	mönje	V;IND;PRS;2;PL
+mötj	mönje	V;IND;PRS;1;DU
+mötj	muursten	V;IND;PST;PFV;1;PL
+mötj	häin muurst	V;IND;PST;RMT;PRF;2;PL
+mötj	häist muurst	V;IND;PST;RMT;PRF;2;SG
+mötj	än mötj	V.PTCP;PST
+mötj	hääw muurst	V;IND;PST;PRF;1;SG
+mötj	muurst	V;IND;PST;PFV;1;SG
+mötj	wårde mötj	V;IND;FUT;LGSPEC1;2;DU
+mötj	wårst mötj	V;IND;FUT;LGSPEC1;2;SG
+mötj	muurst	V;IND;PST;PFV;2;SG
+mötj	wårde mötj	V;IND;FUT;LGSPEC1;3;PL
+mötj	muursten	V;IND;PST;PFV;2;PL
+mötj	häin muurst	V;IND;PST;RMT;PRF;3;PL
+mötj	mötj	V;IND;PRS;3;SG
+mötj	mötj	V;IND;PRS;3;SG
+mötj	mötj	V;IND;PRS;3;SG
+mötj	hääwe muurst	V;IND;PST;PRF;2;PL
+mötj	häin muurst	V;IND;PST;RMT;PRF;1;DU
+mötj	häi muurst	V;IND;PST;RMT;PRF;3;SG
+mötj	häi muurst	V;IND;PST;RMT;PRF;3;SG
+mötj	häi muurst	V;IND;PST;RMT;PRF;3;SG
+mötj	mönje	V;IND;PRS;1;PL
+mötj	hääwe muurst	V;IND;PST;PRF;1;DU
+mötj	wård mötj	V;IND;FUT;LGSPEC1;1;SG
+mötj	tu mötjen	V;NFIN
+mötj	wårde mötj	V;IND;FUT;LGSPEC1;2;PL
+mötj	wårde mötj	V;IND;FUT;LGSPEC1;1;DU
+mötj	muursten	V;IND;PST;PFV;3;PL
+mötj	muurst	V;IND;PST;PFV;3;SG
+mötj	muurst	V;IND;PST;PFV;3;SG
+mötj	muurst	V;IND;PST;PFV;3;SG
+mötj	möist	V;IND;PRS;2;SG
+mötj	hääwe muurst	V;IND;PST;PRF;1;PL
+mötj	heet muurst	V;IND;PST;PRF;3;SG
+mötj	heet muurst	V;IND;PST;PRF;3;SG
+mötj	heet muurst	V;IND;PST;PRF;3;SG
+mötj	häin muurst	V;IND;PST;RMT;PRF;2;DU
+mötj	mönje	V;IND;PRS;2;DU
+mötj	mötj	V;NFIN
+mötj	mönje	V;IND;PRS;3;PL
+mötj	wårt mötj	V;IND;FUT;LGSPEC1;3;SG
+mötj	wårt mötj	V;IND;FUT;LGSPEC1;3;SG
+mötj	wårt mötj	V;IND;FUT;LGSPEC1;3;SG
+mötj	häi muurst	V;IND;PST;RMT;PRF;1;SG
+mötj	muursten	V;IND;PST;PFV;1;DU
+mötj	häin muurst	V;IND;PST;RMT;PRF;1;PL
+mötj	mötj	V;IND;PRS;1;SG
+mötj	muurst	V;IMP;SG
+mötj	hääst muurst	V;IND;PST;PRF;2;SG
+mötj	wårde mötj	V;IND;FUT;LGSPEC1;1;PL
+mötj	hääwe muurst	V;IND;PST;PRF;3;PL
+mötj	hääwe muurst	V;IND;PST;PRF;2;DU
+mötj	muursten	V;IND;PST;PFV;2;DU
+
+nem	wel nem	V;IND;FUT;LGSPEC2;2;PL
+nem	nem	V;IND;PRS;2;PL
+nem	nem	V;IND;PRS;1;DU
+nem	naam	V;IND;PST;PFV;1;PL
+nem	hed nimen	V;IND;PST;RMT;PRF;2;PL
+nem	hedst nimen	V;IND;PST;RMT;PRF;2;SG
+nem	nimen	V.PTCP;PST
+nem	haa nimen	V;IND;PST;PRF;1;SG
+nem	naam	V;IND;PST;PFV;1;SG
+nem	skel nem	V;IND;FUT;LGSPEC1;2;DU
+nem	skääl nem	V;IND;FUT;LGSPEC1;2;SG
+nem	wel nem	V;IND;FUT;LGSPEC2;1;DU
+nem	naamst	V;IND;PST;PFV;2;SG
+nem	skel nem	V;IND;FUT;LGSPEC1;3;PL
+nem	naam	V;IND;PST;PFV;2;PL
+nem	hed nimen	V;IND;PST;RMT;PRF;3;PL
+nem	namt	V;IND;PRS;3;SG
+nem	namt	V;IND;PRS;3;SG
+nem	namt	V;IND;PRS;3;SG
+nem	haa nimen	V;IND;PST;PRF;2;PL
+nem	hed nimen	V;IND;PST;RMT;PRF;1;DU
+nem	hed nimen	V;IND;PST;RMT;PRF;3;SG
+nem	hed nimen	V;IND;PST;RMT;PRF;3;SG
+nem	hed nimen	V;IND;PST;RMT;PRF;3;SG
+nem	wel nem	V;IND;FUT;LGSPEC2;2;DU
+nem	nem	V;IND;PRS;1;PL
+nem	haa nimen	V;IND;PST;PRF;1;DU
+nem	skal nem	V;IND;FUT;LGSPEC1;1;SG
+nem	nem'em	V;IMP;PL
+nem	tu nemen	V;NFIN
+nem	skel nem	V;IND;FUT;LGSPEC1;2;PL
+nem	skel nem	V;IND;FUT;LGSPEC1;1;DU
+nem	naam	V;IND;PST;PFV;3;PL
+nem	naam	V;IND;PST;PFV;3;SG
+nem	naam	V;IND;PST;PFV;3;SG
+nem	naam	V;IND;PST;PFV;3;SG
+nem	namst	V;IND;PRS;2;SG
+nem	haa nimen	V;IND;PST;PRF;1;PL
+nem	hee nimen	V;IND;PST;PRF;3;SG
+nem	hee nimen	V;IND;PST;PRF;3;SG
+nem	hee nimen	V;IND;PST;PRF;3;SG
+nem	hed nimen	V;IND;PST;RMT;PRF;2;DU
+nem	wel nem	V;IND;FUT;LGSPEC2;1;PL
+nem	wal nem	V;IND;FUT;LGSPEC2;1;SG
+nem	nem	V;IND;PRS;2;DU
+nem	wal nem	V;IND;FUT;LGSPEC2;3;SG
+nem	wal nem	V;IND;FUT;LGSPEC2;3;SG
+nem	wal nem	V;IND;FUT;LGSPEC2;3;SG
+nem	nem	V;NFIN
+nem	nem	V;IND;PRS;3;PL
+nem	skal nem	V;IND;FUT;LGSPEC1;3;SG
+nem	skal nem	V;IND;FUT;LGSPEC1;3;SG
+nem	skal nem	V;IND;FUT;LGSPEC1;3;SG
+nem	hed nimen	V;IND;PST;RMT;PRF;1;SG
+nem	naam	V;IND;PST;PFV;1;DU
+nem	hed nimen	V;IND;PST;RMT;PRF;1;PL
+nem	nem	V;IND;PRS;1;SG
+nem	nem	V;IMP;SG
+nem	heest nimen	V;IND;PST;PRF;2;SG
+nem	skel nem	V;IND;FUT;LGSPEC1;1;PL
+nem	wel nem	V;IND;FUT;LGSPEC2;3;PL
+nem	wääl nem	V;IND;FUT;LGSPEC2;2;SG
+nem	haa nimen	V;IND;PST;PRF;3;PL
+nem	haa nimen	V;IND;PST;PRF;2;DU
+nem	naam	V;IND;PST;PFV;2;DU
+
+pluuge	wel pluuge	V;IND;FUT;LGSPEC2;2;PL
+pluuge	pluug	V;IND;PRS;2;PL
+pluuge	pluug	V;IND;PRS;1;DU
+pluuge	pluuget	V;IND;PST;PFV;1;PL
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;2;PL
+pluuge	hedst pluuget	V;IND;PST;RMT;PRF;2;SG
+pluuge	pluuget	V.PTCP;PST
+pluuge	haa pluuget	V;IND;PST;PRF;1;SG
+pluuge	pluuget	V;IND;PST;PFV;1;SG
+pluuge	skel pluuge	V;IND;FUT;LGSPEC1;2;DU
+pluuge	skääl pluuge	V;IND;FUT;LGSPEC1;2;SG
+pluuge	wel pluuge	V;IND;FUT;LGSPEC2;1;DU
+pluuge	pluugest	V;IND;PST;PFV;2;SG
+pluuge	skel pluuge	V;IND;FUT;LGSPEC1;3;PL
+pluuge	pluuget	V;IND;PST;PFV;2;PL
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;3;PL
+pluuge	pluuget	V;IND;PRS;3;SG
+pluuge	pluuget	V;IND;PRS;3;SG
+pluuge	pluuget	V;IND;PRS;3;SG
+pluuge	haa pluuget	V;IND;PST;PRF;2;PL
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;1;DU
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;3;SG
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;3;SG
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;3;SG
+pluuge	wel pluuge	V;IND;FUT;LGSPEC2;2;DU
+pluuge	pluug	V;IND;PRS;1;PL
+pluuge	haa pluuget	V;IND;PST;PRF;1;DU
+pluuge	skal pluuge	V;IND;FUT;LGSPEC1;1;SG
+pluuge	pluugi'm	V;IMP;PL
+pluuge	tu pluugin	V;NFIN
+pluuge	skel pluuge	V;IND;FUT;LGSPEC1;2;PL
+pluuge	skel pluuge	V;IND;FUT;LGSPEC1;1;DU
+pluuge	pluuget	V;IND;PST;PFV;3;PL
+pluuge	pluuget	V;IND;PST;PFV;3;SG
+pluuge	pluuget	V;IND;PST;PFV;3;SG
+pluuge	pluuget	V;IND;PST;PFV;3;SG
+pluuge	pluugest	V;IND;PRS;2;SG
+pluuge	haa pluuget	V;IND;PST;PRF;1;PL
+pluuge	hee pluuget	V;IND;PST;PRF;3;SG
+pluuge	hee pluuget	V;IND;PST;PRF;3;SG
+pluuge	hee pluuget	V;IND;PST;PRF;3;SG
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;2;DU
+pluuge	wel pluuge	V;IND;FUT;LGSPEC2;1;PL
+pluuge	wal pluuge	V;IND;FUT;LGSPEC2;1;SG
+pluuge	pluug	V;IND;PRS;2;DU
+pluuge	wal pluuge	V;IND;FUT;LGSPEC2;3;SG
+pluuge	wal pluuge	V;IND;FUT;LGSPEC2;3;SG
+pluuge	wal pluuge	V;IND;FUT;LGSPEC2;3;SG
+pluuge	pluuge	V;NFIN
+pluuge	pluug	V;IND;PRS;3;PL
+pluuge	skal pluuge	V;IND;FUT;LGSPEC1;3;SG
+pluuge	skal pluuge	V;IND;FUT;LGSPEC1;3;SG
+pluuge	skal pluuge	V;IND;FUT;LGSPEC1;3;SG
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;1;SG
+pluuge	pluuget	V;IND;PST;PFV;1;DU
+pluuge	hed pluuget	V;IND;PST;RMT;PRF;1;PL
+pluuge	pluuge	V;IND;PRS;1;SG
+pluuge	pluuge	V;IMP;SG
+pluuge	heest pluuget	V;IND;PST;PRF;2;SG
+pluuge	skel pluuge	V;IND;FUT;LGSPEC1;1;PL
+pluuge	wel pluuge	V;IND;FUT;LGSPEC2;3;PL
+pluuge	wääl pluuge	V;IND;FUT;LGSPEC2;2;SG
+pluuge	haa pluuget	V;IND;PST;PRF;3;PL
+pluuge	haa pluuget	V;IND;PST;PRF;2;DU
+pluuge	pluuget	V;IND;PST;PFV;2;DU
+
+röp	skel röp	V;IND;FUT;LGSPEC1;2;PL
+röp	wel röp	V;IND;FUT;LGSPEC2;3;DU
+röp	röp	V;IND;PRS;2;PL
+röp	röp	V;IND;PRS;2;DU
+röp	rööp	V;IND;PST;PFV;1;PL
+röp	her rööpen	V;IND;PST;PFV;1;PL
+röp	herst rööpen	V;IND;PST;PFV;2;SG
+röp	rööpen	V.PTCP;PST
+röp	haa rööpen	V;IND;PRS;1;SG
+röp	rööpst	V;IND;PST;PFV;2;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;1;DU
+röp	skel röp	V;IND;FUT;LGSPEC1;1;SG
+röp	röp	V;IND;PRS;1;SG
+röp	wel röp	V;IND;FUT;LGSPEC2;3;SG
+röp	wel röp	V;IND;FUT;LGSPEC2;3;SG
+röp	wel röp	V;IND;FUT;LGSPEC2;3;SG
+röp	wel röp	V;IND;FUT;LGSPEC2;2;PL
+röp	rööp	V;IND;PST;PFV;3;SG
+röp	rööp	V;IND;PST;PFV;3;SG
+röp	rööp	V;IND;PST;PFV;3;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;1;PL
+röp	rööp	V;IND;PST;PFV;2;PL
+röp	her rööpen	V;IND;PST;PFV;2;PL
+röp	röp	V;IND;PRS;1;DU
+röp	haa rööpen	V;IND;PRS;1;PL
+röp	her rööpen	V;IND;PST;PFV;1;DU
+röp	her rööpen	V;IND;PST;PFV;3;PL
+röp	her rööpen	V;IND;PST;PFV;3;SG
+röp	her rööpen	V;IND;PST;PFV;3;SG
+röp	her rööpen	V;IND;PST;PFV;3;SG
+röp	wel röp	V;IND;FUT;LGSPEC2;1;DU
+röp	röp	V;IND;PRS;1;PL
+röp	haa rööpen	V;IND;PRS;1;DU
+röp	tö röpen	V;NFIN
+röp	wel röp	V;IND;FUT;LGSPEC2;3;PL
+röp	skel röp	V;IND;FUT;LGSPEC1;3;DU
+röp	skel röp	V;IND;FUT;LGSPEC1;3;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;3;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;3;SG
+röp	rööp	V;IND;PST;PFV;3;PL
+röp	rööp	V;IND;PST;PFV;1;DU
+röp	reept	V;IND;PRS;3;SG
+röp	reept	V;IND;PRS;3;SG
+röp	reept	V;IND;PRS;3;SG
+röp	haa rööpen	V;IND;PRS;3;DU
+röp	heer rööpen	V;IND;PRS;3;SG
+röp	heer rööpen	V;IND;PRS;3;SG
+röp	heer rööpen	V;IND;PRS;3;SG
+röp	her rööpen	V;IND;PST;PFV;2;DU
+röp	wel röp	V;IND;FUT;LGSPEC2;2;DU
+röp	röp	V;IND;PRS;3;DU
+röp	haa rööpen	V;IND;PRS;3;PL
+röp	wet röp	V;IND;FUT;LGSPEC2;2;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;3;PL
+röp	röp	V;NFIN
+röp	röp	V;IND;PRS;3;PL
+röp	sket röp	V;IND;FUT;LGSPEC1;2;SG
+röp	her rööpen	V;IND;PST;PFV;1;SG
+röp	rööp	V;IND;PST;PFV;2;DU
+röp	her rööpen	V;IND;PST;PFV;3;DU
+röp	reepst	V;IND;PRS;2;SG
+röp	röp	V;IMP
+röp	heest rööpen	V;IND;PRS;2;SG
+röp	skel röp	V;IND;FUT;LGSPEC1;2;DU
+röp	wel röp	V;IND;FUT;LGSPEC2;1;PL
+röp	wel röp	V;IND;FUT;LGSPEC2;1;SG
+röp	haa rööpen	V;IND;PRS;2;PL
+röp	haa rööpen	V;IND;PRS;2;DU
+röp	rööp	V;IND;PST;PFV;1;SG
+röp	rööp	V;IND;PST;PFV;3;DU
+
+skriiw	wel skriiw	V;IND;FUT;LGSPEC2;2;PL
+skriiw	skriiw	V;IND;PRS;2;PL
+skriiw	skriiw	V;IND;PRS;1;DU
+skriiw	skreew	V;IND;PST;PFV;1;PL
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;2;PL
+skriiw	hedst skrewen	V;IND;PST;RMT;PRF;2;SG
+skriiw	skrewen	V.PTCP;PST
+skriiw	haa skrewen	V;IND;PST;PRF;1;SG
+skriiw	skreew	V;IND;PST;PFV;1;SG
+skriiw	skel skriiw	V;IND;FUT;LGSPEC1;2;DU
+skriiw	skääl skriiw	V;IND;FUT;LGSPEC1;2;SG
+skriiw	wel skriiw	V;IND;FUT;LGSPEC2;1;DU
+skriiw	skreewst	V;IND;PST;PFV;2;SG
+skriiw	skel skriiw	V;IND;FUT;LGSPEC1;3;PL
+skriiw	skreew	V;IND;PST;PFV;2;PL
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;3;PL
+skriiw	skraft	V;IND;PRS;3;SG
+skriiw	skraft	V;IND;PRS;3;SG
+skriiw	skraft	V;IND;PRS;3;SG
+skriiw	haa skrewen	V;IND;PST;PRF;2;PL
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;1;DU
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;3;SG
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;3;SG
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;3;SG
+skriiw	wel skriiw	V;IND;FUT;LGSPEC2;2;DU
+skriiw	skriiw	V;IND;PRS;1;PL
+skriiw	haa skrewen	V;IND;PST;PRF;1;DU
+skriiw	skal skriiw	V;IND;FUT;LGSPEC1;1;SG
+skriiw	skriiw'em	V;IMP;PL
+skriiw	tu skriiwen	V;NFIN
+skriiw	skel skriiw	V;IND;FUT;LGSPEC1;2;PL
+skriiw	skel skriiw	V;IND;FUT;LGSPEC1;1;DU
+skriiw	skreew	V;IND;PST;PFV;3;PL
+skriiw	skreew	V;IND;PST;PFV;3;SG
+skriiw	skreew	V;IND;PST;PFV;3;SG
+skriiw	skreew	V;IND;PST;PFV;3;SG
+skriiw	skrafst	V;IND;PRS;2;SG
+skriiw	haa skrewen	V;IND;PST;PRF;1;PL
+skriiw	hee skrewen	V;IND;PST;PRF;3;SG
+skriiw	hee skrewen	V;IND;PST;PRF;3;SG
+skriiw	hee skrewen	V;IND;PST;PRF;3;SG
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;2;DU
+skriiw	wel skriiw	V;IND;FUT;LGSPEC2;1;PL
+skriiw	wal skriiw	V;IND;FUT;LGSPEC2;1;SG
+skriiw	skriiw	V;IND;PRS;2;DU
+skriiw	wal skriiw	V;IND;FUT;LGSPEC2;3;SG
+skriiw	wal skriiw	V;IND;FUT;LGSPEC2;3;SG
+skriiw	wal skriiw	V;IND;FUT;LGSPEC2;3;SG
+skriiw	skriiw	V;NFIN
+skriiw	skriiw	V;IND;PRS;3;PL
+skriiw	skal skriiw	V;IND;FUT;LGSPEC1;3;SG
+skriiw	skal skriiw	V;IND;FUT;LGSPEC1;3;SG
+skriiw	skal skriiw	V;IND;FUT;LGSPEC1;3;SG
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;1;SG
+skriiw	skreew	V;IND;PST;PFV;1;DU
+skriiw	hed skrewen	V;IND;PST;RMT;PRF;1;PL
+skriiw	skriiw	V;IND;PRS;1;SG
+skriiw	skriiw	V;IMP;SG
+skriiw	heest skrewen	V;IND;PST;PRF;2;SG
+skriiw	skel skriiw	V;IND;FUT;LGSPEC1;1;PL
+skriiw	wel skriiw	V;IND;FUT;LGSPEC2;3;PL
+skriiw	wääl skriiw	V;IND;FUT;LGSPEC2;2;SG
+skriiw	haa skrewen	V;IND;PST;PRF;3;PL
+skriiw	haa skrewen	V;IND;PST;PRF;2;DU
+skriiw	skreew	V;IND;PST;PFV;2;DU
+
+spreege	spreege	V;IND;PRS;2;PL
+spreege	spreege	V;IND;PRS;1;DU
+spreege	spräken	V;IND;PST;PFV;1;PL
+spreege	häin spräägen	V;IND;PST;RMT;PRF;2;PL
+spreege	häist spräägen	V;IND;PST;RMT;PRF;2;SG
+spreege	än spreeg	V.PTCP;PST
+spreege	hääw spräägen	V;IND;PST;PRF;1;SG
+spreege	spräk	V;IND;PST;PFV;1;SG
+spreege	wårde spreege	V;IND;FUT;LGSPEC1;2;DU
+spreege	wårst spreege	V;IND;FUT;LGSPEC1;2;SG
+spreege	spräkst	V;IND;PST;PFV;2;SG
+spreege	wårde spreege	V;IND;FUT;LGSPEC1;3;PL
+spreege	spräken	V;IND;PST;PFV;2;PL
+spreege	häin spräägen	V;IND;PST;RMT;PRF;3;PL
+spreege	spreecht	V;IND;PRS;3;SG
+spreege	spreecht	V;IND;PRS;3;SG
+spreege	spreecht	V;IND;PRS;3;SG
+spreege	hääwe spräägen	V;IND;PST;PRF;2;PL
+spreege	häin spräägen	V;IND;PST;RMT;PRF;1;DU
+spreege	häi spräägen	V;IND;PST;RMT;PRF;3;SG
+spreege	häi spräägen	V;IND;PST;RMT;PRF;3;SG
+spreege	häi spräägen	V;IND;PST;RMT;PRF;3;SG
+spreege	spreege	V;IND;PRS;1;PL
+spreege	hääwe spräägen	V;IND;PST;PRF;1;DU
+spreege	wård spreege	V;IND;FUT;LGSPEC1;1;SG
+spreege	spreeg	V;IMP;PL
+spreege	tu spreegen	V;NFIN
+spreege	wårde spreege	V;IND;FUT;LGSPEC1;2;PL
+spreege	wårde spreege	V;IND;FUT;LGSPEC1;1;DU
+spreege	spräken	V;IND;PST;PFV;3;PL
+spreege	spräk	V;IND;PST;PFV;3;SG
+spreege	spräk	V;IND;PST;PFV;3;SG
+spreege	spräk	V;IND;PST;PFV;3;SG
+spreege	spreechst	V;IND;PRS;2;SG
+spreege	hääwe spräägen	V;IND;PST;PRF;1;PL
+spreege	heet spräägen	V;IND;PST;PRF;3;SG
+spreege	heet spräägen	V;IND;PST;PRF;3;SG
+spreege	heet spräägen	V;IND;PST;PRF;3;SG
+spreege	häin spräägen	V;IND;PST;RMT;PRF;2;DU
+spreege	spreege	V;IND;PRS;2;DU
+spreege	spreege	V;NFIN
+spreege	spreege	V;IND;PRS;3;PL
+spreege	wårt spreege	V;IND;FUT;LGSPEC1;3;SG
+spreege	wårt spreege	V;IND;FUT;LGSPEC1;3;SG
+spreege	wårt spreege	V;IND;FUT;LGSPEC1;3;SG
+spreege	häi spräägen	V;IND;PST;RMT;PRF;1;SG
+spreege	spräken	V;IND;PST;PFV;1;DU
+spreege	häin spräägen	V;IND;PST;RMT;PRF;1;PL
+spreege	spreeg	V;IND;PRS;1;SG
+spreege	spräägen	V;IMP;SG
+spreege	hääst spräägen	V;IND;PST;PRF;2;SG
+spreege	wårde spreege	V;IND;FUT;LGSPEC1;1;PL
+spreege	hääwe spräägen	V;IND;PST;PRF;3;PL
+spreege	hääwe spräägen	V;IND;PST;PRF;2;DU
+spreege	spräken	V;IND;PST;PFV;2;DU
+
+stridj	wel stridj	V;IND;FUT;LGSPEC2;2;PL
+stridj	stridj	V;IND;PRS;2;PL
+stridj	stridj	V;IND;PRS;1;DU
+stridj	streed	V;IND;PST;PFV;1;PL
+stridj	hed streden	V;IND;PST;RMT;PRF;2;PL
+stridj	hedst streden	V;IND;PST;RMT;PRF;2;SG
+stridj	streden	V.PTCP;PST
+stridj	haa streden	V;IND;PST;PRF;1;SG
+stridj	streed	V;IND;PST;PFV;1;SG
+stridj	skel stridj	V;IND;FUT;LGSPEC1;2;DU
+stridj	skääl stridj	V;IND;FUT;LGSPEC1;2;SG
+stridj	wel stridj	V;IND;FUT;LGSPEC2;1;DU
+stridj	streedst	V;IND;PST;PFV;2;SG
+stridj	skel stridj	V;IND;FUT;LGSPEC1;3;PL
+stridj	streed	V;IND;PST;PFV;2;PL
+stridj	hed streden	V;IND;PST;RMT;PRF;3;PL
+stridj	strat	V;IND;PRS;3;SG
+stridj	strat	V;IND;PRS;3;SG
+stridj	strat	V;IND;PRS;3;SG
+stridj	haa streden	V;IND;PST;PRF;2;PL
+stridj	hed streden	V;IND;PST;RMT;PRF;1;DU
+stridj	hed streden	V;IND;PST;RMT;PRF;3;SG
+stridj	hed streden	V;IND;PST;RMT;PRF;3;SG
+stridj	hed streden	V;IND;PST;RMT;PRF;3;SG
+stridj	wel stridj	V;IND;FUT;LGSPEC2;2;DU
+stridj	stridj	V;IND;PRS;1;PL
+stridj	haa streden	V;IND;PST;PRF;1;DU
+stridj	skal stridj	V;IND;FUT;LGSPEC1;1;SG
+stridj	stridj'em	V;IMP;PL
+stridj	tu stridjen	V;NFIN
+stridj	skel stridj	V;IND;FUT;LGSPEC1;2;PL
+stridj	skel stridj	V;IND;FUT;LGSPEC1;1;DU
+stridj	streed	V;IND;PST;PFV;3;PL
+stridj	streed	V;IND;PST;PFV;3;SG
+stridj	streed	V;IND;PST;PFV;3;SG
+stridj	streed	V;IND;PST;PFV;3;SG
+stridj	stratst	V;IND;PRS;2;SG
+stridj	haa streden	V;IND;PST;PRF;1;PL
+stridj	hee streden	V;IND;PST;PRF;3;SG
+stridj	hee streden	V;IND;PST;PRF;3;SG
+stridj	hee streden	V;IND;PST;PRF;3;SG
+stridj	hed streden	V;IND;PST;RMT;PRF;2;DU
+stridj	wel stridj	V;IND;FUT;LGSPEC2;1;PL
+stridj	wal stridj	V;IND;FUT;LGSPEC2;1;SG
+stridj	stridj	V;IND;PRS;2;DU
+stridj	wal stridj	V;IND;FUT;LGSPEC2;3;SG
+stridj	wal stridj	V;IND;FUT;LGSPEC2;3;SG
+stridj	wal stridj	V;IND;FUT;LGSPEC2;3;SG
+stridj	stridj	V;NFIN
+stridj	stridj	V;IND;PRS;3;PL
+stridj	skal stridj	V;IND;FUT;LGSPEC1;3;SG
+stridj	skal stridj	V;IND;FUT;LGSPEC1;3;SG
+stridj	skal stridj	V;IND;FUT;LGSPEC1;3;SG
+stridj	hed streden	V;IND;PST;RMT;PRF;1;SG
+stridj	streed	V;IND;PST;PFV;1;DU
+stridj	hed streden	V;IND;PST;RMT;PRF;1;PL
+stridj	stridj	V;IND;PRS;1;SG
+stridj	stridj	V;IMP;SG
+stridj	heest streden	V;IND;PST;PRF;2;SG
+stridj	skel stridj	V;IND;FUT;LGSPEC1;1;PL
+stridj	wel stridj	V;IND;FUT;LGSPEC2;3;PL
+stridj	wääl stridj	V;IND;FUT;LGSPEC2;2;SG
+stridj	haa streden	V;IND;PST;PRF;3;PL
+stridj	haa streden	V;IND;PST;PRF;2;DU
+stridj	streed	V;IND;PST;PFV;2;DU
+
+teenk	wel teenk	V;IND;FUT;LGSPEC2;2;PL
+teenk	teenk	V;IND;PRS;2;PL
+teenk	teenk	V;IND;PRS;1;DU
+teenk	toocht	V;IND;PST;PFV;1;PL
+teenk	hed toocht	V;IND;PST;RMT;PRF;2;PL
+teenk	hedst toocht	V;IND;PST;RMT;PRF;2;SG
+teenk	toocht	V.PTCP;PST
+teenk	haa toocht	V;IND;PST;PRF;1;SG
+teenk	toocht	V;IND;PST;PFV;1;SG
+teenk	skel teenk	V;IND;FUT;LGSPEC1;2;DU
+teenk	skääl teenk	V;IND;FUT;LGSPEC1;2;SG
+teenk	wel teenk	V;IND;FUT;LGSPEC2;1;DU
+teenk	toochst	V;IND;PST;PFV;2;SG
+teenk	skel teenk	V;IND;FUT;LGSPEC1;3;PL
+teenk	toocht	V;IND;PST;PFV;2;PL
+teenk	hed toocht	V;IND;PST;RMT;PRF;3;PL
+teenk	teenkt	V;IND;PRS;3;SG
+teenk	teenkt	V;IND;PRS;3;SG
+teenk	teenkt	V;IND;PRS;3;SG
+teenk	haa toocht	V;IND;PST;PRF;2;PL
+teenk	hed toocht	V;IND;PST;RMT;PRF;1;DU
+teenk	hed toocht	V;IND;PST;RMT;PRF;3;SG
+teenk	hed toocht	V;IND;PST;RMT;PRF;3;SG
+teenk	hed toocht	V;IND;PST;RMT;PRF;3;SG
+teenk	wel teenk	V;IND;FUT;LGSPEC2;2;DU
+teenk	teenk	V;IND;PRS;1;PL
+teenk	haa toocht	V;IND;PST;PRF;1;DU
+teenk	skal teenk	V;IND;FUT;LGSPEC1;1;SG
+teenk	teenk'em	V;IMP;PL
+teenk	tu teenken	V;NFIN
+teenk	skel teenk	V;IND;FUT;LGSPEC1;2;PL
+teenk	skel teenk	V;IND;FUT;LGSPEC1;1;DU
+teenk	toocht	V;IND;PST;PFV;3;PL
+teenk	toocht	V;IND;PST;PFV;3;SG
+teenk	toocht	V;IND;PST;PFV;3;SG
+teenk	toocht	V;IND;PST;PFV;3;SG
+teenk	teenkst	V;IND;PRS;2;SG
+teenk	haa toocht	V;IND;PST;PRF;1;PL
+teenk	hee toocht	V;IND;PST;PRF;3;SG
+teenk	hee toocht	V;IND;PST;PRF;3;SG
+teenk	hee toocht	V;IND;PST;PRF;3;SG
+teenk	hed toocht	V;IND;PST;RMT;PRF;2;DU
+teenk	wel teenk	V;IND;FUT;LGSPEC2;1;PL
+teenk	wal teenk	V;IND;FUT;LGSPEC2;1;SG
+teenk	teenk	V;IND;PRS;2;DU
+teenk	wal teenk	V;IND;FUT;LGSPEC2;3;SG
+teenk	wal teenk	V;IND;FUT;LGSPEC2;3;SG
+teenk	wal teenk	V;IND;FUT;LGSPEC2;3;SG
+teenk	teenk	V;NFIN
+teenk	teenk	V;IND;PRS;3;PL
+teenk	skal teenk	V;IND;FUT;LGSPEC1;3;SG
+teenk	skal teenk	V;IND;FUT;LGSPEC1;3;SG
+teenk	skal teenk	V;IND;FUT;LGSPEC1;3;SG
+teenk	hed toocht	V;IND;PST;RMT;PRF;1;SG
+teenk	toocht	V;IND;PST;PFV;1;DU
+teenk	hed toocht	V;IND;PST;RMT;PRF;1;PL
+teenk	teenk	V;IND;PRS;1;SG
+teenk	teenk	V;IMP;SG
+teenk	heest toocht	V;IND;PST;PRF;2;SG
+teenk	skel teenk	V;IND;FUT;LGSPEC1;1;PL
+teenk	wel teenk	V;IND;FUT;LGSPEC2;3;PL
+teenk	wääl teenk	V;IND;FUT;LGSPEC2;2;SG
+teenk	haa toocht	V;IND;PST;PRF;3;PL
+teenk	haa toocht	V;IND;PST;PRF;2;DU
+teenk	toocht	V;IND;PST;PFV;2;DU
+
+wan	wel wan	V;IND;FUT;LGSPEC2;2;PL
+wan	wan	V;IND;PRS;2;PL
+wan	wan	V;IND;PRS;1;DU
+wan	woon	V;IND;PST;PFV;1;PL
+wan	hed wonen	V;IND;PST;RMT;PRF;2;PL
+wan	hedst wonen	V;IND;PST;RMT;PRF;2;SG
+wan	wonen	V.PTCP;PST
+wan	haa wonen	V;IND;PST;PRF;1;SG
+wan	woon	V;IND;PST;PFV;1;SG
+wan	skel wan	V;IND;FUT;LGSPEC1;2;DU
+wan	skääl wan	V;IND;FUT;LGSPEC1;2;SG
+wan	wel wan	V;IND;FUT;LGSPEC2;1;DU
+wan	woonst	V;IND;PST;PFV;2;SG
+wan	skel wan	V;IND;FUT;LGSPEC1;3;PL
+wan	woon	V;IND;PST;PFV;2;PL
+wan	hed wonen	V;IND;PST;RMT;PRF;3;PL
+wan	want	V;IND;PRS;3;SG
+wan	want	V;IND;PRS;3;SG
+wan	want	V;IND;PRS;3;SG
+wan	haa wonen	V;IND;PST;PRF;2;PL
+wan	hed wonen	V;IND;PST;RMT;PRF;1;DU
+wan	hed wonen	V;IND;PST;RMT;PRF;3;SG
+wan	hed wonen	V;IND;PST;RMT;PRF;3;SG
+wan	hed wonen	V;IND;PST;RMT;PRF;3;SG
+wan	wel wan	V;IND;FUT;LGSPEC2;2;DU
+wan	wan	V;IND;PRS;1;PL
+wan	haa wonen	V;IND;PST;PRF;1;DU
+wan	skal wan	V;IND;FUT;LGSPEC1;1;SG
+wan	wan'em	V;IMP;PL
+wan	tu wanen	V;NFIN
+wan	skel wan	V;IND;FUT;LGSPEC1;2;PL
+wan	skel wan	V;IND;FUT;LGSPEC1;1;DU
+wan	woon	V;IND;PST;PFV;3;PL
+wan	woon	V;IND;PST;PFV;3;SG
+wan	woon	V;IND;PST;PFV;3;SG
+wan	woon	V;IND;PST;PFV;3;SG
+wan	wanst	V;IND;PRS;2;SG
+wan	haa wonen	V;IND;PST;PRF;1;PL
+wan	hee wonen	V;IND;PST;PRF;3;SG
+wan	hee wonen	V;IND;PST;PRF;3;SG
+wan	hee wonen	V;IND;PST;PRF;3;SG
+wan	hed wonen	V;IND;PST;RMT;PRF;2;DU
+wan	wel wan	V;IND;FUT;LGSPEC2;1;PL
+wan	wal wan	V;IND;FUT;LGSPEC2;1;SG
+wan	wan	V;IND;PRS;2;DU
+wan	wal wan	V;IND;FUT;LGSPEC2;3;SG
+wan	wal wan	V;IND;FUT;LGSPEC2;3;SG
+wan	wal wan	V;IND;FUT;LGSPEC2;3;SG
+wan	wan	V;NFIN
+wan	wan	V;IND;PRS;3;PL
+wan	skal wan	V;IND;FUT;LGSPEC1;3;SG
+wan	skal wan	V;IND;FUT;LGSPEC1;3;SG
+wan	skal wan	V;IND;FUT;LGSPEC1;3;SG
+wan	hed wonen	V;IND;PST;RMT;PRF;1;SG
+wan	woon	V;IND;PST;PFV;1;DU
+wan	hed wonen	V;IND;PST;RMT;PRF;1;PL
+wan	wan	V;IND;PRS;1;SG
+wan	wan	V;IMP;SG
+wan	heest wonen	V;IND;PST;PRF;2;SG
+wan	skel wan	V;IND;FUT;LGSPEC1;1;PL
+wan	wel wan	V;IND;FUT;LGSPEC2;3;PL
+wan	wääl wan	V;IND;FUT;LGSPEC2;2;SG
+wan	haa wonen	V;IND;PST;PRF;3;PL
+wan	haa wonen	V;IND;PST;PRF;2;DU
+wan	woon	V;IND;PST;PFV;2;DU
+
+wees	wel wees	V;IND;FUT;LGSPEC2;2;PL
+wees	san	V;IND;PRS;2;PL
+wees	san	V;IND;PRS;1;DU
+wees	wiar	V;IND;PST;PFV;1;PL
+wees	wiar weesen	V;IND;PST;RMT;PRF;2;PL
+wees	wiarst weesen	V;IND;PST;RMT;PRF;2;SG
+wees	weesen	V.PTCP;PST
+wees	san weesen	V;IND;PST;PRF;1;SG
+wees	wiar	V;IND;PST;PFV;1;SG
+wees	skel wees	V;IND;FUT;LGSPEC1;2;DU
+wees	skääl wees	V;IND;FUT;LGSPEC1;2;SG
+wees	wel wees	V;IND;FUT;LGSPEC2;1;DU
+wees	wiarst	V;IND;PST;PFV;2;SG
+wees	skel wees	V;IND;FUT;LGSPEC1;3;PL
+wees	wiar	V;IND;PST;PFV;2;PL
+wees	wiar weesen	V;IND;PST;RMT;PRF;3;PL
+wees	as	V;IND;PRS;3;SG
+wees	as	V;IND;PRS;3;SG
+wees	as	V;IND;PRS;3;SG
+wees	san weesen	V;IND;PST;PRF;2;PL
+wees	wiar weesen	V;IND;PST;RMT;PRF;1;DU
+wees	wiar weesen	V;IND;PST;RMT;PRF;3;SG
+wees	wiar weesen	V;IND;PST;RMT;PRF;3;SG
+wees	wiar weesen	V;IND;PST;RMT;PRF;3;SG
+wees	wel wees	V;IND;FUT;LGSPEC2;2;DU
+wees	san	V;IND;PRS;1;PL
+wees	san weesen	V;IND;PST;PRF;1;DU
+wees	skal wees	V;IND;FUT;LGSPEC1;1;SG
+wees	wees'em	V;IMP;PL
+wees	tu weesen	V;NFIN
+wees	skel wees	V;IND;FUT;LGSPEC1;2;PL
+wees	skel wees	V;IND;FUT;LGSPEC1;1;DU
+wees	wiar	V;IND;PST;PFV;3;PL
+wees	wiar	V;IND;PST;PFV;3;SG
+wees	wiar	V;IND;PST;PFV;3;SG
+wees	wiar	V;IND;PST;PFV;3;SG
+wees	beest	V;IND;PRS;2;SG
+wees	san weesen	V;IND;PST;PRF;1;PL
+wees	as weesen	V;IND;PST;PRF;3;SG
+wees	as weesen	V;IND;PST;PRF;3;SG
+wees	as weesen	V;IND;PST;PRF;3;SG
+wees	wiar weesen	V;IND;PST;RMT;PRF;2;DU
+wees	wel wees	V;IND;FUT;LGSPEC2;1;PL
+wees	wal wees	V;IND;FUT;LGSPEC2;1;SG
+wees	san	V;IND;PRS;2;DU
+wees	wal wees	V;IND;FUT;LGSPEC2;3;SG
+wees	wal wees	V;IND;FUT;LGSPEC2;3;SG
+wees	wal wees	V;IND;FUT;LGSPEC2;3;SG
+wees	wees	V;NFIN
+wees	san	V;IND;PRS;3;PL
+wees	skal wees	V;IND;FUT;LGSPEC1;3;SG
+wees	skal wees	V;IND;FUT;LGSPEC1;3;SG
+wees	skal wees	V;IND;FUT;LGSPEC1;3;SG
+wees	wiar weesen	V;IND;PST;RMT;PRF;1;SG
+wees	wiar	V;IND;PST;PFV;1;DU
+wees	wiar weesen	V;IND;PST;RMT;PRF;1;PL
+wees	san	V;IND;PRS;1;SG
+wees	wees	V;IMP;SG
+wees	beest weesen	V;IND;PST;PRF;2;SG
+wees	skel wees	V;IND;FUT;LGSPEC1;1;PL
+wees	wel wees	V;IND;FUT;LGSPEC2;3;PL
+wees	wääl wees	V;IND;FUT;LGSPEC2;2;SG
+wees	san weesen	V;IND;PST;PRF;3;PL
+wees	san weesen	V;IND;PST;PRF;2;DU
+wees	wiar	V;IND;PST;PFV;2;DU
+
+weese	weese	V;NFIN
+weese	bäst wään	V;IND;PST;PRF;2;SG
+weese	san	V;IND;PRS;2;PL
+weese	san	V;IND;PRS;1;DU
+weese	weern wään	V;IND;PST;RMT;PRF;1;PL
+weese	waos wään	V;IND;PST;RMT;PRF;1;SG
+weese	weern	V;IND;PST;PFV;2;PL
+weese	wääl weese	V;IND;FUT;LGSPEC2;2;SG
+weese	wäät weese	V;IND;FUT;LGSPEC2;2;SG
+weese	wjarn	V;IND;PST;PFV;1;PL
+weese	wees	V;IMP
+weese	wjarn wään	V;IND;PST;RMT;PRF;2;PL
+weese	wjarst wään	V;IND;PST;RMT;PRF;2;SG
+weese	än wees	V;NFIN
+weese	ban wään	V;IND;PST;PRF;1;SG
+weese	sän wään	V;IND;PST;PRF;2;PL
+weese	wus	V;IND;PST;PFV;1;SG
+weese	wårde weese	V;IND;FUT;2;DU
+weese	wårst weese	V;IND;FUT;2;SG
+weese	win weese	V;IND;FUT;LGSPEC2;1;PL
+weese	schin weese	V;IND;FUT;LGSPEC1;1;PL
+weese	schal weese	V;IND;FUT;LGSPEC1;1;SG
+weese	waos	V;IND;PST;PFV;1;SG
+weese	wjarst	V;IND;PST;PFV;2;SG
+weese	wårde weese	V;IND;FUT;3;PL
+weese	wjarn	V;IND;PST;PFV;2;PL
+weese	wjarn wään	V;IND;PST;RMT;PRF;3;PL
+weese	bän wään	V;IND;PST;PRF;1;SG
+weese	sän	V;IND;PRS;2;PL
+weese	as	V;IND;PRS;3;SG
+weese	as	V;IND;PRS;3;SG
+weese	as	V;IND;PRS;3;SG
+weese	san wään	V;IND;PST;PRF;2;PL
+weese	wjarn wään	V;IND;PST;RMT;PRF;1;DU
+weese	wal weese	V;IND;FUT;LGSPEC2;3;SG
+weese	wal weese	V;IND;FUT;LGSPEC2;3;SG
+weese	wal weese	V;IND;FUT;LGSPEC2;3;SG
+weese	weern wään	V;IND;PST;RMT;PRF;2;PL
+weese	wään	V.PTCP;PST
+weese	sän wään	V;IND;PST;PRF;1;PL
+weese	wus wään	V;IND;PST;RMT;PRF;3;SG
+weese	wus wään	V;IND;PST;RMT;PRF;3;SG
+weese	wus wään	V;IND;PST;RMT;PRF;3;SG
+weese	san	V;IND;PRS;1;PL
+weese	san wään	V;IND;PST;PRF;1;DU
+weese	wård weese	V;IND;FUT;1;SG
+weese	bän	V;IND;PRS;1;SG
+weese	weern	V;IND;PST;PFV;3;PL
+weese	wees	V;IMP
+weese	tu weesen	V;NFIN
+weese	waos	V;IND;PST;PFV;3;SG
+weese	waos	V;IND;PST;PFV;3;SG
+weese	waos	V;IND;PST;PFV;3;SG
+weese	weerst	V;IND;PST;PFV;2;SG
+weese	wårde weese	V;IND;FUT;2;PL
+weese	wårde weese	V;IND;FUT;1;DU
+weese	wjarn	V;IND;PST;PFV;3;PL
+weese	wus	V;IND;PST;PFV;3;SG
+weese	wus	V;IND;PST;PFV;3;SG
+weese	wus	V;IND;PST;PFV;3;SG
+weese	bast	V;IND;PRS;2;SG
+weese	sän	V;IND;PRS;1;PL
+weese	schal weese	V;IND;FUT;LGSPEC1;3;SG
+weese	schal weese	V;IND;FUT;LGSPEC1;3;SG
+weese	schal weese	V;IND;FUT;LGSPEC1;3;SG
+weese	sän wään	V;IND;PST;PRF;3;PL
+weese	san wään	V;IND;PST;PRF;1;PL
+weese	as wään	V;IND;PST;PRF;3;SG
+weese	as wään	V;IND;PST;PRF;3;SG
+weese	as wään	V;IND;PST;PRF;3;SG
+weese	win weese	V;IND;FUT;LGSPEC2;2;PL
+weese	weern wään	V;IND;PST;RMT;PRF;3;PL
+weese	wjarn wään	V;IND;PST;RMT;PRF;2;DU
+weese	san	V;IND;PRS;2;DU
+weese	schin weese	V;IND;FUT;LGSPEC1;3;PL
+weese	weern	V;IND;PST;PFV;1;PL
+weese	weese	V;NFIN
+weese	san	V;IND;PRS;3;PL
+weese	bäst	V;IND;PRS;2;SG
+weese	waos wään	V;IND;PST;RMT;PRF;3;SG
+weese	waos wään	V;IND;PST;RMT;PRF;3;SG
+weese	waos wään	V;IND;PST;RMT;PRF;3;SG
+weese	weerst wään	V;IND;PST;RMT;PRF;2;SG
+weese	wårt weese	V;IND;FUT;3;SG
+weese	wårt weese	V;IND;FUT;3;SG
+weese	wårt weese	V;IND;FUT;3;SG
+weese	wus wään	V;IND;PST;RMT;PRF;1;SG
+weese	is	V;IND;PRS;3;SG
+weese	is	V;IND;PRS;3;SG
+weese	is	V;IND;PRS;3;SG
+weese	wjarn	V;IND;PST;PFV;1;DU
+weese	wjarn wään	V;IND;PST;RMT;PRF;1;PL
+weese	ban	V;IND;PRS;1;SG
+weese	wään	V.PTCP;PST
+weese	schääl weese	V;IND;FUT;LGSPEC1;2;SG
+weese	schäät weese	V;IND;FUT;LGSPEC1;2;SG
+weese	is wään	V;IND;PST;PRF;3;SG
+weese	is wään	V;IND;PST;PRF;3;SG
+weese	is wään	V;IND;PST;PRF;3;SG
+weese	bast wään	V;IND;PST;PRF;2;SG
+weese	wårde weese	V;IND;FUT;1;PL
+weese	wal weese	V;IND;FUT;LGSPEC2;1;SG
+weese	win weese	V;IND;FUT;LGSPEC2;3;PL
+weese	sän	V;IND;PRS;3;PL
+weese	schin weese	V;IND;FUT;LGSPEC1;2;PL
+weese	san wään	V;IND;PST;PRF;3;PL
+weese	san wään	V;IND;PST;PRF;2;DU
+weese	wjarn	V;IND;PST;PFV;2;DU
+
+wel	wel wel	V;IND;FUT;LGSPEC2;2;PL
+wel	wel	V;IND;PRS;2;PL
+wel	wel	V;IND;PRS;1;DU
+wel	wul	V;IND;PST;PFV;1;PL
+wel	hed wulen	V;IND;PST;RMT;PRF;2;PL
+wel	hedst wulen	V;IND;PST;RMT;PRF;2;SG
+wel	wulen	V.PTCP;PST
+wel	haa wulen	V;IND;PST;PRF;1;SG
+wel	wul	V;IND;PST;PFV;1;SG
+wel	skel wel	V;IND;FUT;LGSPEC1;2;DU
+wel	skääl wel	V;IND;FUT;LGSPEC1;2;SG
+wel	wel wel	V;IND;FUT;LGSPEC2;1;DU
+wel	wulst	V;IND;PST;PFV;2;SG
+wel	skel wel	V;IND;FUT;LGSPEC1;3;PL
+wel	wul	V;IND;PST;PFV;2;PL
+wel	hed wulen	V;IND;PST;RMT;PRF;3;PL
+wel	wal	V;IND;PRS;3;SG
+wel	wal	V;IND;PRS;3;SG
+wel	wal	V;IND;PRS;3;SG
+wel	haa wulen	V;IND;PST;PRF;2;PL
+wel	hed wulen	V;IND;PST;RMT;PRF;1;DU
+wel	hed wulen	V;IND;PST;RMT;PRF;3;SG
+wel	hed wulen	V;IND;PST;RMT;PRF;3;SG
+wel	hed wulen	V;IND;PST;RMT;PRF;3;SG
+wel	wel wel	V;IND;FUT;LGSPEC2;2;DU
+wel	wel	V;IND;PRS;1;PL
+wel	haa wulen	V;IND;PST;PRF;1;DU
+wel	skal wel	V;IND;FUT;LGSPEC1;1;SG
+wel	skel wel	V;IND;FUT;LGSPEC1;2;PL
+wel	skel wel	V;IND;FUT;LGSPEC1;1;DU
+wel	wul	V;IND;PST;PFV;3;PL
+wel	wul	V;IND;PST;PFV;3;SG
+wel	wul	V;IND;PST;PFV;3;SG
+wel	wul	V;IND;PST;PFV;3;SG
+wel	wääl	V;IND;PRS;2;SG
+wel	haa wulen	V;IND;PST;PRF;1;PL
+wel	hee wulen	V;IND;PST;PRF;3;SG
+wel	hee wulen	V;IND;PST;PRF;3;SG
+wel	hee wulen	V;IND;PST;PRF;3;SG
+wel	hed wulen	V;IND;PST;RMT;PRF;2;DU
+wel	wel wel	V;IND;FUT;LGSPEC2;1;PL
+wel	wal wel	V;IND;FUT;LGSPEC2;1;SG
+wel	wel	V;IND;PRS;2;DU
+wel	wal wel	V;IND;FUT;LGSPEC2;3;SG
+wel	wal wel	V;IND;FUT;LGSPEC2;3;SG
+wel	wal wel	V;IND;FUT;LGSPEC2;3;SG
+wel	wel	V;NFIN
+wel	wel	V;IND;PRS;3;PL
+wel	skal wel	V;IND;FUT;LGSPEC1;3;SG
+wel	skal wel	V;IND;FUT;LGSPEC1;3;SG
+wel	skal wel	V;IND;FUT;LGSPEC1;3;SG
+wel	hed wulen	V;IND;PST;RMT;PRF;1;SG
+wel	wul	V;IND;PST;PFV;1;DU
+wel	hed wulen	V;IND;PST;RMT;PRF;1;PL
+wel	wal	V;IND;PRS;1;SG
+wel	heest wulen	V;IND;PST;PRF;2;SG
+wel	skel wel	V;IND;FUT;LGSPEC1;1;PL
+wel	wel wel	V;IND;FUT;LGSPEC2;3;PL
+wel	wääl wel	V;IND;FUT;LGSPEC2;2;SG
+wel	haa wulen	V;IND;PST;PRF;3;PL
+wel	haa wulen	V;IND;PST;PRF;2;DU
+wel	wul	V;IND;PST;PFV;2;DU
+
+baag	wel baag	V;IND;FUT;LGSPEC2;2;PL
+baag	baag	V;IND;PRS;2;PL
+baag	baag	V;IND;PRS;1;DU
+baag	buch	V;IND;PST;PFV;1;PL
+baag	hed beegen	V;IND;PST;RMT;PRF;2;PL
+baag	hedst beegen	V;IND;PST;RMT;PRF;2;SG
+baag	beegen	V.PTCP;PST
+baag	haa beegen	V;IND;PST;PRF;1;SG
+baag	buch	V;IND;PST;PFV;1;SG
+baag	skel baag	V;IND;FUT;LGSPEC1;2;DU
+baag	skääl baag	V;IND;FUT;LGSPEC1;2;SG
+baag	wel baag	V;IND;FUT;LGSPEC2;1;DU
+baag	buchst	V;IND;PST;PFV;2;SG
+baag	skel baag	V;IND;FUT;LGSPEC1;3;PL
+baag	buch	V;IND;PST;PFV;2;PL
+baag	hed beegen	V;IND;PST;RMT;PRF;3;PL
+baag	beecht	V;IND;PRS;3;SG
+baag	beecht	V;IND;PRS;3;SG
+baag	beecht	V;IND;PRS;3;SG
+baag	haa beegen	V;IND;PST;PRF;2;PL
+baag	hed beegen	V;IND;PST;RMT;PRF;1;DU
+baag	hed beegen	V;IND;PST;RMT;PRF;3;SG
+baag	hed beegen	V;IND;PST;RMT;PRF;3;SG
+baag	hed beegen	V;IND;PST;RMT;PRF;3;SG
+baag	wel baag	V;IND;FUT;LGSPEC2;2;DU
+baag	baag	V;IND;PRS;1;PL
+baag	haa beegen	V;IND;PST;PRF;1;DU
+baag	skal baag	V;IND;FUT;LGSPEC1;1;SG
+baag	baag'em	V;IMP;PL
+baag	tu baagen	V;NFIN
+baag	skel baag	V;IND;FUT;LGSPEC1;2;PL
+baag	skel baag	V;IND;FUT;LGSPEC1;1;DU
+baag	buch	V;IND;PST;PFV;3;PL
+baag	buch	V;IND;PST;PFV;3;SG
+baag	buch	V;IND;PST;PFV;3;SG
+baag	buch	V;IND;PST;PFV;3;SG
+baag	beechst	V;IND;PRS;2;SG
+baag	haa beegen	V;IND;PST;PRF;1;PL
+baag	hee beegen	V;IND;PST;PRF;3;SG
+baag	hee beegen	V;IND;PST;PRF;3;SG
+baag	hee beegen	V;IND;PST;PRF;3;SG
+baag	hed beegen	V;IND;PST;RMT;PRF;2;DU
+baag	wel baag	V;IND;FUT;LGSPEC2;1;PL
+baag	wal baag	V;IND;FUT;LGSPEC2;1;SG
+baag	baag	V;IND;PRS;2;DU
+baag	wal baag	V;IND;FUT;LGSPEC2;3;SG
+baag	wal baag	V;IND;FUT;LGSPEC2;3;SG
+baag	wal baag	V;IND;FUT;LGSPEC2;3;SG
+baag	baag	V;NFIN
+baag	baag	V;IND;PRS;3;PL
+baag	skal baag	V;IND;FUT;LGSPEC1;3;SG
+baag	skal baag	V;IND;FUT;LGSPEC1;3;SG
+baag	skal baag	V;IND;FUT;LGSPEC1;3;SG
+baag	hed beegen	V;IND;PST;RMT;PRF;1;SG
+baag	buch	V;IND;PST;PFV;1;DU
+baag	hed beegen	V;IND;PST;RMT;PRF;1;PL
+baag	baag	V;IND;PRS;1;SG
+baag	baag	V;IMP;SG
+baag	heest beegen	V;IND;PST;PRF;2;SG
+baag	skel baag	V;IND;FUT;LGSPEC1;1;PL
+baag	wel baag	V;IND;FUT;LGSPEC2;3;PL
+baag	wääl baag	V;IND;FUT;LGSPEC2;2;SG
+baag	haa beegen	V;IND;PST;PRF;3;PL
+baag	haa beegen	V;IND;PST;PRF;2;DU
+baag	buch	V;IND;PST;PFV;2;DU
+
+beskriiw	wel beskriiw	V;IND;FUT;LGSPEC2;2;PL
+beskriiw	beskriiw	V;IND;PRS;2;PL
+beskriiw	beskriiw	V;IND;PRS;1;DU
+beskriiw	beskreew	V;IND;PST;PFV;1;PL
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;2;PL
+beskriiw	hedst beskrewen	V;IND;PST;RMT;PRF;2;SG
+beskriiw	beskrewen	V.PTCP;PST
+beskriiw	haa beskrewen	V;IND;PST;PRF;1;SG
+beskriiw	beskreew	V;IND;PST;PFV;1;SG
+beskriiw	skel beskriiw	V;IND;FUT;LGSPEC1;2;DU
+beskriiw	skääl beskriiw	V;IND;FUT;LGSPEC1;2;SG
+beskriiw	wel beskriiw	V;IND;FUT;LGSPEC2;1;DU
+beskriiw	beskreewst	V;IND;PST;PFV;2;SG
+beskriiw	skel beskriiw	V;IND;FUT;LGSPEC1;3;PL
+beskriiw	beskreew	V;IND;PST;PFV;2;PL
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;3;PL
+beskriiw	beskraft	V;IND;PRS;3;SG
+beskriiw	beskraft	V;IND;PRS;3;SG
+beskriiw	beskraft	V;IND;PRS;3;SG
+beskriiw	haa beskrewen	V;IND;PST;PRF;2;PL
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;1;DU
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;3;SG
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;3;SG
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;3;SG
+beskriiw	wel beskriiw	V;IND;FUT;LGSPEC2;2;DU
+beskriiw	beskriiw	V;IND;PRS;1;PL
+beskriiw	haa beskrewen	V;IND;PST;PRF;1;DU
+beskriiw	skal beskriiw	V;IND;FUT;LGSPEC1;1;SG
+beskriiw	beskriiw'em	V;IMP;PL
+beskriiw	tu beskriiwen	V;NFIN
+beskriiw	skel beskriiw	V;IND;FUT;LGSPEC1;2;PL
+beskriiw	skel beskriiw	V;IND;FUT;LGSPEC1;1;DU
+beskriiw	beskreew	V;IND;PST;PFV;3;PL
+beskriiw	beskreew	V;IND;PST;PFV;3;SG
+beskriiw	beskreew	V;IND;PST;PFV;3;SG
+beskriiw	beskreew	V;IND;PST;PFV;3;SG
+beskriiw	beskrafst	V;IND;PRS;2;SG
+beskriiw	haa beskrewen	V;IND;PST;PRF;1;PL
+beskriiw	hee beskrewen	V;IND;PST;PRF;3;SG
+beskriiw	hee beskrewen	V;IND;PST;PRF;3;SG
+beskriiw	hee beskrewen	V;IND;PST;PRF;3;SG
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;2;DU
+beskriiw	wel beskriiw	V;IND;FUT;LGSPEC2;1;PL
+beskriiw	wal beskriiw	V;IND;FUT;LGSPEC2;1;SG
+beskriiw	beskriiw	V;IND;PRS;2;DU
+beskriiw	wal beskriiw	V;IND;FUT;LGSPEC2;3;SG
+beskriiw	wal beskriiw	V;IND;FUT;LGSPEC2;3;SG
+beskriiw	wal beskriiw	V;IND;FUT;LGSPEC2;3;SG
+beskriiw	beskriiw	V;NFIN
+beskriiw	beskriiw	V;IND;PRS;3;PL
+beskriiw	skal beskriiw	V;IND;FUT;LGSPEC1;3;SG
+beskriiw	skal beskriiw	V;IND;FUT;LGSPEC1;3;SG
+beskriiw	skal beskriiw	V;IND;FUT;LGSPEC1;3;SG
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;1;SG
+beskriiw	beskreew	V;IND;PST;PFV;1;DU
+beskriiw	hed beskrewen	V;IND;PST;RMT;PRF;1;PL
+beskriiw	beskriiw	V;IND;PRS;1;SG
+beskriiw	beskriiw	V;IMP;SG
+beskriiw	heest beskrewen	V;IND;PST;PRF;2;SG
+beskriiw	skel beskriiw	V;IND;FUT;LGSPEC1;1;PL
+beskriiw	wel beskriiw	V;IND;FUT;LGSPEC2;3;PL
+beskriiw	wääl beskriiw	V;IND;FUT;LGSPEC2;2;SG
+beskriiw	haa beskrewen	V;IND;PST;PRF;3;PL
+beskriiw	haa beskrewen	V;IND;PST;PRF;2;DU
+beskriiw	beskreew	V;IND;PST;PFV;2;DU
+
+bine	bine	V;IND;PRS;2;PL
+bine	bine	V;IND;PRS;1;DU
+bine	bünen	V;IND;PST;PFV;1;PL
+bine	häin bünen	V;IND;PST;RMT;PRF;2;PL
+bine	häist bünen	V;IND;PST;RMT;PRF;2;SG
+bine	än bin	V.PTCP;PST
+bine	hääw bünen	V;IND;PST;PRF;1;SG
+bine	bün	V;IND;PST;PFV;1;SG
+bine	wårde bine	V;IND;FUT;LGSPEC1;2;DU
+bine	wårst bine	V;IND;FUT;LGSPEC1;2;SG
+bine	bünst	V;IND;PST;PFV;2;SG
+bine	wårde bine	V;IND;FUT;LGSPEC1;3;PL
+bine	bünen	V;IND;PST;PFV;2;PL
+bine	häin bünen	V;IND;PST;RMT;PRF;3;PL
+bine	bant	V;IND;PRS;3;SG
+bine	bant	V;IND;PRS;3;SG
+bine	bant	V;IND;PRS;3;SG
+bine	hääwe bünen	V;IND;PST;PRF;2;PL
+bine	häin bünen	V;IND;PST;RMT;PRF;1;DU
+bine	häi bünen	V;IND;PST;RMT;PRF;3;SG
+bine	häi bünen	V;IND;PST;RMT;PRF;3;SG
+bine	häi bünen	V;IND;PST;RMT;PRF;3;SG
+bine	bine	V;IND;PRS;1;PL
+bine	hääwe bünen	V;IND;PST;PRF;1;DU
+bine	wård bine	V;IND;FUT;LGSPEC1;1;SG
+bine	bin	V;IMP;PL
+bine	tu binen	V;NFIN
+bine	wårde bine	V;IND;FUT;LGSPEC1;2;PL
+bine	wårde bine	V;IND;FUT;LGSPEC1;1;DU
+bine	bünen	V;IND;PST;PFV;3;PL
+bine	bün	V;IND;PST;PFV;3;SG
+bine	bün	V;IND;PST;PFV;3;SG
+bine	bün	V;IND;PST;PFV;3;SG
+bine	banst	V;IND;PRS;2;SG
+bine	hääwe bünen	V;IND;PST;PRF;1;PL
+bine	heet bünen	V;IND;PST;PRF;3;SG
+bine	heet bünen	V;IND;PST;PRF;3;SG
+bine	heet bünen	V;IND;PST;PRF;3;SG
+bine	häin bünen	V;IND;PST;RMT;PRF;2;DU
+bine	bine	V;IND;PRS;2;DU
+bine	bine	V;NFIN
+bine	bine	V;IND;PRS;3;PL
+bine	wårt bine	V;IND;FUT;LGSPEC1;3;SG
+bine	wårt bine	V;IND;FUT;LGSPEC1;3;SG
+bine	wårt bine	V;IND;FUT;LGSPEC1;3;SG
+bine	häi bünen	V;IND;PST;RMT;PRF;1;SG
+bine	bünen	V;IND;PST;PFV;1;DU
+bine	häin bünen	V;IND;PST;RMT;PRF;1;PL
+bine	bin	V;IND;PRS;1;SG
+bine	bünen	V;IMP;SG
+bine	hääst bünen	V;IND;PST;PRF;2;SG
+bine	wårde bine	V;IND;FUT;LGSPEC1;1;PL
+bine	hääwe bünen	V;IND;PST;PRF;3;PL
+bine	hääwe bünen	V;IND;PST;PRF;2;DU
+bine	bünen	V;IND;PST;PFV;2;DU
+
+bliiw	wel bliiw	V;IND;FUT;LGSPEC2;2;PL
+bliiw	bliiw	V;IND;PRS;2;PL
+bliiw	bliiw	V;IND;PRS;1;DU
+bliiw	bleew	V;IND;PST;PFV;1;PL
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;2;PL
+bliiw	wiarst blewen	V;IND;PST;RMT;PRF;2;SG
+bliiw	blewen	V.PTCP;PST
+bliiw	san blewen	V;IND;PST;PRF;1;SG
+bliiw	bleew	V;IND;PST;PFV;1;SG
+bliiw	skel bliiw	V;IND;FUT;LGSPEC1;2;DU
+bliiw	skääl bliiw	V;IND;FUT;LGSPEC1;2;SG
+bliiw	wel bliiw	V;IND;FUT;LGSPEC2;1;DU
+bliiw	bleefst	V;IND;PST;PFV;2;SG
+bliiw	skel bliiw	V;IND;FUT;LGSPEC1;3;PL
+bliiw	bleew	V;IND;PST;PFV;2;PL
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;3;PL
+bliiw	blaft	V;IND;PRS;3;SG
+bliiw	blaft	V;IND;PRS;3;SG
+bliiw	blaft	V;IND;PRS;3;SG
+bliiw	san blewen	V;IND;PST;PRF;2;PL
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;1;DU
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;3;SG
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;3;SG
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;3;SG
+bliiw	wel bliiw	V;IND;FUT;LGSPEC2;2;DU
+bliiw	bliiw	V;IND;PRS;1;PL
+bliiw	san blewen	V;IND;PST;PRF;1;DU
+bliiw	skal bliiw	V;IND;FUT;LGSPEC1;1;SG
+bliiw	bliiw'em	V;IMP;PL
+bliiw	tu bliiwen	V;NFIN
+bliiw	skel bliiw	V;IND;FUT;LGSPEC1;2;PL
+bliiw	skel bliiw	V;IND;FUT;LGSPEC1;1;DU
+bliiw	bleew	V;IND;PST;PFV;3;PL
+bliiw	bleew	V;IND;PST;PFV;3;SG
+bliiw	bleew	V;IND;PST;PFV;3;SG
+bliiw	bleew	V;IND;PST;PFV;3;SG
+bliiw	blafst	V;IND;PRS;2;SG
+bliiw	san blewen	V;IND;PST;PRF;1;PL
+bliiw	as blewen	V;IND;PST;PRF;3;SG
+bliiw	as blewen	V;IND;PST;PRF;3;SG
+bliiw	as blewen	V;IND;PST;PRF;3;SG
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;2;DU
+bliiw	wel bliiw	V;IND;FUT;LGSPEC2;1;PL
+bliiw	wal bliiw	V;IND;FUT;LGSPEC2;1;SG
+bliiw	bliiw	V;IND;PRS;2;DU
+bliiw	wal bliiw	V;IND;FUT;LGSPEC2;3;SG
+bliiw	wal bliiw	V;IND;FUT;LGSPEC2;3;SG
+bliiw	wal bliiw	V;IND;FUT;LGSPEC2;3;SG
+bliiw	bliiw	V;NFIN
+bliiw	bliiw	V;IND;PRS;3;PL
+bliiw	skal bliiw	V;IND;FUT;LGSPEC1;3;SG
+bliiw	skal bliiw	V;IND;FUT;LGSPEC1;3;SG
+bliiw	skal bliiw	V;IND;FUT;LGSPEC1;3;SG
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;1;SG
+bliiw	bleew	V;IND;PST;PFV;1;DU
+bliiw	wiar blewen	V;IND;PST;RMT;PRF;1;PL
+bliiw	bliiw	V;IND;PRS;1;SG
+bliiw	bliiw	V;IMP;SG
+bliiw	beest blewen	V;IND;PST;PRF;2;SG
+bliiw	skel bliiw	V;IND;FUT;LGSPEC1;1;PL
+bliiw	wel bliiw	V;IND;FUT;LGSPEC2;3;PL
+bliiw	wääl bliiw	V;IND;FUT;LGSPEC2;2;SG
+bliiw	san blewen	V;IND;PST;PRF;3;PL
+bliiw	san blewen	V;IND;PST;PRF;2;DU
+bliiw	bleew	V;IND;PST;PFV;2;DU
+
+bliwe	bliwe	V;IND;PRS;2;PL
+bliwe	bliwe	V;IND;PRS;1;DU
+bliwe	bliifen	V;IND;PST;PFV;1;PL
+bliwe	wjarn blaawen	V;IND;PST;RMT;PRF;2;PL
+bliwe	wjarst blaawen	V;IND;PST;RMT;PRF;2;SG
+bliwe	än bliw	V.PTCP;PST
+bliwe	ban blaawen	V;IND;PST;PRF;1;SG
+bliwe	bliif	V;IND;PST;PFV;1;SG
+bliwe	wårde bliwe	V;IND;FUT;LGSPEC1;2;DU
+bliwe	wårst bliwe	V;IND;FUT;LGSPEC1;2;SG
+bliwe	bliifst	V;IND;PST;PFV;2;SG
+bliwe	wårde bliwe	V;IND;FUT;LGSPEC1;3;PL
+bliwe	bliifen	V;IND;PST;PFV;2;PL
+bliwe	wjarn blaawen	V;IND;PST;RMT;PRF;3;PL
+bliwe	blaft	V;IND;PRS;3;SG
+bliwe	blaft	V;IND;PRS;3;SG
+bliwe	blaft	V;IND;PRS;3;SG
+bliwe	san blaawen	V;IND;PST;PRF;2;PL
+bliwe	wjarn blaawen	V;IND;PST;RMT;PRF;1;DU
+bliwe	wus blaawen	V;IND;PST;RMT;PRF;3;SG
+bliwe	wus blaawen	V;IND;PST;RMT;PRF;3;SG
+bliwe	wus blaawen	V;IND;PST;RMT;PRF;3;SG
+bliwe	bliwe	V;IND;PRS;1;PL
+bliwe	san blaawen	V;IND;PST;PRF;1;DU
+bliwe	wård bliwe	V;IND;FUT;LGSPEC1;1;SG
+bliwe	bliw	V;IMP;PL
+bliwe	tu bliween	V;NFIN
+bliwe	wårde bliwe	V;IND;FUT;LGSPEC1;2;PL
+bliwe	wårde bliwe	V;IND;FUT;LGSPEC1;1;DU
+bliwe	bliifen	V;IND;PST;PFV;3;PL
+bliwe	bliif	V;IND;PST;PFV;3;SG
+bliwe	bliif	V;IND;PST;PFV;3;SG
+bliwe	bliif	V;IND;PST;PFV;3;SG
+bliwe	blafst	V;IND;PRS;2;SG
+bliwe	san blaawen	V;IND;PST;PRF;1;PL
+bliwe	as blaawen	V;IND;PST;PRF;3;SG
+bliwe	as blaawen	V;IND;PST;PRF;3;SG
+bliwe	as blaawen	V;IND;PST;PRF;3;SG
+bliwe	wjarn blaawen	V;IND;PST;RMT;PRF;2;DU
+bliwe	bliwe	V;IND;PRS;2;DU
+bliwe	bliwe	V;NFIN
+bliwe	bliwe	V;IND;PRS;3;PL
+bliwe	wårt bliwe	V;IND;FUT;LGSPEC1;3;SG
+bliwe	wårt bliwe	V;IND;FUT;LGSPEC1;3;SG
+bliwe	wårt bliwe	V;IND;FUT;LGSPEC1;3;SG
+bliwe	wus blaawen	V;IND;PST;RMT;PRF;1;SG
+bliwe	bliifen	V;IND;PST;PFV;1;DU
+bliwe	wjarn blaawen	V;IND;PST;RMT;PRF;1;PL
+bliwe	bliw	V;IND;PRS;1;SG
+bliwe	blaawen	V;IMP;SG
+bliwe	bast blaawen	V;IND;PST;PRF;2;SG
+bliwe	wårde bliwe	V;IND;FUT;LGSPEC1;1;PL
+bliwe	san blaawen	V;IND;PST;PRF;3;PL
+bliwe	san blaawen	V;IND;PST;PRF;2;DU
+bliwe	bliifen	V;IND;PST;PFV;2;DU
+
+booge	booge	V;IND;PRS;2;PL
+booge	booge	V;IND;PRS;1;DU
+booge	boogeden	V;IND;PST;PFV;1;PL
+booge	häin booged	V;IND;PST;RMT;PRF;2;PL
+booge	häist booged	V;IND;PST;RMT;PRF;2;SG
+booge	än boog	V.PTCP;PST
+booge	hääw booged	V;IND;PST;PRF;1;SG
+booge	booged	V;IND;PST;PFV;1;SG
+booge	wårde booge	V;IND;FUT;LGSPEC1;2;DU
+booge	wårst booge	V;IND;FUT;LGSPEC1;2;SG
+booge	boogedst	V;IND;PST;PFV;2;SG
+booge	wårde booge	V;IND;FUT;LGSPEC1;3;PL
+booge	boogeden	V;IND;PST;PFV;2;PL
+booge	häin booged	V;IND;PST;RMT;PRF;3;PL
+booge	booget	V;IND;PRS;3;SG
+booge	booget	V;IND;PRS;3;SG
+booge	booget	V;IND;PRS;3;SG
+booge	hääwe booged	V;IND;PST;PRF;2;PL
+booge	häin booged	V;IND;PST;RMT;PRF;1;DU
+booge	häi booged	V;IND;PST;RMT;PRF;3;SG
+booge	häi booged	V;IND;PST;RMT;PRF;3;SG
+booge	häi booged	V;IND;PST;RMT;PRF;3;SG
+booge	booge	V;IND;PRS;1;PL
+booge	hääwe booged	V;IND;PST;PRF;1;DU
+booge	wård booge	V;IND;FUT;LGSPEC1;1;SG
+booge	tu boogen	V;NFIN
+booge	wårde booge	V;IND;FUT;LGSPEC1;2;PL
+booge	wårde booge	V;IND;FUT;LGSPEC1;1;DU
+booge	boogeden	V;IND;PST;PFV;3;PL
+booge	booged	V;IND;PST;PFV;3;SG
+booge	booged	V;IND;PST;PFV;3;SG
+booge	booged	V;IND;PST;PFV;3;SG
+booge	boogest	V;IND;PRS;2;SG
+booge	hääwe booged	V;IND;PST;PRF;1;PL
+booge	heet booged	V;IND;PST;PRF;3;SG
+booge	heet booged	V;IND;PST;PRF;3;SG
+booge	heet booged	V;IND;PST;PRF;3;SG
+booge	häin booged	V;IND;PST;RMT;PRF;2;DU
+booge	booge	V;IND;PRS;2;DU
+booge	booge	V;NFIN
+booge	booge	V;IND;PRS;3;PL
+booge	wårt booge	V;IND;FUT;LGSPEC1;3;SG
+booge	wårt booge	V;IND;FUT;LGSPEC1;3;SG
+booge	wårt booge	V;IND;FUT;LGSPEC1;3;SG
+booge	häi booged	V;IND;PST;RMT;PRF;1;SG
+booge	boogeden	V;IND;PST;PFV;1;DU
+booge	häin booged	V;IND;PST;RMT;PRF;1;PL
+booge	boog	V;IND;PRS;1;SG
+booge	booged	V;IMP;SG
+booge	hääst booged	V;IND;PST;PRF;2;SG
+booge	wårde booge	V;IND;FUT;LGSPEC1;1;PL
+booge	hääwe booged	V;IND;PST;PRF;3;PL
+booge	hääwe booged	V;IND;PST;PRF;2;DU
+booge	boogeden	V;IND;PST;PFV;2;DU
+
+breeg	wel breeg	V;IND;FUT;LGSPEC2;2;PL
+breeg	breeg	V;IND;PRS;2;PL
+breeg	breeg	V;IND;PRS;1;DU
+breeg	bruch	V;IND;PST;PFV;1;PL
+breeg	hed breegen	V;IND;PST;RMT;PRF;2;PL
+breeg	hedst breegen	V;IND;PST;RMT;PRF;2;SG
+breeg	breegen	V.PTCP;PST
+breeg	haa breegen	V;IND;PST;PRF;1;SG
+breeg	bruch	V;IND;PST;PFV;1;SG
+breeg	skel breeg	V;IND;FUT;LGSPEC1;2;DU
+breeg	skääl breeg	V;IND;FUT;LGSPEC1;2;SG
+breeg	wel breeg	V;IND;FUT;LGSPEC2;1;DU
+breeg	bruchst	V;IND;PST;PFV;2;SG
+breeg	skel breeg	V;IND;FUT;LGSPEC1;3;PL
+breeg	bruch	V;IND;PST;PFV;2;PL
+breeg	hed breegen	V;IND;PST;RMT;PRF;3;PL
+breeg	breecht	V;IND;PRS;3;SG
+breeg	breecht	V;IND;PRS;3;SG
+breeg	breecht	V;IND;PRS;3;SG
+breeg	haa breegen	V;IND;PST;PRF;2;PL
+breeg	hed breegen	V;IND;PST;RMT;PRF;1;DU
+breeg	hed breegen	V;IND;PST;RMT;PRF;3;SG
+breeg	hed breegen	V;IND;PST;RMT;PRF;3;SG
+breeg	hed breegen	V;IND;PST;RMT;PRF;3;SG
+breeg	wel breeg	V;IND;FUT;LGSPEC2;2;DU
+breeg	breeg	V;IND;PRS;1;PL
+breeg	haa breegen	V;IND;PST;PRF;1;DU
+breeg	skal breeg	V;IND;FUT;LGSPEC1;1;SG
+breeg	breeg'em	V;IMP;PL
+breeg	tu breegen	V;NFIN
+breeg	skel breeg	V;IND;FUT;LGSPEC1;2;PL
+breeg	skel breeg	V;IND;FUT;LGSPEC1;1;DU
+breeg	bruch	V;IND;PST;PFV;3;PL
+breeg	bruch	V;IND;PST;PFV;3;SG
+breeg	bruch	V;IND;PST;PFV;3;SG
+breeg	bruch	V;IND;PST;PFV;3;SG
+breeg	breechst	V;IND;PRS;2;SG
+breeg	haa breegen	V;IND;PST;PRF;1;PL
+breeg	hee breegen	V;IND;PST;PRF;3;SG
+breeg	hee breegen	V;IND;PST;PRF;3;SG
+breeg	hee breegen	V;IND;PST;PRF;3;SG
+breeg	hed breegen	V;IND;PST;RMT;PRF;2;DU
+breeg	wel breeg	V;IND;FUT;LGSPEC2;1;PL
+breeg	wal breeg	V;IND;FUT;LGSPEC2;1;SG
+breeg	breeg	V;IND;PRS;2;DU
+breeg	wal breeg	V;IND;FUT;LGSPEC2;3;SG
+breeg	wal breeg	V;IND;FUT;LGSPEC2;3;SG
+breeg	wal breeg	V;IND;FUT;LGSPEC2;3;SG
+breeg	breeg	V;NFIN
+breeg	breeg	V;IND;PRS;3;PL
+breeg	skal breeg	V;IND;FUT;LGSPEC1;3;SG
+breeg	skal breeg	V;IND;FUT;LGSPEC1;3;SG
+breeg	skal breeg	V;IND;FUT;LGSPEC1;3;SG
+breeg	hed breegen	V;IND;PST;RMT;PRF;1;SG
+breeg	bruch	V;IND;PST;PFV;1;DU
+breeg	hed breegen	V;IND;PST;RMT;PRF;1;PL
+breeg	breeg	V;IND;PRS;1;SG
+breeg	breeg	V;IMP;SG
+breeg	heest breegen	V;IND;PST;PRF;2;SG
+breeg	skel breeg	V;IND;FUT;LGSPEC1;1;PL
+breeg	wel breeg	V;IND;FUT;LGSPEC2;3;PL
+breeg	wääl breeg	V;IND;FUT;LGSPEC2;2;SG
+breeg	haa breegen	V;IND;PST;PRF;3;PL
+breeg	haa breegen	V;IND;PST;PRF;2;DU
+breeg	bruch	V;IND;PST;PFV;2;DU
+
+breege	breege	V;IND;PRS;2;PL
+breege	breege	V;IND;PRS;1;DU
+breege	bräken	V;IND;PST;PFV;1;PL
+breege	häin bräägen	V;IND;PST;RMT;PRF;2;PL
+breege	häist bräägen	V;IND;PST;RMT;PRF;2;SG
+breege	än breeg	V.PTCP;PST
+breege	hääw bräägen	V;IND;PST;PRF;1;SG
+breege	bräk	V;IND;PST;PFV;1;SG
+breege	wårde breege	V;IND;FUT;LGSPEC1;2;DU
+breege	wårst breege	V;IND;FUT;LGSPEC1;2;SG
+breege	bräkst	V;IND;PST;PFV;2;SG
+breege	wårde breege	V;IND;FUT;LGSPEC1;3;PL
+breege	bräken	V;IND;PST;PFV;2;PL
+breege	häin bräägen	V;IND;PST;RMT;PRF;3;PL
+breege	breecht	V;IND;PRS;3;SG
+breege	breecht	V;IND;PRS;3;SG
+breege	breecht	V;IND;PRS;3;SG
+breege	hääwe bräägen	V;IND;PST;PRF;2;PL
+breege	häin bräägen	V;IND;PST;RMT;PRF;1;DU
+breege	häi bräägen	V;IND;PST;RMT;PRF;3;SG
+breege	häi bräägen	V;IND;PST;RMT;PRF;3;SG
+breege	häi bräägen	V;IND;PST;RMT;PRF;3;SG
+breege	breege	V;IND;PRS;1;PL
+breege	hääwe bräägen	V;IND;PST;PRF;1;DU
+breege	wård breege	V;IND;FUT;LGSPEC1;1;SG
+breege	breeg	V;IMP;PL
+breege	tu breegen	V;NFIN
+breege	wårde breege	V;IND;FUT;LGSPEC1;2;PL
+breege	wårde breege	V;IND;FUT;LGSPEC1;1;DU
+breege	bräken	V;IND;PST;PFV;3;PL
+breege	bräk	V;IND;PST;PFV;3;SG
+breege	bräk	V;IND;PST;PFV;3;SG
+breege	bräk	V;IND;PST;PFV;3;SG
+breege	breechst	V;IND;PRS;2;SG
+breege	hääwe bräägen	V;IND;PST;PRF;1;PL
+breege	heet bräägen	V;IND;PST;PRF;3;SG
+breege	heet bräägen	V;IND;PST;PRF;3;SG
+breege	heet bräägen	V;IND;PST;PRF;3;SG
+breege	häin bräägen	V;IND;PST;RMT;PRF;2;DU
+breege	breege	V;IND;PRS;2;DU
+breege	breege	V;NFIN
+breege	breege	V;IND;PRS;3;PL
+breege	wårt breege	V;IND;FUT;LGSPEC1;3;SG
+breege	wårt breege	V;IND;FUT;LGSPEC1;3;SG
+breege	wårt breege	V;IND;FUT;LGSPEC1;3;SG
+breege	häi bräägen	V;IND;PST;RMT;PRF;1;SG
+breege	bräken	V;IND;PST;PFV;1;DU
+breege	häin bräägen	V;IND;PST;RMT;PRF;1;PL
+breege	breeg	V;IND;PRS;1;SG
+breege	bräägen	V;IMP;SG
+breege	hääst bräägen	V;IND;PST;PRF;2;SG
+breege	wårde breege	V;IND;FUT;LGSPEC1;1;PL
+breege	hääwe bräägen	V;IND;PST;PRF;3;PL
+breege	hääwe bräägen	V;IND;PST;PRF;2;DU
+breege	bräken	V;IND;PST;PFV;2;DU
+
+bring	wel bring	V;IND;FUT;LGSPEC2;2;PL
+bring	bring	V;IND;PRS;2;PL
+bring	bring	V;IND;PRS;1;DU
+bring	broocht	V;IND;PST;PFV;1;PL
+bring	hed broocht	V;IND;PST;RMT;PRF;2;PL
+bring	hedst broocht	V;IND;PST;RMT;PRF;2;SG
+bring	broocht	V.PTCP;PST
+bring	haa broocht	V;IND;PST;PRF;1;SG
+bring	broocht	V;IND;PST;PFV;1;SG
+bring	skel bring	V;IND;FUT;LGSPEC1;2;DU
+bring	skääl bring	V;IND;FUT;LGSPEC1;2;SG
+bring	wel bring	V;IND;FUT;LGSPEC2;1;DU
+bring	broochst	V;IND;PST;PFV;2;SG
+bring	skel bring	V;IND;FUT;LGSPEC1;3;PL
+bring	broocht	V;IND;PST;PFV;2;PL
+bring	hed broocht	V;IND;PST;RMT;PRF;3;PL
+bring	brangt	V;IND;PRS;3;SG
+bring	brangt	V;IND;PRS;3;SG
+bring	brangt	V;IND;PRS;3;SG
+bring	haa broocht	V;IND;PST;PRF;2;PL
+bring	hed broocht	V;IND;PST;RMT;PRF;1;DU
+bring	hed broocht	V;IND;PST;RMT;PRF;3;SG
+bring	hed broocht	V;IND;PST;RMT;PRF;3;SG
+bring	hed broocht	V;IND;PST;RMT;PRF;3;SG
+bring	wel bring	V;IND;FUT;LGSPEC2;2;DU
+bring	bring	V;IND;PRS;1;PL
+bring	haa broocht	V;IND;PST;PRF;1;DU
+bring	skal bring	V;IND;FUT;LGSPEC1;1;SG
+bring	bring'em	V;IMP;PL
+bring	tu bringen	V;NFIN
+bring	skel bring	V;IND;FUT;LGSPEC1;2;PL
+bring	skel bring	V;IND;FUT;LGSPEC1;1;DU
+bring	broocht	V;IND;PST;PFV;3;PL
+bring	broocht	V;IND;PST;PFV;3;SG
+bring	broocht	V;IND;PST;PFV;3;SG
+bring	broocht	V;IND;PST;PFV;3;SG
+bring	brangst	V;IND;PRS;2;SG
+bring	haa broocht	V;IND;PST;PRF;1;PL
+bring	hee broocht	V;IND;PST;PRF;3;SG
+bring	hee broocht	V;IND;PST;PRF;3;SG
+bring	hee broocht	V;IND;PST;PRF;3;SG
+bring	hed broocht	V;IND;PST;RMT;PRF;2;DU
+bring	wel bring	V;IND;FUT;LGSPEC2;1;PL
+bring	wal bring	V;IND;FUT;LGSPEC2;1;SG
+bring	bring	V;IND;PRS;2;DU
+bring	wal bring	V;IND;FUT;LGSPEC2;3;SG
+bring	wal bring	V;IND;FUT;LGSPEC2;3;SG
+bring	wal bring	V;IND;FUT;LGSPEC2;3;SG
+bring	bring	V;NFIN
+bring	bring	V;IND;PRS;3;PL
+bring	skal bring	V;IND;FUT;LGSPEC1;3;SG
+bring	skal bring	V;IND;FUT;LGSPEC1;3;SG
+bring	skal bring	V;IND;FUT;LGSPEC1;3;SG
+bring	hed broocht	V;IND;PST;RMT;PRF;1;SG
+bring	broocht	V;IND;PST;PFV;1;DU
+bring	hed broocht	V;IND;PST;RMT;PRF;1;PL
+bring	bring	V;IND;PRS;1;SG
+bring	bring	V;IMP;SG
+bring	heest broocht	V;IND;PST;PRF;2;SG
+bring	skel bring	V;IND;FUT;LGSPEC1;1;PL
+bring	wel bring	V;IND;FUT;LGSPEC2;3;PL
+bring	wääl bring	V;IND;FUT;LGSPEC2;2;SG
+bring	haa broocht	V;IND;PST;PRF;3;PL
+bring	haa broocht	V;IND;PST;PRF;2;DU
+bring	broocht	V;IND;PST;PFV;2;DU
+
+bååge	bååge	V;IND;PRS;2;PL
+bååge	bååge	V;IND;PRS;1;DU
+bååge	båågeden	V;IND;PST;PFV;1;PL
+bååge	böken	V;IND;PST;PFV;1;PL
+bååge	häin båågen	V;IND;PST;RMT;PRF;2;PL
+bååge	häist båågen	V;IND;PST;RMT;PRF;2;SG
+bååge	än bååg	V.PTCP;PST
+bååge	hääw båågen	V;IND;PST;PRF;1;SG
+bååge	bååged	V;IND;PST;PFV;1;SG
+bååge	bök	V;IND;PST;PFV;1;SG
+bååge	wårde bååge	V;IND;FUT;LGSPEC1;2;DU
+bååge	wårst bååge	V;IND;FUT;LGSPEC1;2;SG
+bååge	båågedst	V;IND;PST;PFV;2;SG
+bååge	bökst	V;IND;PST;PFV;2;SG
+bååge	wårde bååge	V;IND;FUT;LGSPEC1;3;PL
+bååge	båågeden	V;IND;PST;PFV;2;PL
+bååge	böken	V;IND;PST;PFV;2;PL
+bååge	häin båågen	V;IND;PST;RMT;PRF;3;PL
+bååge	bååget	V;IND;PRS;3;SG
+bååge	bååget	V;IND;PRS;3;SG
+bååge	bååget	V;IND;PRS;3;SG
+bååge	hääwe båågen	V;IND;PST;PRF;2;PL
+bååge	häin båågen	V;IND;PST;RMT;PRF;1;DU
+bååge	häi båågen	V;IND;PST;RMT;PRF;3;SG
+bååge	häi båågen	V;IND;PST;RMT;PRF;3;SG
+bååge	häi båågen	V;IND;PST;RMT;PRF;3;SG
+bååge	bååge	V;IND;PRS;1;PL
+bååge	hääwe båågen	V;IND;PST;PRF;1;DU
+bååge	wård bååge	V;IND;FUT;LGSPEC1;1;SG
+bååge	bååg	V;IMP;PL
+bååge	tu båågen	V;NFIN
+bååge	wårde bååge	V;IND;FUT;LGSPEC1;2;PL
+bååge	wårde bååge	V;IND;FUT;LGSPEC1;1;DU
+bååge	båågeden	V;IND;PST;PFV;3;PL
+bååge	böken	V;IND;PST;PFV;3;PL
+bååge	bååged	V;IND;PST;PFV;3;SG
+bååge	bök	V;IND;PST;PFV;3;SG
+bååge	bååged	V;IND;PST;PFV;3;SG
+bååge	bök	V;IND;PST;PFV;3;SG
+bååge	bååged	V;IND;PST;PFV;3;SG
+bååge	bök	V;IND;PST;PFV;3;SG
+bååge	båågest	V;IND;PRS;2;SG
+bååge	hääwe båågen	V;IND;PST;PRF;1;PL
+bååge	heet båågen	V;IND;PST;PRF;3;SG
+bååge	heet båågen	V;IND;PST;PRF;3;SG
+bååge	heet båågen	V;IND;PST;PRF;3;SG
+bååge	häin båågen	V;IND;PST;RMT;PRF;2;DU
+bååge	bååge	V;IND;PRS;2;DU
+bååge	bååge	V;NFIN
+bååge	bååge	V;IND;PRS;3;PL
+bååge	wårt bååge	V;IND;FUT;LGSPEC1;3;SG
+bååge	wårt bååge	V;IND;FUT;LGSPEC1;3;SG
+bååge	wårt bååge	V;IND;FUT;LGSPEC1;3;SG
+bååge	häi båågen	V;IND;PST;RMT;PRF;1;SG
+bååge	båågeden	V;IND;PST;PFV;1;DU
+bååge	böken	V;IND;PST;PFV;1;DU
+bååge	häin båågen	V;IND;PST;RMT;PRF;1;PL
+bååge	bååg	V;IND;PRS;1;SG
+bååge	båågen	V;IMP;SG
+bååge	hääst båågen	V;IND;PST;PRF;2;SG
+bååge	wårde bååge	V;IND;FUT;LGSPEC1;1;PL
+bååge	hääwe båågen	V;IND;PST;PRF;3;PL
+bååge	hääwe båågen	V;IND;PST;PRF;2;DU
+bååge	båågeden	V;IND;PST;PFV;2;DU
+bååge	böken	V;IND;PST;PFV;2;DU
+
+drainke	drainke	V;IND;PRS;2;PL
+drainke	drainke	V;IND;PRS;1;DU
+drainke	drunken	V;IND;PST;PFV;1;PL
+drainke	häin drunken	V;IND;PST;RMT;PRF;2;PL
+drainke	häist drunken	V;IND;PST;RMT;PRF;2;SG
+drainke	än draink	V.PTCP;PST
+drainke	hääw drunken	V;IND;PST;PRF;1;SG
+drainke	drunk	V;IND;PST;PFV;1;SG
+drainke	wårde drainke	V;IND;FUT;LGSPEC1;2;DU
+drainke	wårst drainke	V;IND;FUT;LGSPEC1;2;SG
+drainke	drunkst	V;IND;PST;PFV;2;SG
+drainke	wårde drainke	V;IND;FUT;LGSPEC1;3;PL
+drainke	drunken	V;IND;PST;PFV;2;PL
+drainke	häin drunken	V;IND;PST;RMT;PRF;3;PL
+drainke	drainkt	V;IND;PRS;3;SG
+drainke	drainkt	V;IND;PRS;3;SG
+drainke	drainkt	V;IND;PRS;3;SG
+drainke	hääwe drunken	V;IND;PST;PRF;2;PL
+drainke	häin drunken	V;IND;PST;RMT;PRF;1;DU
+drainke	häi drunken	V;IND;PST;RMT;PRF;3;SG
+drainke	häi drunken	V;IND;PST;RMT;PRF;3;SG
+drainke	häi drunken	V;IND;PST;RMT;PRF;3;SG
+drainke	drainke	V;IND;PRS;1;PL
+drainke	hääwe drunken	V;IND;PST;PRF;1;DU
+drainke	wård drainke	V;IND;FUT;LGSPEC1;1;SG
+drainke	draink	V;IMP;PL
+drainke	tu drainken	V;NFIN
+drainke	wårde drainke	V;IND;FUT;LGSPEC1;2;PL
+drainke	wårde drainke	V;IND;FUT;LGSPEC1;1;DU
+drainke	drunken	V;IND;PST;PFV;3;PL
+drainke	drunk	V;IND;PST;PFV;3;SG
+drainke	drunk	V;IND;PST;PFV;3;SG
+drainke	drunk	V;IND;PST;PFV;3;SG
+drainke	drainkst	V;IND;PRS;2;SG
+drainke	hääwe drunken	V;IND;PST;PRF;1;PL
+drainke	heet drunken	V;IND;PST;PRF;3;SG
+drainke	heet drunken	V;IND;PST;PRF;3;SG
+drainke	heet drunken	V;IND;PST;PRF;3;SG
+drainke	häin drunken	V;IND;PST;RMT;PRF;2;DU
+drainke	drainke	V;IND;PRS;2;DU
+drainke	drainke	V;NFIN
+drainke	drainke	V;IND;PRS;3;PL
+drainke	wårt drainke	V;IND;FUT;LGSPEC1;3;SG
+drainke	wårt drainke	V;IND;FUT;LGSPEC1;3;SG
+drainke	wårt drainke	V;IND;FUT;LGSPEC1;3;SG
+drainke	häi drunken	V;IND;PST;RMT;PRF;1;SG
+drainke	drunken	V;IND;PST;PFV;1;DU
+drainke	häin drunken	V;IND;PST;RMT;PRF;1;PL
+drainke	draink	V;IND;PRS;1;SG
+drainke	drunken	V;IMP;SG
+drainke	hääst drunken	V;IND;PST;PRF;2;SG
+drainke	wårde drainke	V;IND;FUT;LGSPEC1;1;PL
+drainke	hääwe drunken	V;IND;PST;PRF;3;PL
+drainke	hääwe drunken	V;IND;PST;PRF;2;DU
+drainke	drunken	V;IND;PST;PFV;2;DU
+
+drank	wel drank	V;IND;FUT;LGSPEC2;2;PL
+drank	drank	V;IND;PRS;2;PL
+drank	drank	V;IND;PRS;1;DU
+drank	droonk	V;IND;PST;PFV;1;PL
+drank	hed dronken	V;IND;PST;RMT;PRF;2;PL
+drank	hedst dronken	V;IND;PST;RMT;PRF;2;SG
+drank	dronken	V.PTCP;PST
+drank	haa dronken	V;IND;PST;PRF;1;SG
+drank	droonk	V;IND;PST;PFV;1;SG
+drank	skel drank	V;IND;FUT;LGSPEC1;2;DU
+drank	skääl drank	V;IND;FUT;LGSPEC1;2;SG
+drank	wel drank	V;IND;FUT;LGSPEC2;1;DU
+drank	droonkst	V;IND;PST;PFV;2;SG
+drank	skel drank	V;IND;FUT;LGSPEC1;3;PL
+drank	droonk	V;IND;PST;PFV;2;PL
+drank	hed dronken	V;IND;PST;RMT;PRF;3;PL
+drank	drankt	V;IND;PRS;3;SG
+drank	drankt	V;IND;PRS;3;SG
+drank	drankt	V;IND;PRS;3;SG
+drank	haa dronken	V;IND;PST;PRF;2;PL
+drank	hed dronken	V;IND;PST;RMT;PRF;1;DU
+drank	hed dronken	V;IND;PST;RMT;PRF;3;SG
+drank	hed dronken	V;IND;PST;RMT;PRF;3;SG
+drank	hed dronken	V;IND;PST;RMT;PRF;3;SG
+drank	wel drank	V;IND;FUT;LGSPEC2;2;DU
+drank	drank	V;IND;PRS;1;PL
+drank	haa dronken	V;IND;PST;PRF;1;DU
+drank	skal drank	V;IND;FUT;LGSPEC1;1;SG
+drank	drank'em	V;IMP;PL
+drank	tu dranken	V;NFIN
+drank	skel drank	V;IND;FUT;LGSPEC1;2;PL
+drank	skel drank	V;IND;FUT;LGSPEC1;1;DU
+drank	droonk	V;IND;PST;PFV;3;PL
+drank	droonk	V;IND;PST;PFV;3;SG
+drank	droonk	V;IND;PST;PFV;3;SG
+drank	droonk	V;IND;PST;PFV;3;SG
+drank	drankst	V;IND;PRS;2;SG
+drank	haa dronken	V;IND;PST;PRF;1;PL
+drank	hee dronken	V;IND;PST;PRF;3;SG
+drank	hee dronken	V;IND;PST;PRF;3;SG
+drank	hee dronken	V;IND;PST;PRF;3;SG
+drank	hed dronken	V;IND;PST;RMT;PRF;2;DU
+drank	wel drank	V;IND;FUT;LGSPEC2;1;PL
+drank	wal drank	V;IND;FUT;LGSPEC2;1;SG
+drank	drank	V;IND;PRS;2;DU
+drank	wal drank	V;IND;FUT;LGSPEC2;3;SG
+drank	wal drank	V;IND;FUT;LGSPEC2;3;SG
+drank	wal drank	V;IND;FUT;LGSPEC2;3;SG
+drank	drank	V;NFIN
+drank	drank	V;IND;PRS;3;PL
+drank	skal drank	V;IND;FUT;LGSPEC1;3;SG
+drank	skal drank	V;IND;FUT;LGSPEC1;3;SG
+drank	skal drank	V;IND;FUT;LGSPEC1;3;SG
+drank	hed dronken	V;IND;PST;RMT;PRF;1;SG
+drank	droonk	V;IND;PST;PFV;1;DU
+drank	hed dronken	V;IND;PST;RMT;PRF;1;PL
+drank	drank	V;IND;PRS;1;SG
+drank	drank	V;IMP;SG
+drank	heest dronken	V;IND;PST;PRF;2;SG
+drank	skel drank	V;IND;FUT;LGSPEC1;1;PL
+drank	wel drank	V;IND;FUT;LGSPEC2;3;PL
+drank	wääl drank	V;IND;FUT;LGSPEC2;2;SG
+drank	haa dronken	V;IND;PST;PRF;3;PL
+drank	haa dronken	V;IND;PST;PRF;2;DU
+drank	droonk	V;IND;PST;PFV;2;DU
+
+dreeg	wel dreeg	V;IND;FUT;LGSPEC2;2;PL
+dreeg	dreeg	V;IND;PRS;2;PL
+dreeg	dreeg	V;IND;PRS;1;DU
+dreeg	druch	V;IND;PST;PFV;1;PL
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;2;PL
+dreeg	hedst draanjen	V;IND;PST;RMT;PRF;2;SG
+dreeg	draanjen	V.PTCP;PST
+dreeg	haa draanjen	V;IND;PST;PRF;1;SG
+dreeg	druch	V;IND;PST;PFV;1;SG
+dreeg	skel dreeg	V;IND;FUT;LGSPEC1;2;DU
+dreeg	skääl dreeg	V;IND;FUT;LGSPEC1;2;SG
+dreeg	wel dreeg	V;IND;FUT;LGSPEC2;1;DU
+dreeg	druchst	V;IND;PST;PFV;2;SG
+dreeg	skel dreeg	V;IND;FUT;LGSPEC1;3;PL
+dreeg	druch	V;IND;PST;PFV;2;PL
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;3;PL
+dreeg	drait	V;IND;PRS;3;SG
+dreeg	drait	V;IND;PRS;3;SG
+dreeg	drait	V;IND;PRS;3;SG
+dreeg	haa draanjen	V;IND;PST;PRF;2;PL
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;1;DU
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;3;SG
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;3;SG
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;3;SG
+dreeg	wel dreeg	V;IND;FUT;LGSPEC2;2;DU
+dreeg	dreeg	V;IND;PRS;1;PL
+dreeg	haa draanjen	V;IND;PST;PRF;1;DU
+dreeg	skal dreeg	V;IND;FUT;LGSPEC1;1;SG
+dreeg	dreeg'em	V;IMP;PL
+dreeg	tu dreegen	V;NFIN
+dreeg	skel dreeg	V;IND;FUT;LGSPEC1;2;PL
+dreeg	skel dreeg	V;IND;FUT;LGSPEC1;1;DU
+dreeg	druch	V;IND;PST;PFV;3;PL
+dreeg	druch	V;IND;PST;PFV;3;SG
+dreeg	druch	V;IND;PST;PFV;3;SG
+dreeg	druch	V;IND;PST;PFV;3;SG
+dreeg	draist	V;IND;PRS;2;SG
+dreeg	haa draanjen	V;IND;PST;PRF;1;PL
+dreeg	hee draanjen	V;IND;PST;PRF;3;SG
+dreeg	hee draanjen	V;IND;PST;PRF;3;SG
+dreeg	hee draanjen	V;IND;PST;PRF;3;SG
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;2;DU
+dreeg	wel dreeg	V;IND;FUT;LGSPEC2;1;PL
+dreeg	wal dreeg	V;IND;FUT;LGSPEC2;1;SG
+dreeg	dreeg	V;IND;PRS;2;DU
+dreeg	wal dreeg	V;IND;FUT;LGSPEC2;3;SG
+dreeg	wal dreeg	V;IND;FUT;LGSPEC2;3;SG
+dreeg	wal dreeg	V;IND;FUT;LGSPEC2;3;SG
+dreeg	dreeg	V;NFIN
+dreeg	dreeg	V;IND;PRS;3;PL
+dreeg	skal dreeg	V;IND;FUT;LGSPEC1;3;SG
+dreeg	skal dreeg	V;IND;FUT;LGSPEC1;3;SG
+dreeg	skal dreeg	V;IND;FUT;LGSPEC1;3;SG
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;1;SG
+dreeg	druch	V;IND;PST;PFV;1;DU
+dreeg	hed draanjen	V;IND;PST;RMT;PRF;1;PL
+dreeg	dreeg	V;IND;PRS;1;SG
+dreeg	dreeg	V;IMP;SG
+dreeg	heest draanjen	V;IND;PST;PRF;2;SG
+dreeg	skel dreeg	V;IND;FUT;LGSPEC1;1;PL
+dreeg	wel dreeg	V;IND;FUT;LGSPEC2;3;PL
+dreeg	wääl dreeg	V;IND;FUT;LGSPEC2;2;SG
+dreeg	haa draanjen	V;IND;PST;PRF;3;PL
+dreeg	haa draanjen	V;IND;PST;PRF;2;DU
+dreeg	druch	V;IND;PST;PFV;2;DU
+
+dreege	dreege	V;IND;PRS;2;PL
+dreege	dreege	V;IND;PRS;1;DU
+dreege	dröichen	V;IND;PST;PFV;1;PL
+dreege	häin dräägen	V;IND;PST;RMT;PRF;2;PL
+dreege	häist dräägen	V;IND;PST;RMT;PRF;2;SG
+dreege	än dreeg	V.PTCP;PST
+dreege	hääw dräägen	V;IND;PST;PRF;1;SG
+dreege	dröich	V;IND;PST;PFV;1;SG
+dreege	wårde dreege	V;IND;FUT;LGSPEC1;2;DU
+dreege	wårst dreege	V;IND;FUT;LGSPEC1;2;SG
+dreege	dröichst	V;IND;PST;PFV;2;SG
+dreege	wårde dreege	V;IND;FUT;LGSPEC1;3;PL
+dreege	dröichen	V;IND;PST;PFV;2;PL
+dreege	häin dräägen	V;IND;PST;RMT;PRF;3;PL
+dreege	dreecht	V;IND;PRS;3;SG
+dreege	dreecht	V;IND;PRS;3;SG
+dreege	dreecht	V;IND;PRS;3;SG
+dreege	hääwe dräägen	V;IND;PST;PRF;2;PL
+dreege	häin dräägen	V;IND;PST;RMT;PRF;1;DU
+dreege	häi dräägen	V;IND;PST;RMT;PRF;3;SG
+dreege	häi dräägen	V;IND;PST;RMT;PRF;3;SG
+dreege	häi dräägen	V;IND;PST;RMT;PRF;3;SG
+dreege	dreege	V;IND;PRS;1;PL
+dreege	hääwe dräägen	V;IND;PST;PRF;1;DU
+dreege	wård dreege	V;IND;FUT;LGSPEC1;1;SG
+dreege	dreeg	V;IMP;PL
+dreege	tu dreegen	V;NFIN
+dreege	wårde dreege	V;IND;FUT;LGSPEC1;2;PL
+dreege	wårde dreege	V;IND;FUT;LGSPEC1;1;DU
+dreege	dröichen	V;IND;PST;PFV;3;PL
+dreege	dröich	V;IND;PST;PFV;3;SG
+dreege	dröich	V;IND;PST;PFV;3;SG
+dreege	dröich	V;IND;PST;PFV;3;SG
+dreege	dreechst	V;IND;PRS;2;SG
+dreege	hääwe dräägen	V;IND;PST;PRF;1;PL
+dreege	heet dräägen	V;IND;PST;PRF;3;SG
+dreege	heet dräägen	V;IND;PST;PRF;3;SG
+dreege	heet dräägen	V;IND;PST;PRF;3;SG
+dreege	häin dräägen	V;IND;PST;RMT;PRF;2;DU
+dreege	dreege	V;IND;PRS;2;DU
+dreege	dreege	V;NFIN
+dreege	dreege	V;IND;PRS;3;PL
+dreege	wårt dreege	V;IND;FUT;LGSPEC1;3;SG
+dreege	wårt dreege	V;IND;FUT;LGSPEC1;3;SG
+dreege	wårt dreege	V;IND;FUT;LGSPEC1;3;SG
+dreege	häi dräägen	V;IND;PST;RMT;PRF;1;SG
+dreege	dröichen	V;IND;PST;PFV;1;DU
+dreege	häin dräägen	V;IND;PST;RMT;PRF;1;PL
+dreege	dreeg	V;IND;PRS;1;SG
+dreege	dräägen	V;IMP;SG
+dreege	hääst dräägen	V;IND;PST;PRF;2;SG
+dreege	wårde dreege	V;IND;FUT;LGSPEC1;1;PL
+dreege	hääwe dräägen	V;IND;PST;PRF;3;PL
+dreege	hääwe dräägen	V;IND;PST;PRF;2;DU
+dreege	dröichen	V;IND;PST;PFV;2;DU
+
+du	wel du	V;IND;FUT;LGSPEC2;2;PL
+du	du	V;IND;PRS;2;PL
+du	du	V;IND;PRS;1;DU
+du	ded	V;IND;PST;PFV;1;PL
+du	diad	V;IND;PST;PFV;1;PL
+du	hed den	V;IND;PST;RMT;PRF;2;PL
+du	hedst den	V;IND;PST;RMT;PRF;2;SG
+du	den	V.PTCP;PST
+du	haa den	V;IND;PST;PRF;1;SG
+du	ded	V;IND;PST;PFV;1;SG
+du	diad	V;IND;PST;PFV;1;SG
+du	skel du	V;IND;FUT;LGSPEC1;2;DU
+du	skääl du	V;IND;FUT;LGSPEC1;2;SG
+du	wel du	V;IND;FUT;LGSPEC2;1;DU
+du	dedst	V;IND;PST;PFV;2;SG
+du	diadst	V;IND;PST;PFV;2;SG
+du	skel du	V;IND;FUT;LGSPEC1;3;PL
+du	ded	V;IND;PST;PFV;2;PL
+du	diad	V;IND;PST;PFV;2;PL
+du	hed den	V;IND;PST;RMT;PRF;3;PL
+du	dee	V;IND;PRS;3;SG
+du	dee	V;IND;PRS;3;SG
+du	dee	V;IND;PRS;3;SG
+du	haa den	V;IND;PST;PRF;2;PL
+du	hed den	V;IND;PST;RMT;PRF;1;DU
+du	hed den	V;IND;PST;RMT;PRF;3;SG
+du	hed den	V;IND;PST;RMT;PRF;3;SG
+du	hed den	V;IND;PST;RMT;PRF;3;SG
+du	wel du	V;IND;FUT;LGSPEC2;2;DU
+du	du	V;IND;PRS;1;PL
+du	haa den	V;IND;PST;PRF;1;DU
+du	skal du	V;IND;FUT;LGSPEC1;1;SG
+du	du'em	V;IMP;PL
+du	tu duen	V;NFIN
+du	skel du	V;IND;FUT;LGSPEC1;2;PL
+du	skel du	V;IND;FUT;LGSPEC1;1;DU
+du	ded	V;IND;PST;PFV;3;PL
+du	diad	V;IND;PST;PFV;3;PL
+du	ded	V;IND;PST;PFV;3;SG
+du	diad	V;IND;PST;PFV;3;SG
+du	ded	V;IND;PST;PFV;3;SG
+du	diad	V;IND;PST;PFV;3;SG
+du	ded	V;IND;PST;PFV;3;SG
+du	diad	V;IND;PST;PFV;3;SG
+du	deest	V;IND;PRS;2;SG
+du	haa den	V;IND;PST;PRF;1;PL
+du	hee den	V;IND;PST;PRF;3;SG
+du	hee den	V;IND;PST;PRF;3;SG
+du	hee den	V;IND;PST;PRF;3;SG
+du	hed den	V;IND;PST;RMT;PRF;2;DU
+du	wel du	V;IND;FUT;LGSPEC2;1;PL
+du	wal du	V;IND;FUT;LGSPEC2;1;SG
+du	du	V;IND;PRS;2;DU
+du	wal du	V;IND;FUT;LGSPEC2;3;SG
+du	wal du	V;IND;FUT;LGSPEC2;3;SG
+du	wal du	V;IND;FUT;LGSPEC2;3;SG
+du	du	V;NFIN
+du	du	V;IND;PRS;3;PL
+du	skal du	V;IND;FUT;LGSPEC1;3;SG
+du	skal du	V;IND;FUT;LGSPEC1;3;SG
+du	skal du	V;IND;FUT;LGSPEC1;3;SG
+du	hed den	V;IND;PST;RMT;PRF;1;SG
+du	ded	V;IND;PST;PFV;1;DU
+du	diad	V;IND;PST;PFV;1;DU
+du	hed den	V;IND;PST;RMT;PRF;1;PL
+du	du	V;IND;PRS;1;SG
+du	du	V;IMP;SG
+du	heest den	V;IND;PST;PRF;2;SG
+du	skel du	V;IND;FUT;LGSPEC1;1;PL
+du	wel du	V;IND;FUT;LGSPEC2;3;PL
+du	wääl du	V;IND;FUT;LGSPEC2;2;SG
+du	haa den	V;IND;PST;PRF;3;PL
+du	haa den	V;IND;PST;PRF;2;DU
+du	ded	V;IND;PST;PFV;2;DU
+du	diad	V;IND;PST;PFV;2;DU
+
+düünj	düünj	V;IND;PRS;2;PL
+düünj	düünj	V;IND;PRS;1;DU
+düünj	däin	V;IND;PST;PFV;1;PL
+düünj	häin dänj	V;IND;PST;RMT;PRF;2;PL
+düünj	häist dänj	V;IND;PST;RMT;PRF;2;SG
+düünj	än dou	V.PTCP;PST
+düünj	hääw dänj	V;IND;PST;PRF;1;SG
+düünj	däi	V;IND;PST;PFV;1;SG
+düünj	wårde düünj	V;IND;FUT;LGSPEC1;2;DU
+düünj	wårst düünj	V;IND;FUT;LGSPEC1;2;SG
+düünj	däist	V;IND;PST;PFV;2;SG
+düünj	wårde düünj	V;IND;FUT;LGSPEC1;3;PL
+düünj	däin	V;IND;PST;PFV;2;PL
+düünj	häin dänj	V;IND;PST;RMT;PRF;3;PL
+düünj	deet	V;IND;PRS;3;SG
+düünj	deet	V;IND;PRS;3;SG
+düünj	deet	V;IND;PRS;3;SG
+düünj	hääwe dänj	V;IND;PST;PRF;2;PL
+düünj	häin dänj	V;IND;PST;RMT;PRF;1;DU
+düünj	häi dänj	V;IND;PST;RMT;PRF;3;SG
+düünj	häi dänj	V;IND;PST;RMT;PRF;3;SG
+düünj	häi dänj	V;IND;PST;RMT;PRF;3;SG
+düünj	düünj	V;IND;PRS;1;PL
+düünj	hääwe dänj	V;IND;PST;PRF;1;DU
+düünj	wård düünj	V;IND;FUT;LGSPEC1;1;SG
+düünj	dou	V;IMP;PL
+düünj	tu douen	V;NFIN
+düünj	wårde düünj	V;IND;FUT;LGSPEC1;2;PL
+düünj	wårde düünj	V;IND;FUT;LGSPEC1;1;DU
+düünj	däin	V;IND;PST;PFV;3;PL
+düünj	däi	V;IND;PST;PFV;3;SG
+düünj	däi	V;IND;PST;PFV;3;SG
+düünj	däi	V;IND;PST;PFV;3;SG
+düünj	dääst	V;IND;PRS;2;SG
+düünj	hääwe dänj	V;IND;PST;PRF;1;PL
+düünj	heet dänj	V;IND;PST;PRF;3;SG
+düünj	heet dänj	V;IND;PST;PRF;3;SG
+düünj	heet dänj	V;IND;PST;PRF;3;SG
+düünj	häin dänj	V;IND;PST;RMT;PRF;2;DU
+düünj	düünj	V;IND;PRS;2;DU
+düünj	düünj	V;NFIN
+düünj	düünj	V;IND;PRS;3;PL
+düünj	wårt düünj	V;IND;FUT;LGSPEC1;3;SG
+düünj	wårt düünj	V;IND;FUT;LGSPEC1;3;SG
+düünj	wårt düünj	V;IND;FUT;LGSPEC1;3;SG
+düünj	häi dänj	V;IND;PST;RMT;PRF;1;SG
+düünj	däin	V;IND;PST;PFV;1;DU
+düünj	häin dänj	V;IND;PST;RMT;PRF;1;PL
+düünj	dou	V;IND;PRS;1;SG
+düünj	dänj	V;IMP;SG
+düünj	hääst dänj	V;IND;PST;PRF;2;SG
+düünj	wårde düünj	V;IND;FUT;LGSPEC1;1;PL
+düünj	hääwe dänj	V;IND;PST;PRF;3;PL
+düünj	hääwe dänj	V;IND;PST;PRF;2;DU
+düünj	däin	V;IND;PST;PFV;2;DU
+
+faal	wel faal	V;IND;FUT;LGSPEC2;2;PL
+faal	faal	V;IND;PRS;2;PL
+faal	faal	V;IND;PRS;1;DU
+faal	fool	V;IND;PST;PFV;1;PL
+faal	wiar feelen	V;IND;PST;RMT;PRF;2;PL
+faal	wiarst feelen	V;IND;PST;RMT;PRF;2;SG
+faal	feelen	V.PTCP;PST
+faal	san feelen	V;IND;PST;PRF;1;SG
+faal	fool	V;IND;PST;PFV;1;SG
+faal	skel faal	V;IND;FUT;LGSPEC1;2;DU
+faal	skääl faal	V;IND;FUT;LGSPEC1;2;SG
+faal	wel faal	V;IND;FUT;LGSPEC2;1;DU
+faal	foolst	V;IND;PST;PFV;2;SG
+faal	skel faal	V;IND;FUT;LGSPEC1;3;PL
+faal	fool	V;IND;PST;PFV;2;PL
+faal	wiar feelen	V;IND;PST;RMT;PRF;3;PL
+faal	fäält	V;IND;PRS;3;SG
+faal	fäält	V;IND;PRS;3;SG
+faal	fäält	V;IND;PRS;3;SG
+faal	san feelen	V;IND;PST;PRF;2;PL
+faal	wiar feelen	V;IND;PST;RMT;PRF;1;DU
+faal	wiar feelen	V;IND;PST;RMT;PRF;3;SG
+faal	wiar feelen	V;IND;PST;RMT;PRF;3;SG
+faal	wiar feelen	V;IND;PST;RMT;PRF;3;SG
+faal	wel faal	V;IND;FUT;LGSPEC2;2;DU
+faal	faal	V;IND;PRS;1;PL
+faal	san feelen	V;IND;PST;PRF;1;DU
+faal	skal faal	V;IND;FUT;LGSPEC1;1;SG
+faal	faal'em	V;IMP;PL
+faal	tu faalen	V;NFIN
+faal	skel faal	V;IND;FUT;LGSPEC1;2;PL
+faal	skel faal	V;IND;FUT;LGSPEC1;1;DU
+faal	fool	V;IND;PST;PFV;3;PL
+faal	fool	V;IND;PST;PFV;3;SG
+faal	fool	V;IND;PST;PFV;3;SG
+faal	fool	V;IND;PST;PFV;3;SG
+faal	fäälst	V;IND;PRS;2;SG
+faal	san feelen	V;IND;PST;PRF;1;PL
+faal	as feelen	V;IND;PST;PRF;3;SG
+faal	as feelen	V;IND;PST;PRF;3;SG
+faal	as feelen	V;IND;PST;PRF;3;SG
+faal	wiar feelen	V;IND;PST;RMT;PRF;2;DU
+faal	wel faal	V;IND;FUT;LGSPEC2;1;PL
+faal	wal faal	V;IND;FUT;LGSPEC2;1;SG
+faal	faal	V;IND;PRS;2;DU
+faal	wal faal	V;IND;FUT;LGSPEC2;3;SG
+faal	wal faal	V;IND;FUT;LGSPEC2;3;SG
+faal	wal faal	V;IND;FUT;LGSPEC2;3;SG
+faal	faal	V;NFIN
+faal	faal	V;IND;PRS;3;PL
+faal	skal faal	V;IND;FUT;LGSPEC1;3;SG
+faal	skal faal	V;IND;FUT;LGSPEC1;3;SG
+faal	skal faal	V;IND;FUT;LGSPEC1;3;SG
+faal	wiar feelen	V;IND;PST;RMT;PRF;1;SG
+faal	fool	V;IND;PST;PFV;1;DU
+faal	wiar feelen	V;IND;PST;RMT;PRF;1;PL
+faal	faal	V;IND;PRS;1;SG
+faal	faal	V;IMP;SG
+faal	beest feelen	V;IND;PST;PRF;2;SG
+faal	skel faal	V;IND;FUT;LGSPEC1;1;PL
+faal	wel faal	V;IND;FUT;LGSPEC2;3;PL
+faal	wääl faal	V;IND;FUT;LGSPEC2;2;SG
+faal	san feelen	V;IND;PST;PRF;3;PL
+faal	san feelen	V;IND;PST;PRF;2;DU
+faal	fool	V;IND;PST;PFV;2;DU
+
+
+

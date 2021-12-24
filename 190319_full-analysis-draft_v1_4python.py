@@ -1,10 +1,46 @@
 from typing import Dict
 import pandas as pd
+import os
 
 
-# TODO
+# Path to the data folder
+DATA_DIR = '01_data'
+
+
+def progress_bar(iteration, total, decimals=1, length=100, fill='#', prefix='', suffix='', print_end=''):
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filled_len = int(length * iteration // total)
+    bar = fill * filled_len + '-' * (length - filled_len)
+    print(f'\r{prefix}\t\t|{bar}| {percent}% {suffix}', end=print_end)
+
+
 def read():
-    pass
+    # Count number of text files for progress bar
+    num_files = 0
+    for filename in os.listdir(DATA_DIR):
+        if filename.endswith('.txt'):
+            num_files += 1
+
+    # Reading from files in data directory
+    data = {}
+    counter = 0
+    progress_bar(0, num_files)
+    for filename in os.listdir(DATA_DIR):
+        # Read only .txt files
+        if filename.endswith('.txt'):
+            counter += 1
+            progress_bar(counter, num_files, prefix=filename)
+            try:
+                df = pd.read_csv(os.path.join(DATA_DIR, filename), sep='\t', header=None)
+                # Labelling the columns
+                df.rename(columns={0: "V1", 1: "V2", 2: "V3"}, inplace=True)
+                data[filename] = df
+            # Exclude empty files; these cause errors with read_csv()
+            # Checking for non-zero size didn't seem to work, so this is the next best thing
+            except pd.errors.EmptyDataError:
+                pass
+    print()
+    return data
 
 
 def separate_word_classes(dataset: Dict[str, pd.DataFrame]):
@@ -92,3 +128,8 @@ def clean(dataset: Dict[str, pd.DataFrame], dataset_n: Dict[str, pd.DataFrame]):
 
     dataset_n['rus.txt'] = pd.concat([temp_anim, temp_inan, temp_other])
     dataset_n['rus.txt'].sort_values(by='V1', inplace=True)
+
+
+data = read()
+data_n, data_v, data_a = separate_word_classes(data)
+clean(data, data_n)
